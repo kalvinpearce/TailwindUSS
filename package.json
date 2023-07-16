@@ -1,0 +1,24 @@
+{
+  "name": "com.kalvinpearce.tailwinduss",
+  "version": "0.9.0",
+  "displayName": "TailwindUSS",
+  "description": "TailwindCSS for Unity UI Toolkit",
+  "unity": "2022.1",
+  "documentationUrl": "https://github.com/kalvinpearce/TailwindUSS",
+  "changelogUrl": "https://github.com/kalvinpearce/TailwindUSS",
+  "licensesUrl": "https://github.com/kalvinpearce/TailwindUSS",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "keywords": [
+    "UI",
+    "Toolkit",
+    "Tailwind",
+    "CSS"
+  ],
+  "author": {
+    "name": "Kalvin Pearce",
+    "email": "kalvinpearce@gmail.com",
+    "url": "https://kalvin.cc/"
+  }
+}
