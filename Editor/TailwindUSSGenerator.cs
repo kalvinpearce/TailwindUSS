@@ -10,6 +10,7 @@ namespace TailwindUSS
         {
             public string name;
             public string css;
+            public string selectors;
         }
 
         [UnityEditor.MenuItem("Assets/TailwindUSS/Generate")]
@@ -40,7 +41,10 @@ namespace TailwindUSS
             allProps.AddRange(GetSpaceProps());
 
             /* === Backgrounds ===*/
-            allProps.AddRange(GetBackgroundProps());
+            allProps.AddRange(GetColors("bg", "background-color"));
+            allProps.AddRange(GetBackgroundPositionProps());
+            allProps.AddRange(GetBackgroundRepeatProps());
+            allProps.AddRange(GetBackgroundSizeProps());
 
             /* === Transforms ===*/
             allProps.AddRange(GetTransformProps());
@@ -97,53 +101,52 @@ namespace TailwindUSS
             enumWriter.WriteLine("    public enum Tw");
             enumWriter.WriteLine("    {");
 
-
             // Normal
             foreach (var prop in allProps)
             {
-                ussWriter.WriteLine($".{prop.name} {{ {prop.css} }}");
+                ussWriter.WriteLine($".{prop.name} {prop.selectors} {{ {prop.css} }}");
                 var enumName = Utils.ClassNameToTwEnum(prop.name);
                 enumWriter.WriteLine($"        {enumName},");
             }
             // Hover
             foreach (var prop in allProps)
             {
-                ussWriter.WriteLine($".hover-{prop.name}:hover {{ {prop.css} }}");
+                ussWriter.WriteLine($".hover-{prop.name}:hover {prop.selectors} {{ {prop.css} }}");
                 var enumName = Utils.ClassNameToTwEnum($"hover-{prop.name}");
                 enumWriter.WriteLine($"        {enumName},");
             }
             // Focus
             foreach (var prop in allProps)
             {
-                ussWriter.WriteLine($".focus-{prop.name}:focus {{ {prop.css} }}");
+                ussWriter.WriteLine($".focus-{prop.name}:focus {prop.selectors} {{ {prop.css} }}");
                 var enumName = Utils.ClassNameToTwEnum($"focus-{prop.name}");
                 enumWriter.WriteLine($"        {enumName},");
             }
             // Active
             foreach (var prop in allProps)
             {
-                ussWriter.WriteLine($".active-{prop.name}:active {{ {prop.css} }}");
+                ussWriter.WriteLine($".active-{prop.name}:active {prop.selectors} {{ {prop.css} }}");
                 var enumName = Utils.ClassNameToTwEnum($"active-{prop.name}");
                 enumWriter.WriteLine($"        {enumName},");
             }
             //Inactive
             foreach (var prop in allProps)
             {
-                ussWriter.WriteLine($".inactive-{prop.name}:inactive {{ {prop.css} }}");
+                ussWriter.WriteLine($".inactive-{prop.name}:inactive {prop.selectors} {{ {prop.css} }}");
                 var enumName = Utils.ClassNameToTwEnum($"inactive-{prop.name}");
                 enumWriter.WriteLine($"        {enumName},");
             }
             // Disabled
             foreach (var prop in allProps)
             {
-                ussWriter.WriteLine($".disabled-{prop.name}:disabled {{ {prop.css} }}");
+                ussWriter.WriteLine($".disabled-{prop.name}:disabled {prop.selectors} {{ {prop.css} }}");
                 var enumName = Utils.ClassNameToTwEnum($"disabled-{prop.name}");
                 enumWriter.WriteLine($"        {enumName},");
             }
             // Checked
             foreach (var prop in allProps)
             {
-                ussWriter.WriteLine($".checked-{prop.name}:checked {{ {prop.css} }}");
+                ussWriter.WriteLine($".checked-{prop.name}:checked {prop.selectors} {{ {prop.css} }}");
                 var enumName = Utils.ClassNameToTwEnum($"checked-{prop.name}");
                 enumWriter.WriteLine($"        {enumName},");
             }
@@ -252,16 +255,47 @@ namespace TailwindUSS
         private static List<Prop> GetSpaceProps()
         {
             var props = new List<Prop>();
-            props.AddRange(GetSizes("space-x", new string[] { "margin-left", "margin-right" }, true, " > *"));
-            props.AddRange(GetSizes("space-y", new string[] { "margin-top", "margin-bottom" }, true, " > *"));
+            props.AddRange(GetSizes("space-x", new string[] { "margin-right" }, true, selectors: "> *"));
+            props.AddRange(GetSizes("space-y", new string[] { "margin-bottom" }, true, selectors: "> *"));
+            props.AddRange(GetSizes("space-x-reverse", new string[] { "margin-left" }, true, selectors: "> *"));
+            props.AddRange(GetSizes("space-y-reverse", new string[] { "margin-top" }, true, selectors: "> *"));
             return props;
         }
 
         /* === Background ===*/
-        private static List<Prop> GetBackgroundProps()
+        private static List<Prop> GetBackgroundPositionProps()
         {
             var props = new List<Prop>();
-            props.AddRange(GetColors("bg", "background-color"));
+            props.Add(new Prop { name = "bg-bottom", css = "background-position: bottom;" });
+            props.Add(new Prop { name = "bg-center", css = "background-position: center;" });
+            props.Add(new Prop { name = "bg-left", css = "background-position: left;" });
+            props.Add(new Prop { name = "bg-left-bottom", css = "background-position: left bottom;" });
+            props.Add(new Prop { name = "bg-left-top", css = "background-position: left top;" });
+            props.Add(new Prop { name = "bg-right", css = "background-position: right;" });
+            props.Add(new Prop { name = "bg-right-bottom", css = "background-position: right bottom;" });
+            props.Add(new Prop { name = "bg-right-top", css = "background-position: right top;" });
+            props.Add(new Prop { name = "bg-top", css = "background-position: top;" });
+            return props;
+        }
+
+        private static List<Prop> GetBackgroundRepeatProps()
+        {
+            var props = new List<Prop>();
+            props.Add(new Prop { name = "bg-repeat", css = "background-repeat: repeat;" });
+            props.Add(new Prop { name = "bg-no-repeat", css = "background-repeat: no-repeat;" });
+            props.Add(new Prop { name = "bg-repeat-x", css = "background-repeat: repeat-x;" });
+            props.Add(new Prop { name = "bg-repeat-y", css = "background-repeat: repeat-y;" });
+            props.Add(new Prop { name = "bg-repeat-round", css = "background-repeat: round;" });
+            props.Add(new Prop { name = "bg-repeat-space", css = "background-repeat: space;" });
+            return props;
+        }
+
+        private static List<Prop> GetBackgroundSizeProps()
+        {
+            var props = new List<Prop>();
+            props.Add(new Prop { name = "bg-auto", css = "background-size: auto;" });
+            props.Add(new Prop { name = "bg-cover", css = "background-size: cover;" });
+            props.Add(new Prop { name = "bg-contain", css = "background-size: contain;" });
             return props;
         }
 
@@ -816,7 +850,7 @@ namespace TailwindUSS
         {
             return GetSizes(twTag, new string[] { cssProp }, includeNegative);
         }
-        private static List<Prop> GetSizes(string twTag, string[] cssProps, bool includeNegative = false, string nameSuffix = "")
+        private static List<Prop> GetSizes(string twTag, string[] cssProps, bool includeNegative = false, string selectors = "")
         {
             var sizes = new List<Prop>();
 
@@ -824,8 +858,9 @@ namespace TailwindUSS
             {
                 sizes.Add(new Prop
                 {
-                    name = $"{twTag}-{size.name}{nameSuffix}",
-                    css = cssProps.Select(x => $"{x}: {size.css};").Aggregate((x, y) => $"{x} {y}")
+                    name = $"{twTag}-{size.name}",
+                    css = cssProps.Select(x => $"{x}: {size.css};").Aggregate((x, y) => $"{x} {y}"),
+                    selectors = selectors
                 });
             }
 
@@ -836,7 +871,8 @@ namespace TailwindUSS
                     sizes.Add(new Prop
                     {
                         name = $"-{twTag}-{size.name}",
-                        css = cssProps.Select(x => $"{x}: -{size.css};").Aggregate((x, y) => $"{x} {y}")
+                        css = cssProps.Select(x => $"{x}: -{size.css};").Aggregate((x, y) => $"{x} {y}"),
+                        selectors = selectors
                     });
                 }
             }
