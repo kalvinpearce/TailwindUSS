@@ -1,0 +1,2989 @@
+/*
+ vim: filetype=css
+ This file is auto-generated. Do not edit it directly.
+*/
+.disabled_flex:disabled  { display: flex; }
+.disabled_hidden:disabled  { display: none; }
+.disabled_overflow-hidden:disabled  { overflow: hidden; }
+.disabled_overflow-visible:disabled  { overflow: visible; }
+.disabled_overflow-scroll:disabled  { overflow: scroll; }
+.disabled_absolute:disabled  { position: absolute; }
+.disabled_relative:disabled  { position: relative; }
+.disabled_inset-0:disabled  { top: 0px; right: 0px; bottom: 0px; left: 0px; }
+.disabled_inset-0d5:disabled  { top: 2px; right: 2px; bottom: 2px; left: 2px; }
+.disabled_inset-1:disabled  { top: 4px; right: 4px; bottom: 4px; left: 4px; }
+.disabled_inset-1d5:disabled  { top: 6px; right: 6px; bottom: 6px; left: 6px; }
+.disabled_inset-2:disabled  { top: 8px; right: 8px; bottom: 8px; left: 8px; }
+.disabled_inset-2d5:disabled  { top: 10px; right: 10px; bottom: 10px; left: 10px; }
+.disabled_inset-3:disabled  { top: 12px; right: 12px; bottom: 12px; left: 12px; }
+.disabled_inset-3d5:disabled  { top: 14px; right: 14px; bottom: 14px; left: 14px; }
+.disabled_inset-4:disabled  { top: 16px; right: 16px; bottom: 16px; left: 16px; }
+.disabled_inset-5:disabled  { top: 20px; right: 20px; bottom: 20px; left: 20px; }
+.disabled_inset-6:disabled  { top: 24px; right: 24px; bottom: 24px; left: 24px; }
+.disabled_inset-7:disabled  { top: 28px; right: 28px; bottom: 28px; left: 28px; }
+.disabled_inset-8:disabled  { top: 32px; right: 32px; bottom: 32px; left: 32px; }
+.disabled_inset-9:disabled  { top: 36px; right: 36px; bottom: 36px; left: 36px; }
+.disabled_inset-10:disabled  { top: 40px; right: 40px; bottom: 40px; left: 40px; }
+.disabled_inset-11:disabled  { top: 44px; right: 44px; bottom: 44px; left: 44px; }
+.disabled_inset-12:disabled  { top: 48px; right: 48px; bottom: 48px; left: 48px; }
+.disabled_inset-14:disabled  { top: 56px; right: 56px; bottom: 56px; left: 56px; }
+.disabled_inset-16:disabled  { top: 64px; right: 64px; bottom: 64px; left: 64px; }
+.disabled_inset-20:disabled  { top: 80px; right: 80px; bottom: 80px; left: 80px; }
+.disabled_inset-24:disabled  { top: 96px; right: 96px; bottom: 96px; left: 96px; }
+.disabled_inset-28:disabled  { top: 112px; right: 112px; bottom: 112px; left: 112px; }
+.disabled_inset-32:disabled  { top: 128px; right: 128px; bottom: 128px; left: 128px; }
+.disabled_inset-36:disabled  { top: 144px; right: 144px; bottom: 144px; left: 144px; }
+.disabled_inset-40:disabled  { top: 160px; right: 160px; bottom: 160px; left: 160px; }
+.disabled_inset-44:disabled  { top: 176px; right: 176px; bottom: 176px; left: 176px; }
+.disabled_inset-48:disabled  { top: 192px; right: 192px; bottom: 192px; left: 192px; }
+.disabled_inset-52:disabled  { top: 208px; right: 208px; bottom: 208px; left: 208px; }
+.disabled_inset-56:disabled  { top: 224px; right: 224px; bottom: 224px; left: 224px; }
+.disabled_inset-60:disabled  { top: 240px; right: 240px; bottom: 240px; left: 240px; }
+.disabled_inset-64:disabled  { top: 256px; right: 256px; bottom: 256px; left: 256px; }
+.disabled_inset-72:disabled  { top: 288px; right: 288px; bottom: 288px; left: 288px; }
+.disabled_inset-80:disabled  { top: 320px; right: 320px; bottom: 320px; left: 320px; }
+.disabled_inset-96:disabled  { top: 384px; right: 384px; bottom: 384px; left: 384px; }
+.disabled_inset-px:disabled  { top: 1px; right: 1px; bottom: 1px; left: 1px; }
+.disabled_-inset-0:disabled  { top: -0px; right: -0px; bottom: -0px; left: -0px; }
+.disabled_-inset-0d5:disabled  { top: -2px; right: -2px; bottom: -2px; left: -2px; }
+.disabled_-inset-1:disabled  { top: -4px; right: -4px; bottom: -4px; left: -4px; }
+.disabled_-inset-1d5:disabled  { top: -6px; right: -6px; bottom: -6px; left: -6px; }
+.disabled_-inset-2:disabled  { top: -8px; right: -8px; bottom: -8px; left: -8px; }
+.disabled_-inset-2d5:disabled  { top: -10px; right: -10px; bottom: -10px; left: -10px; }
+.disabled_-inset-3:disabled  { top: -12px; right: -12px; bottom: -12px; left: -12px; }
+.disabled_-inset-3d5:disabled  { top: -14px; right: -14px; bottom: -14px; left: -14px; }
+.disabled_-inset-4:disabled  { top: -16px; right: -16px; bottom: -16px; left: -16px; }
+.disabled_-inset-5:disabled  { top: -20px; right: -20px; bottom: -20px; left: -20px; }
+.disabled_-inset-6:disabled  { top: -24px; right: -24px; bottom: -24px; left: -24px; }
+.disabled_-inset-7:disabled  { top: -28px; right: -28px; bottom: -28px; left: -28px; }
+.disabled_-inset-8:disabled  { top: -32px; right: -32px; bottom: -32px; left: -32px; }
+.disabled_-inset-9:disabled  { top: -36px; right: -36px; bottom: -36px; left: -36px; }
+.disabled_-inset-10:disabled  { top: -40px; right: -40px; bottom: -40px; left: -40px; }
+.disabled_-inset-11:disabled  { top: -44px; right: -44px; bottom: -44px; left: -44px; }
+.disabled_-inset-12:disabled  { top: -48px; right: -48px; bottom: -48px; left: -48px; }
+.disabled_-inset-14:disabled  { top: -56px; right: -56px; bottom: -56px; left: -56px; }
+.disabled_-inset-16:disabled  { top: -64px; right: -64px; bottom: -64px; left: -64px; }
+.disabled_-inset-20:disabled  { top: -80px; right: -80px; bottom: -80px; left: -80px; }
+.disabled_-inset-24:disabled  { top: -96px; right: -96px; bottom: -96px; left: -96px; }
+.disabled_-inset-28:disabled  { top: -112px; right: -112px; bottom: -112px; left: -112px; }
+.disabled_-inset-32:disabled  { top: -128px; right: -128px; bottom: -128px; left: -128px; }
+.disabled_-inset-36:disabled  { top: -144px; right: -144px; bottom: -144px; left: -144px; }
+.disabled_-inset-40:disabled  { top: -160px; right: -160px; bottom: -160px; left: -160px; }
+.disabled_-inset-44:disabled  { top: -176px; right: -176px; bottom: -176px; left: -176px; }
+.disabled_-inset-48:disabled  { top: -192px; right: -192px; bottom: -192px; left: -192px; }
+.disabled_-inset-52:disabled  { top: -208px; right: -208px; bottom: -208px; left: -208px; }
+.disabled_-inset-56:disabled  { top: -224px; right: -224px; bottom: -224px; left: -224px; }
+.disabled_-inset-60:disabled  { top: -240px; right: -240px; bottom: -240px; left: -240px; }
+.disabled_-inset-64:disabled  { top: -256px; right: -256px; bottom: -256px; left: -256px; }
+.disabled_-inset-72:disabled  { top: -288px; right: -288px; bottom: -288px; left: -288px; }
+.disabled_-inset-80:disabled  { top: -320px; right: -320px; bottom: -320px; left: -320px; }
+.disabled_-inset-96:disabled  { top: -384px; right: -384px; bottom: -384px; left: -384px; }
+.disabled_-inset-px:disabled  { top: -1px; right: -1px; bottom: -1px; left: -1px; }
+.disabled_inset-auto:disabled  { top: auto; right: auto; bottom: auto; left: auto; }
+.disabled_inset-1s2:disabled  { top: 50%; right: 50%; bottom: 50%; left: 50%; }
+.disabled_inset-1s3:disabled  { top: 33.333333%; right: 33.333333%; bottom: 33.333333%; left: 33.333333%; }
+.disabled_inset-2s3:disabled  { top: 66.666667%; right: 66.666667%; bottom: 66.666667%; left: 66.666667%; }
+.disabled_inset-1s4:disabled  { top: 25%; right: 25%; bottom: 25%; left: 25%; }
+.disabled_inset-2s4:disabled  { top: 50%; right: 50%; bottom: 50%; left: 50%; }
+.disabled_inset-3s4:disabled  { top: 75%; right: 75%; bottom: 75%; left: 75%; }
+.disabled_inset-full:disabled  { top: 100%; right: 100%; bottom: 100%; left: 100%; }
+.disabled_-inset-1s2:disabled  { top: -50%; right: -50%; bottom: -50%; left: -50%; }
+.disabled_-inset-1s3:disabled  { top: -33.333333%; right: -33.333333%; bottom: -33.333333%; left: -33.333333%; }
+.disabled_-inset-2s3:disabled  { top: -66.666667%; right: -66.666667%; bottom: -66.666667%; left: -66.666667%; }
+.disabled_-inset-1s4:disabled  { top: -25%; right: -25%; bottom: -25%; left: -25%; }
+.disabled_-inset-2s4:disabled  { top: -50%; right: -50%; bottom: -50%; left: -50%; }
+.disabled_-inset-3s4:disabled  { top: -75%; right: -75%; bottom: -75%; left: -75%; }
+.disabled_-inset-full:disabled  { top: -100%; right: -100%; bottom: -100%; left: -100%; }
+.disabled_inset-x-0:disabled  { left: 0px; right: 0px; }
+.disabled_inset-x-0d5:disabled  { left: 2px; right: 2px; }
+.disabled_inset-x-1:disabled  { left: 4px; right: 4px; }
+.disabled_inset-x-1d5:disabled  { left: 6px; right: 6px; }
+.disabled_inset-x-2:disabled  { left: 8px; right: 8px; }
+.disabled_inset-x-2d5:disabled  { left: 10px; right: 10px; }
+.disabled_inset-x-3:disabled  { left: 12px; right: 12px; }
+.disabled_inset-x-3d5:disabled  { left: 14px; right: 14px; }
+.disabled_inset-x-4:disabled  { left: 16px; right: 16px; }
+.disabled_inset-x-5:disabled  { left: 20px; right: 20px; }
+.disabled_inset-x-6:disabled  { left: 24px; right: 24px; }
+.disabled_inset-x-7:disabled  { left: 28px; right: 28px; }
+.disabled_inset-x-8:disabled  { left: 32px; right: 32px; }
+.disabled_inset-x-9:disabled  { left: 36px; right: 36px; }
+.disabled_inset-x-10:disabled  { left: 40px; right: 40px; }
+.disabled_inset-x-11:disabled  { left: 44px; right: 44px; }
+.disabled_inset-x-12:disabled  { left: 48px; right: 48px; }
+.disabled_inset-x-14:disabled  { left: 56px; right: 56px; }
+.disabled_inset-x-16:disabled  { left: 64px; right: 64px; }
+.disabled_inset-x-20:disabled  { left: 80px; right: 80px; }
+.disabled_inset-x-24:disabled  { left: 96px; right: 96px; }
+.disabled_inset-x-28:disabled  { left: 112px; right: 112px; }
+.disabled_inset-x-32:disabled  { left: 128px; right: 128px; }
+.disabled_inset-x-36:disabled  { left: 144px; right: 144px; }
+.disabled_inset-x-40:disabled  { left: 160px; right: 160px; }
+.disabled_inset-x-44:disabled  { left: 176px; right: 176px; }
+.disabled_inset-x-48:disabled  { left: 192px; right: 192px; }
+.disabled_inset-x-52:disabled  { left: 208px; right: 208px; }
+.disabled_inset-x-56:disabled  { left: 224px; right: 224px; }
+.disabled_inset-x-60:disabled  { left: 240px; right: 240px; }
+.disabled_inset-x-64:disabled  { left: 256px; right: 256px; }
+.disabled_inset-x-72:disabled  { left: 288px; right: 288px; }
+.disabled_inset-x-80:disabled  { left: 320px; right: 320px; }
+.disabled_inset-x-96:disabled  { left: 384px; right: 384px; }
+.disabled_inset-x-px:disabled  { left: 1px; right: 1px; }
+.disabled_-inset-x-0:disabled  { left: -0px; right: -0px; }
+.disabled_-inset-x-0d5:disabled  { left: -2px; right: -2px; }
+.disabled_-inset-x-1:disabled  { left: -4px; right: -4px; }
+.disabled_-inset-x-1d5:disabled  { left: -6px; right: -6px; }
+.disabled_-inset-x-2:disabled  { left: -8px; right: -8px; }
+.disabled_-inset-x-2d5:disabled  { left: -10px; right: -10px; }
+.disabled_-inset-x-3:disabled  { left: -12px; right: -12px; }
+.disabled_-inset-x-3d5:disabled  { left: -14px; right: -14px; }
+.disabled_-inset-x-4:disabled  { left: -16px; right: -16px; }
+.disabled_-inset-x-5:disabled  { left: -20px; right: -20px; }
+.disabled_-inset-x-6:disabled  { left: -24px; right: -24px; }
+.disabled_-inset-x-7:disabled  { left: -28px; right: -28px; }
+.disabled_-inset-x-8:disabled  { left: -32px; right: -32px; }
+.disabled_-inset-x-9:disabled  { left: -36px; right: -36px; }
+.disabled_-inset-x-10:disabled  { left: -40px; right: -40px; }
+.disabled_-inset-x-11:disabled  { left: -44px; right: -44px; }
+.disabled_-inset-x-12:disabled  { left: -48px; right: -48px; }
+.disabled_-inset-x-14:disabled  { left: -56px; right: -56px; }
+.disabled_-inset-x-16:disabled  { left: -64px; right: -64px; }
+.disabled_-inset-x-20:disabled  { left: -80px; right: -80px; }
+.disabled_-inset-x-24:disabled  { left: -96px; right: -96px; }
+.disabled_-inset-x-28:disabled  { left: -112px; right: -112px; }
+.disabled_-inset-x-32:disabled  { left: -128px; right: -128px; }
+.disabled_-inset-x-36:disabled  { left: -144px; right: -144px; }
+.disabled_-inset-x-40:disabled  { left: -160px; right: -160px; }
+.disabled_-inset-x-44:disabled  { left: -176px; right: -176px; }
+.disabled_-inset-x-48:disabled  { left: -192px; right: -192px; }
+.disabled_-inset-x-52:disabled  { left: -208px; right: -208px; }
+.disabled_-inset-x-56:disabled  { left: -224px; right: -224px; }
+.disabled_-inset-x-60:disabled  { left: -240px; right: -240px; }
+.disabled_-inset-x-64:disabled  { left: -256px; right: -256px; }
+.disabled_-inset-x-72:disabled  { left: -288px; right: -288px; }
+.disabled_-inset-x-80:disabled  { left: -320px; right: -320px; }
+.disabled_-inset-x-96:disabled  { left: -384px; right: -384px; }
+.disabled_-inset-x-px:disabled  { left: -1px; right: -1px; }
+.disabled_inset-x-auto:disabled  { left: auto; right: auto; }
+.disabled_inset-x-1s2:disabled  { left: 50%; right: 50%; }
+.disabled_inset-x-1s3:disabled  { left: 33.333333%; right: 33.333333%; }
+.disabled_inset-x-2s3:disabled  { left: 66.666667%; right: 66.666667%; }
+.disabled_inset-x-1s4:disabled  { left: 25%; right: 25%; }
+.disabled_inset-x-2s4:disabled  { left: 50%; right: 50%; }
+.disabled_inset-x-3s4:disabled  { left: 75%; right: 75%; }
+.disabled_inset-x-full:disabled  { left: 100%; right: 100%; }
+.disabled_-inset-x-1s2:disabled  { left: -50%; right: -50%; }
+.disabled_-inset-x-1s3:disabled  { left: -33.333333%; right: -33.333333%; }
+.disabled_-inset-x-2s3:disabled  { left: -66.666667%; right: -66.666667%; }
+.disabled_-inset-x-1s4:disabled  { left: -25%; right: -25%; }
+.disabled_-inset-x-2s4:disabled  { left: -50%; right: -50%; }
+.disabled_-inset-x-3s4:disabled  { left: -75%; right: -75%; }
+.disabled_-inset-x-full:disabled  { left: -100%; right: -100%; }
+.disabled_inset-y-0:disabled  { top: 0px; bottom: 0px; }
+.disabled_inset-y-0d5:disabled  { top: 2px; bottom: 2px; }
+.disabled_inset-y-1:disabled  { top: 4px; bottom: 4px; }
+.disabled_inset-y-1d5:disabled  { top: 6px; bottom: 6px; }
+.disabled_inset-y-2:disabled  { top: 8px; bottom: 8px; }
+.disabled_inset-y-2d5:disabled  { top: 10px; bottom: 10px; }
+.disabled_inset-y-3:disabled  { top: 12px; bottom: 12px; }
+.disabled_inset-y-3d5:disabled  { top: 14px; bottom: 14px; }
+.disabled_inset-y-4:disabled  { top: 16px; bottom: 16px; }
+.disabled_inset-y-5:disabled  { top: 20px; bottom: 20px; }
+.disabled_inset-y-6:disabled  { top: 24px; bottom: 24px; }
+.disabled_inset-y-7:disabled  { top: 28px; bottom: 28px; }
+.disabled_inset-y-8:disabled  { top: 32px; bottom: 32px; }
+.disabled_inset-y-9:disabled  { top: 36px; bottom: 36px; }
+.disabled_inset-y-10:disabled  { top: 40px; bottom: 40px; }
+.disabled_inset-y-11:disabled  { top: 44px; bottom: 44px; }
+.disabled_inset-y-12:disabled  { top: 48px; bottom: 48px; }
+.disabled_inset-y-14:disabled  { top: 56px; bottom: 56px; }
+.disabled_inset-y-16:disabled  { top: 64px; bottom: 64px; }
+.disabled_inset-y-20:disabled  { top: 80px; bottom: 80px; }
+.disabled_inset-y-24:disabled  { top: 96px; bottom: 96px; }
+.disabled_inset-y-28:disabled  { top: 112px; bottom: 112px; }
+.disabled_inset-y-32:disabled  { top: 128px; bottom: 128px; }
+.disabled_inset-y-36:disabled  { top: 144px; bottom: 144px; }
+.disabled_inset-y-40:disabled  { top: 160px; bottom: 160px; }
+.disabled_inset-y-44:disabled  { top: 176px; bottom: 176px; }
+.disabled_inset-y-48:disabled  { top: 192px; bottom: 192px; }
+.disabled_inset-y-52:disabled  { top: 208px; bottom: 208px; }
+.disabled_inset-y-56:disabled  { top: 224px; bottom: 224px; }
+.disabled_inset-y-60:disabled  { top: 240px; bottom: 240px; }
+.disabled_inset-y-64:disabled  { top: 256px; bottom: 256px; }
+.disabled_inset-y-72:disabled  { top: 288px; bottom: 288px; }
+.disabled_inset-y-80:disabled  { top: 320px; bottom: 320px; }
+.disabled_inset-y-96:disabled  { top: 384px; bottom: 384px; }
+.disabled_inset-y-px:disabled  { top: 1px; bottom: 1px; }
+.disabled_-inset-y-0:disabled  { top: -0px; bottom: -0px; }
+.disabled_-inset-y-0d5:disabled  { top: -2px; bottom: -2px; }
+.disabled_-inset-y-1:disabled  { top: -4px; bottom: -4px; }
+.disabled_-inset-y-1d5:disabled  { top: -6px; bottom: -6px; }
+.disabled_-inset-y-2:disabled  { top: -8px; bottom: -8px; }
+.disabled_-inset-y-2d5:disabled  { top: -10px; bottom: -10px; }
+.disabled_-inset-y-3:disabled  { top: -12px; bottom: -12px; }
+.disabled_-inset-y-3d5:disabled  { top: -14px; bottom: -14px; }
+.disabled_-inset-y-4:disabled  { top: -16px; bottom: -16px; }
+.disabled_-inset-y-5:disabled  { top: -20px; bottom: -20px; }
+.disabled_-inset-y-6:disabled  { top: -24px; bottom: -24px; }
+.disabled_-inset-y-7:disabled  { top: -28px; bottom: -28px; }
+.disabled_-inset-y-8:disabled  { top: -32px; bottom: -32px; }
+.disabled_-inset-y-9:disabled  { top: -36px; bottom: -36px; }
+.disabled_-inset-y-10:disabled  { top: -40px; bottom: -40px; }
+.disabled_-inset-y-11:disabled  { top: -44px; bottom: -44px; }
+.disabled_-inset-y-12:disabled  { top: -48px; bottom: -48px; }
+.disabled_-inset-y-14:disabled  { top: -56px; bottom: -56px; }
+.disabled_-inset-y-16:disabled  { top: -64px; bottom: -64px; }
+.disabled_-inset-y-20:disabled  { top: -80px; bottom: -80px; }
+.disabled_-inset-y-24:disabled  { top: -96px; bottom: -96px; }
+.disabled_-inset-y-28:disabled  { top: -112px; bottom: -112px; }
+.disabled_-inset-y-32:disabled  { top: -128px; bottom: -128px; }
+.disabled_-inset-y-36:disabled  { top: -144px; bottom: -144px; }
+.disabled_-inset-y-40:disabled  { top: -160px; bottom: -160px; }
+.disabled_-inset-y-44:disabled  { top: -176px; bottom: -176px; }
+.disabled_-inset-y-48:disabled  { top: -192px; bottom: -192px; }
+.disabled_-inset-y-52:disabled  { top: -208px; bottom: -208px; }
+.disabled_-inset-y-56:disabled  { top: -224px; bottom: -224px; }
+.disabled_-inset-y-60:disabled  { top: -240px; bottom: -240px; }
+.disabled_-inset-y-64:disabled  { top: -256px; bottom: -256px; }
+.disabled_-inset-y-72:disabled  { top: -288px; bottom: -288px; }
+.disabled_-inset-y-80:disabled  { top: -320px; bottom: -320px; }
+.disabled_-inset-y-96:disabled  { top: -384px; bottom: -384px; }
+.disabled_-inset-y-px:disabled  { top: -1px; bottom: -1px; }
+.disabled_inset-y-auto:disabled  { top: auto; bottom: auto; }
+.disabled_inset-y-1s2:disabled  { top: 50%; bottom: 50%; }
+.disabled_inset-y-1s3:disabled  { top: 33.333333%; bottom: 33.333333%; }
+.disabled_inset-y-2s3:disabled  { top: 66.666667%; bottom: 66.666667%; }
+.disabled_inset-y-1s4:disabled  { top: 25%; bottom: 25%; }
+.disabled_inset-y-2s4:disabled  { top: 50%; bottom: 50%; }
+.disabled_inset-y-3s4:disabled  { top: 75%; bottom: 75%; }
+.disabled_inset-y-full:disabled  { top: 100%; bottom: 100%; }
+.disabled_-inset-y-1s2:disabled  { top: -50%; bottom: -50%; }
+.disabled_-inset-y-1s3:disabled  { top: -33.333333%; bottom: -33.333333%; }
+.disabled_-inset-y-2s3:disabled  { top: -66.666667%; bottom: -66.666667%; }
+.disabled_-inset-y-1s4:disabled  { top: -25%; bottom: -25%; }
+.disabled_-inset-y-2s4:disabled  { top: -50%; bottom: -50%; }
+.disabled_-inset-y-3s4:disabled  { top: -75%; bottom: -75%; }
+.disabled_-inset-y-full:disabled  { top: -100%; bottom: -100%; }
+.disabled_top-0:disabled  { top: 0px; }
+.disabled_top-0d5:disabled  { top: 2px; }
+.disabled_top-1:disabled  { top: 4px; }
+.disabled_top-1d5:disabled  { top: 6px; }
+.disabled_top-2:disabled  { top: 8px; }
+.disabled_top-2d5:disabled  { top: 10px; }
+.disabled_top-3:disabled  { top: 12px; }
+.disabled_top-3d5:disabled  { top: 14px; }
+.disabled_top-4:disabled  { top: 16px; }
+.disabled_top-5:disabled  { top: 20px; }
+.disabled_top-6:disabled  { top: 24px; }
+.disabled_top-7:disabled  { top: 28px; }
+.disabled_top-8:disabled  { top: 32px; }
+.disabled_top-9:disabled  { top: 36px; }
+.disabled_top-10:disabled  { top: 40px; }
+.disabled_top-11:disabled  { top: 44px; }
+.disabled_top-12:disabled  { top: 48px; }
+.disabled_top-14:disabled  { top: 56px; }
+.disabled_top-16:disabled  { top: 64px; }
+.disabled_top-20:disabled  { top: 80px; }
+.disabled_top-24:disabled  { top: 96px; }
+.disabled_top-28:disabled  { top: 112px; }
+.disabled_top-32:disabled  { top: 128px; }
+.disabled_top-36:disabled  { top: 144px; }
+.disabled_top-40:disabled  { top: 160px; }
+.disabled_top-44:disabled  { top: 176px; }
+.disabled_top-48:disabled  { top: 192px; }
+.disabled_top-52:disabled  { top: 208px; }
+.disabled_top-56:disabled  { top: 224px; }
+.disabled_top-60:disabled  { top: 240px; }
+.disabled_top-64:disabled  { top: 256px; }
+.disabled_top-72:disabled  { top: 288px; }
+.disabled_top-80:disabled  { top: 320px; }
+.disabled_top-96:disabled  { top: 384px; }
+.disabled_top-px:disabled  { top: 1px; }
+.disabled_-top-0:disabled  { top: -0px; }
+.disabled_-top-0d5:disabled  { top: -2px; }
+.disabled_-top-1:disabled  { top: -4px; }
+.disabled_-top-1d5:disabled  { top: -6px; }
+.disabled_-top-2:disabled  { top: -8px; }
+.disabled_-top-2d5:disabled  { top: -10px; }
+.disabled_-top-3:disabled  { top: -12px; }
+.disabled_-top-3d5:disabled  { top: -14px; }
+.disabled_-top-4:disabled  { top: -16px; }
+.disabled_-top-5:disabled  { top: -20px; }
+.disabled_-top-6:disabled  { top: -24px; }
+.disabled_-top-7:disabled  { top: -28px; }
+.disabled_-top-8:disabled  { top: -32px; }
+.disabled_-top-9:disabled  { top: -36px; }
+.disabled_-top-10:disabled  { top: -40px; }
+.disabled_-top-11:disabled  { top: -44px; }
+.disabled_-top-12:disabled  { top: -48px; }
+.disabled_-top-14:disabled  { top: -56px; }
+.disabled_-top-16:disabled  { top: -64px; }
+.disabled_-top-20:disabled  { top: -80px; }
+.disabled_-top-24:disabled  { top: -96px; }
+.disabled_-top-28:disabled  { top: -112px; }
+.disabled_-top-32:disabled  { top: -128px; }
+.disabled_-top-36:disabled  { top: -144px; }
+.disabled_-top-40:disabled  { top: -160px; }
+.disabled_-top-44:disabled  { top: -176px; }
+.disabled_-top-48:disabled  { top: -192px; }
+.disabled_-top-52:disabled  { top: -208px; }
+.disabled_-top-56:disabled  { top: -224px; }
+.disabled_-top-60:disabled  { top: -240px; }
+.disabled_-top-64:disabled  { top: -256px; }
+.disabled_-top-72:disabled  { top: -288px; }
+.disabled_-top-80:disabled  { top: -320px; }
+.disabled_-top-96:disabled  { top: -384px; }
+.disabled_-top-px:disabled  { top: -1px; }
+.disabled_top-auto:disabled  { top: auto; }
+.disabled_top-1s2:disabled  { top: 50%; }
+.disabled_top-1s3:disabled  { top: 33.333333%; }
+.disabled_top-2s3:disabled  { top: 66.666667%; }
+.disabled_top-1s4:disabled  { top: 25%; }
+.disabled_top-2s4:disabled  { top: 50%; }
+.disabled_top-3s4:disabled  { top: 75%; }
+.disabled_top-full:disabled  { top: 100%; }
+.disabled_-top-1s2:disabled  { top: -50%; }
+.disabled_-top-1s3:disabled  { top: -33.333333%; }
+.disabled_-top-2s3:disabled  { top: -66.666667%; }
+.disabled_-top-1s4:disabled  { top: -25%; }
+.disabled_-top-2s4:disabled  { top: -50%; }
+.disabled_-top-3s4:disabled  { top: -75%; }
+.disabled_-top-full:disabled  { top: -100%; }
+.disabled_right-0:disabled  { right: 0px; }
+.disabled_right-0d5:disabled  { right: 2px; }
+.disabled_right-1:disabled  { right: 4px; }
+.disabled_right-1d5:disabled  { right: 6px; }
+.disabled_right-2:disabled  { right: 8px; }
+.disabled_right-2d5:disabled  { right: 10px; }
+.disabled_right-3:disabled  { right: 12px; }
+.disabled_right-3d5:disabled  { right: 14px; }
+.disabled_right-4:disabled  { right: 16px; }
+.disabled_right-5:disabled  { right: 20px; }
+.disabled_right-6:disabled  { right: 24px; }
+.disabled_right-7:disabled  { right: 28px; }
+.disabled_right-8:disabled  { right: 32px; }
+.disabled_right-9:disabled  { right: 36px; }
+.disabled_right-10:disabled  { right: 40px; }
+.disabled_right-11:disabled  { right: 44px; }
+.disabled_right-12:disabled  { right: 48px; }
+.disabled_right-14:disabled  { right: 56px; }
+.disabled_right-16:disabled  { right: 64px; }
+.disabled_right-20:disabled  { right: 80px; }
+.disabled_right-24:disabled  { right: 96px; }
+.disabled_right-28:disabled  { right: 112px; }
+.disabled_right-32:disabled  { right: 128px; }
+.disabled_right-36:disabled  { right: 144px; }
+.disabled_right-40:disabled  { right: 160px; }
+.disabled_right-44:disabled  { right: 176px; }
+.disabled_right-48:disabled  { right: 192px; }
+.disabled_right-52:disabled  { right: 208px; }
+.disabled_right-56:disabled  { right: 224px; }
+.disabled_right-60:disabled  { right: 240px; }
+.disabled_right-64:disabled  { right: 256px; }
+.disabled_right-72:disabled  { right: 288px; }
+.disabled_right-80:disabled  { right: 320px; }
+.disabled_right-96:disabled  { right: 384px; }
+.disabled_right-px:disabled  { right: 1px; }
+.disabled_-right-0:disabled  { right: -0px; }
+.disabled_-right-0d5:disabled  { right: -2px; }
+.disabled_-right-1:disabled  { right: -4px; }
+.disabled_-right-1d5:disabled  { right: -6px; }
+.disabled_-right-2:disabled  { right: -8px; }
+.disabled_-right-2d5:disabled  { right: -10px; }
+.disabled_-right-3:disabled  { right: -12px; }
+.disabled_-right-3d5:disabled  { right: -14px; }
+.disabled_-right-4:disabled  { right: -16px; }
+.disabled_-right-5:disabled  { right: -20px; }
+.disabled_-right-6:disabled  { right: -24px; }
+.disabled_-right-7:disabled  { right: -28px; }
+.disabled_-right-8:disabled  { right: -32px; }
+.disabled_-right-9:disabled  { right: -36px; }
+.disabled_-right-10:disabled  { right: -40px; }
+.disabled_-right-11:disabled  { right: -44px; }
+.disabled_-right-12:disabled  { right: -48px; }
+.disabled_-right-14:disabled  { right: -56px; }
+.disabled_-right-16:disabled  { right: -64px; }
+.disabled_-right-20:disabled  { right: -80px; }
+.disabled_-right-24:disabled  { right: -96px; }
+.disabled_-right-28:disabled  { right: -112px; }
+.disabled_-right-32:disabled  { right: -128px; }
+.disabled_-right-36:disabled  { right: -144px; }
+.disabled_-right-40:disabled  { right: -160px; }
+.disabled_-right-44:disabled  { right: -176px; }
+.disabled_-right-48:disabled  { right: -192px; }
+.disabled_-right-52:disabled  { right: -208px; }
+.disabled_-right-56:disabled  { right: -224px; }
+.disabled_-right-60:disabled  { right: -240px; }
+.disabled_-right-64:disabled  { right: -256px; }
+.disabled_-right-72:disabled  { right: -288px; }
+.disabled_-right-80:disabled  { right: -320px; }
+.disabled_-right-96:disabled  { right: -384px; }
+.disabled_-right-px:disabled  { right: -1px; }
+.disabled_right-auto:disabled  { right: auto; }
+.disabled_right-1s2:disabled  { right: 50%; }
+.disabled_right-1s3:disabled  { right: 33.333333%; }
+.disabled_right-2s3:disabled  { right: 66.666667%; }
+.disabled_right-1s4:disabled  { right: 25%; }
+.disabled_right-2s4:disabled  { right: 50%; }
+.disabled_right-3s4:disabled  { right: 75%; }
+.disabled_right-full:disabled  { right: 100%; }
+.disabled_-right-1s2:disabled  { right: -50%; }
+.disabled_-right-1s3:disabled  { right: -33.333333%; }
+.disabled_-right-2s3:disabled  { right: -66.666667%; }
+.disabled_-right-1s4:disabled  { right: -25%; }
+.disabled_-right-2s4:disabled  { right: -50%; }
+.disabled_-right-3s4:disabled  { right: -75%; }
+.disabled_-right-full:disabled  { right: -100%; }
+.disabled_bottom-0:disabled  { bottom: 0px; }
+.disabled_bottom-0d5:disabled  { bottom: 2px; }
+.disabled_bottom-1:disabled  { bottom: 4px; }
+.disabled_bottom-1d5:disabled  { bottom: 6px; }
+.disabled_bottom-2:disabled  { bottom: 8px; }
+.disabled_bottom-2d5:disabled  { bottom: 10px; }
+.disabled_bottom-3:disabled  { bottom: 12px; }
+.disabled_bottom-3d5:disabled  { bottom: 14px; }
+.disabled_bottom-4:disabled  { bottom: 16px; }
+.disabled_bottom-5:disabled  { bottom: 20px; }
+.disabled_bottom-6:disabled  { bottom: 24px; }
+.disabled_bottom-7:disabled  { bottom: 28px; }
+.disabled_bottom-8:disabled  { bottom: 32px; }
+.disabled_bottom-9:disabled  { bottom: 36px; }
+.disabled_bottom-10:disabled  { bottom: 40px; }
+.disabled_bottom-11:disabled  { bottom: 44px; }
+.disabled_bottom-12:disabled  { bottom: 48px; }
+.disabled_bottom-14:disabled  { bottom: 56px; }
+.disabled_bottom-16:disabled  { bottom: 64px; }
+.disabled_bottom-20:disabled  { bottom: 80px; }
+.disabled_bottom-24:disabled  { bottom: 96px; }
+.disabled_bottom-28:disabled  { bottom: 112px; }
+.disabled_bottom-32:disabled  { bottom: 128px; }
+.disabled_bottom-36:disabled  { bottom: 144px; }
+.disabled_bottom-40:disabled  { bottom: 160px; }
+.disabled_bottom-44:disabled  { bottom: 176px; }
+.disabled_bottom-48:disabled  { bottom: 192px; }
+.disabled_bottom-52:disabled  { bottom: 208px; }
+.disabled_bottom-56:disabled  { bottom: 224px; }
+.disabled_bottom-60:disabled  { bottom: 240px; }
+.disabled_bottom-64:disabled  { bottom: 256px; }
+.disabled_bottom-72:disabled  { bottom: 288px; }
+.disabled_bottom-80:disabled  { bottom: 320px; }
+.disabled_bottom-96:disabled  { bottom: 384px; }
+.disabled_bottom-px:disabled  { bottom: 1px; }
+.disabled_-bottom-0:disabled  { bottom: -0px; }
+.disabled_-bottom-0d5:disabled  { bottom: -2px; }
+.disabled_-bottom-1:disabled  { bottom: -4px; }
+.disabled_-bottom-1d5:disabled  { bottom: -6px; }
+.disabled_-bottom-2:disabled  { bottom: -8px; }
+.disabled_-bottom-2d5:disabled  { bottom: -10px; }
+.disabled_-bottom-3:disabled  { bottom: -12px; }
+.disabled_-bottom-3d5:disabled  { bottom: -14px; }
+.disabled_-bottom-4:disabled  { bottom: -16px; }
+.disabled_-bottom-5:disabled  { bottom: -20px; }
+.disabled_-bottom-6:disabled  { bottom: -24px; }
+.disabled_-bottom-7:disabled  { bottom: -28px; }
+.disabled_-bottom-8:disabled  { bottom: -32px; }
+.disabled_-bottom-9:disabled  { bottom: -36px; }
+.disabled_-bottom-10:disabled  { bottom: -40px; }
+.disabled_-bottom-11:disabled  { bottom: -44px; }
+.disabled_-bottom-12:disabled  { bottom: -48px; }
+.disabled_-bottom-14:disabled  { bottom: -56px; }
+.disabled_-bottom-16:disabled  { bottom: -64px; }
+.disabled_-bottom-20:disabled  { bottom: -80px; }
+.disabled_-bottom-24:disabled  { bottom: -96px; }
+.disabled_-bottom-28:disabled  { bottom: -112px; }
+.disabled_-bottom-32:disabled  { bottom: -128px; }
+.disabled_-bottom-36:disabled  { bottom: -144px; }
+.disabled_-bottom-40:disabled  { bottom: -160px; }
+.disabled_-bottom-44:disabled  { bottom: -176px; }
+.disabled_-bottom-48:disabled  { bottom: -192px; }
+.disabled_-bottom-52:disabled  { bottom: -208px; }
+.disabled_-bottom-56:disabled  { bottom: -224px; }
+.disabled_-bottom-60:disabled  { bottom: -240px; }
+.disabled_-bottom-64:disabled  { bottom: -256px; }
+.disabled_-bottom-72:disabled  { bottom: -288px; }
+.disabled_-bottom-80:disabled  { bottom: -320px; }
+.disabled_-bottom-96:disabled  { bottom: -384px; }
+.disabled_-bottom-px:disabled  { bottom: -1px; }
+.disabled_bottom-auto:disabled  { bottom: auto; }
+.disabled_bottom-1s2:disabled  { bottom: 50%; }
+.disabled_bottom-1s3:disabled  { bottom: 33.333333%; }
+.disabled_bottom-2s3:disabled  { bottom: 66.666667%; }
+.disabled_bottom-1s4:disabled  { bottom: 25%; }
+.disabled_bottom-2s4:disabled  { bottom: 50%; }
+.disabled_bottom-3s4:disabled  { bottom: 75%; }
+.disabled_bottom-full:disabled  { bottom: 100%; }
+.disabled_-bottom-1s2:disabled  { bottom: -50%; }
+.disabled_-bottom-1s3:disabled  { bottom: -33.333333%; }
+.disabled_-bottom-2s3:disabled  { bottom: -66.666667%; }
+.disabled_-bottom-1s4:disabled  { bottom: -25%; }
+.disabled_-bottom-2s4:disabled  { bottom: -50%; }
+.disabled_-bottom-3s4:disabled  { bottom: -75%; }
+.disabled_-bottom-full:disabled  { bottom: -100%; }
+.disabled_left-0:disabled  { left: 0px; }
+.disabled_left-0d5:disabled  { left: 2px; }
+.disabled_left-1:disabled  { left: 4px; }
+.disabled_left-1d5:disabled  { left: 6px; }
+.disabled_left-2:disabled  { left: 8px; }
+.disabled_left-2d5:disabled  { left: 10px; }
+.disabled_left-3:disabled  { left: 12px; }
+.disabled_left-3d5:disabled  { left: 14px; }
+.disabled_left-4:disabled  { left: 16px; }
+.disabled_left-5:disabled  { left: 20px; }
+.disabled_left-6:disabled  { left: 24px; }
+.disabled_left-7:disabled  { left: 28px; }
+.disabled_left-8:disabled  { left: 32px; }
+.disabled_left-9:disabled  { left: 36px; }
+.disabled_left-10:disabled  { left: 40px; }
+.disabled_left-11:disabled  { left: 44px; }
+.disabled_left-12:disabled  { left: 48px; }
+.disabled_left-14:disabled  { left: 56px; }
+.disabled_left-16:disabled  { left: 64px; }
+.disabled_left-20:disabled  { left: 80px; }
+.disabled_left-24:disabled  { left: 96px; }
+.disabled_left-28:disabled  { left: 112px; }
+.disabled_left-32:disabled  { left: 128px; }
+.disabled_left-36:disabled  { left: 144px; }
+.disabled_left-40:disabled  { left: 160px; }
+.disabled_left-44:disabled  { left: 176px; }
+.disabled_left-48:disabled  { left: 192px; }
+.disabled_left-52:disabled  { left: 208px; }
+.disabled_left-56:disabled  { left: 224px; }
+.disabled_left-60:disabled  { left: 240px; }
+.disabled_left-64:disabled  { left: 256px; }
+.disabled_left-72:disabled  { left: 288px; }
+.disabled_left-80:disabled  { left: 320px; }
+.disabled_left-96:disabled  { left: 384px; }
+.disabled_left-px:disabled  { left: 1px; }
+.disabled_-left-0:disabled  { left: -0px; }
+.disabled_-left-0d5:disabled  { left: -2px; }
+.disabled_-left-1:disabled  { left: -4px; }
+.disabled_-left-1d5:disabled  { left: -6px; }
+.disabled_-left-2:disabled  { left: -8px; }
+.disabled_-left-2d5:disabled  { left: -10px; }
+.disabled_-left-3:disabled  { left: -12px; }
+.disabled_-left-3d5:disabled  { left: -14px; }
+.disabled_-left-4:disabled  { left: -16px; }
+.disabled_-left-5:disabled  { left: -20px; }
+.disabled_-left-6:disabled  { left: -24px; }
+.disabled_-left-7:disabled  { left: -28px; }
+.disabled_-left-8:disabled  { left: -32px; }
+.disabled_-left-9:disabled  { left: -36px; }
+.disabled_-left-10:disabled  { left: -40px; }
+.disabled_-left-11:disabled  { left: -44px; }
+.disabled_-left-12:disabled  { left: -48px; }
+.disabled_-left-14:disabled  { left: -56px; }
+.disabled_-left-16:disabled  { left: -64px; }
+.disabled_-left-20:disabled  { left: -80px; }
+.disabled_-left-24:disabled  { left: -96px; }
+.disabled_-left-28:disabled  { left: -112px; }
+.disabled_-left-32:disabled  { left: -128px; }
+.disabled_-left-36:disabled  { left: -144px; }
+.disabled_-left-40:disabled  { left: -160px; }
+.disabled_-left-44:disabled  { left: -176px; }
+.disabled_-left-48:disabled  { left: -192px; }
+.disabled_-left-52:disabled  { left: -208px; }
+.disabled_-left-56:disabled  { left: -224px; }
+.disabled_-left-60:disabled  { left: -240px; }
+.disabled_-left-64:disabled  { left: -256px; }
+.disabled_-left-72:disabled  { left: -288px; }
+.disabled_-left-80:disabled  { left: -320px; }
+.disabled_-left-96:disabled  { left: -384px; }
+.disabled_-left-px:disabled  { left: -1px; }
+.disabled_left-auto:disabled  { left: auto; }
+.disabled_left-1s2:disabled  { left: 50%; }
+.disabled_left-1s3:disabled  { left: 33.333333%; }
+.disabled_left-2s3:disabled  { left: 66.666667%; }
+.disabled_left-1s4:disabled  { left: 25%; }
+.disabled_left-2s4:disabled  { left: 50%; }
+.disabled_left-3s4:disabled  { left: 75%; }
+.disabled_left-full:disabled  { left: 100%; }
+.disabled_-left-1s2:disabled  { left: -50%; }
+.disabled_-left-1s3:disabled  { left: -33.333333%; }
+.disabled_-left-2s3:disabled  { left: -66.666667%; }
+.disabled_-left-1s4:disabled  { left: -25%; }
+.disabled_-left-2s4:disabled  { left: -50%; }
+.disabled_-left-3s4:disabled  { left: -75%; }
+.disabled_-left-full:disabled  { left: -100%; }
+.disabled_visible:disabled  { visibility: visible; }
+.disabled_invisible:disabled  { visibility: hidden; }
+.disabled_p-0:disabled  { padding: 0px; }
+.disabled_p-0d5:disabled  { padding: 2px; }
+.disabled_p-1:disabled  { padding: 4px; }
+.disabled_p-1d5:disabled  { padding: 6px; }
+.disabled_p-2:disabled  { padding: 8px; }
+.disabled_p-2d5:disabled  { padding: 10px; }
+.disabled_p-3:disabled  { padding: 12px; }
+.disabled_p-3d5:disabled  { padding: 14px; }
+.disabled_p-4:disabled  { padding: 16px; }
+.disabled_p-5:disabled  { padding: 20px; }
+.disabled_p-6:disabled  { padding: 24px; }
+.disabled_p-7:disabled  { padding: 28px; }
+.disabled_p-8:disabled  { padding: 32px; }
+.disabled_p-9:disabled  { padding: 36px; }
+.disabled_p-10:disabled  { padding: 40px; }
+.disabled_p-11:disabled  { padding: 44px; }
+.disabled_p-12:disabled  { padding: 48px; }
+.disabled_p-14:disabled  { padding: 56px; }
+.disabled_p-16:disabled  { padding: 64px; }
+.disabled_p-20:disabled  { padding: 80px; }
+.disabled_p-24:disabled  { padding: 96px; }
+.disabled_p-28:disabled  { padding: 112px; }
+.disabled_p-32:disabled  { padding: 128px; }
+.disabled_p-36:disabled  { padding: 144px; }
+.disabled_p-40:disabled  { padding: 160px; }
+.disabled_p-44:disabled  { padding: 176px; }
+.disabled_p-48:disabled  { padding: 192px; }
+.disabled_p-52:disabled  { padding: 208px; }
+.disabled_p-56:disabled  { padding: 224px; }
+.disabled_p-60:disabled  { padding: 240px; }
+.disabled_p-64:disabled  { padding: 256px; }
+.disabled_p-72:disabled  { padding: 288px; }
+.disabled_p-80:disabled  { padding: 320px; }
+.disabled_p-96:disabled  { padding: 384px; }
+.disabled_p-px:disabled  { padding: 1px; }
+.disabled_px-0:disabled  { padding-left: 0px; padding-right: 0px; }
+.disabled_px-0d5:disabled  { padding-left: 2px; padding-right: 2px; }
+.disabled_px-1:disabled  { padding-left: 4px; padding-right: 4px; }
+.disabled_px-1d5:disabled  { padding-left: 6px; padding-right: 6px; }
+.disabled_px-2:disabled  { padding-left: 8px; padding-right: 8px; }
+.disabled_px-2d5:disabled  { padding-left: 10px; padding-right: 10px; }
+.disabled_px-3:disabled  { padding-left: 12px; padding-right: 12px; }
+.disabled_px-3d5:disabled  { padding-left: 14px; padding-right: 14px; }
+.disabled_px-4:disabled  { padding-left: 16px; padding-right: 16px; }
+.disabled_px-5:disabled  { padding-left: 20px; padding-right: 20px; }
+.disabled_px-6:disabled  { padding-left: 24px; padding-right: 24px; }
+.disabled_px-7:disabled  { padding-left: 28px; padding-right: 28px; }
+.disabled_px-8:disabled  { padding-left: 32px; padding-right: 32px; }
+.disabled_px-9:disabled  { padding-left: 36px; padding-right: 36px; }
+.disabled_px-10:disabled  { padding-left: 40px; padding-right: 40px; }
+.disabled_px-11:disabled  { padding-left: 44px; padding-right: 44px; }
+.disabled_px-12:disabled  { padding-left: 48px; padding-right: 48px; }
+.disabled_px-14:disabled  { padding-left: 56px; padding-right: 56px; }
+.disabled_px-16:disabled  { padding-left: 64px; padding-right: 64px; }
+.disabled_px-20:disabled  { padding-left: 80px; padding-right: 80px; }
+.disabled_px-24:disabled  { padding-left: 96px; padding-right: 96px; }
+.disabled_px-28:disabled  { padding-left: 112px; padding-right: 112px; }
+.disabled_px-32:disabled  { padding-left: 128px; padding-right: 128px; }
+.disabled_px-36:disabled  { padding-left: 144px; padding-right: 144px; }
+.disabled_px-40:disabled  { padding-left: 160px; padding-right: 160px; }
+.disabled_px-44:disabled  { padding-left: 176px; padding-right: 176px; }
+.disabled_px-48:disabled  { padding-left: 192px; padding-right: 192px; }
+.disabled_px-52:disabled  { padding-left: 208px; padding-right: 208px; }
+.disabled_px-56:disabled  { padding-left: 224px; padding-right: 224px; }
+.disabled_px-60:disabled  { padding-left: 240px; padding-right: 240px; }
+.disabled_px-64:disabled  { padding-left: 256px; padding-right: 256px; }
+.disabled_px-72:disabled  { padding-left: 288px; padding-right: 288px; }
+.disabled_px-80:disabled  { padding-left: 320px; padding-right: 320px; }
+.disabled_px-96:disabled  { padding-left: 384px; padding-right: 384px; }
+.disabled_px-px:disabled  { padding-left: 1px; padding-right: 1px; }
+.disabled_py-0:disabled  { padding-top: 0px; padding-bottom: 0px; }
+.disabled_py-0d5:disabled  { padding-top: 2px; padding-bottom: 2px; }
+.disabled_py-1:disabled  { padding-top: 4px; padding-bottom: 4px; }
+.disabled_py-1d5:disabled  { padding-top: 6px; padding-bottom: 6px; }
+.disabled_py-2:disabled  { padding-top: 8px; padding-bottom: 8px; }
+.disabled_py-2d5:disabled  { padding-top: 10px; padding-bottom: 10px; }
+.disabled_py-3:disabled  { padding-top: 12px; padding-bottom: 12px; }
+.disabled_py-3d5:disabled  { padding-top: 14px; padding-bottom: 14px; }
+.disabled_py-4:disabled  { padding-top: 16px; padding-bottom: 16px; }
+.disabled_py-5:disabled  { padding-top: 20px; padding-bottom: 20px; }
+.disabled_py-6:disabled  { padding-top: 24px; padding-bottom: 24px; }
+.disabled_py-7:disabled  { padding-top: 28px; padding-bottom: 28px; }
+.disabled_py-8:disabled  { padding-top: 32px; padding-bottom: 32px; }
+.disabled_py-9:disabled  { padding-top: 36px; padding-bottom: 36px; }
+.disabled_py-10:disabled  { padding-top: 40px; padding-bottom: 40px; }
+.disabled_py-11:disabled  { padding-top: 44px; padding-bottom: 44px; }
+.disabled_py-12:disabled  { padding-top: 48px; padding-bottom: 48px; }
+.disabled_py-14:disabled  { padding-top: 56px; padding-bottom: 56px; }
+.disabled_py-16:disabled  { padding-top: 64px; padding-bottom: 64px; }
+.disabled_py-20:disabled  { padding-top: 80px; padding-bottom: 80px; }
+.disabled_py-24:disabled  { padding-top: 96px; padding-bottom: 96px; }
+.disabled_py-28:disabled  { padding-top: 112px; padding-bottom: 112px; }
+.disabled_py-32:disabled  { padding-top: 128px; padding-bottom: 128px; }
+.disabled_py-36:disabled  { padding-top: 144px; padding-bottom: 144px; }
+.disabled_py-40:disabled  { padding-top: 160px; padding-bottom: 160px; }
+.disabled_py-44:disabled  { padding-top: 176px; padding-bottom: 176px; }
+.disabled_py-48:disabled  { padding-top: 192px; padding-bottom: 192px; }
+.disabled_py-52:disabled  { padding-top: 208px; padding-bottom: 208px; }
+.disabled_py-56:disabled  { padding-top: 224px; padding-bottom: 224px; }
+.disabled_py-60:disabled  { padding-top: 240px; padding-bottom: 240px; }
+.disabled_py-64:disabled  { padding-top: 256px; padding-bottom: 256px; }
+.disabled_py-72:disabled  { padding-top: 288px; padding-bottom: 288px; }
+.disabled_py-80:disabled  { padding-top: 320px; padding-bottom: 320px; }
+.disabled_py-96:disabled  { padding-top: 384px; padding-bottom: 384px; }
+.disabled_py-px:disabled  { padding-top: 1px; padding-bottom: 1px; }
+.disabled_pt-0:disabled  { padding-top: 0px; }
+.disabled_pt-0d5:disabled  { padding-top: 2px; }
+.disabled_pt-1:disabled  { padding-top: 4px; }
+.disabled_pt-1d5:disabled  { padding-top: 6px; }
+.disabled_pt-2:disabled  { padding-top: 8px; }
+.disabled_pt-2d5:disabled  { padding-top: 10px; }
+.disabled_pt-3:disabled  { padding-top: 12px; }
+.disabled_pt-3d5:disabled  { padding-top: 14px; }
+.disabled_pt-4:disabled  { padding-top: 16px; }
+.disabled_pt-5:disabled  { padding-top: 20px; }
+.disabled_pt-6:disabled  { padding-top: 24px; }
+.disabled_pt-7:disabled  { padding-top: 28px; }
+.disabled_pt-8:disabled  { padding-top: 32px; }
+.disabled_pt-9:disabled  { padding-top: 36px; }
+.disabled_pt-10:disabled  { padding-top: 40px; }
+.disabled_pt-11:disabled  { padding-top: 44px; }
+.disabled_pt-12:disabled  { padding-top: 48px; }
+.disabled_pt-14:disabled  { padding-top: 56px; }
+.disabled_pt-16:disabled  { padding-top: 64px; }
+.disabled_pt-20:disabled  { padding-top: 80px; }
+.disabled_pt-24:disabled  { padding-top: 96px; }
+.disabled_pt-28:disabled  { padding-top: 112px; }
+.disabled_pt-32:disabled  { padding-top: 128px; }
+.disabled_pt-36:disabled  { padding-top: 144px; }
+.disabled_pt-40:disabled  { padding-top: 160px; }
+.disabled_pt-44:disabled  { padding-top: 176px; }
+.disabled_pt-48:disabled  { padding-top: 192px; }
+.disabled_pt-52:disabled  { padding-top: 208px; }
+.disabled_pt-56:disabled  { padding-top: 224px; }
+.disabled_pt-60:disabled  { padding-top: 240px; }
+.disabled_pt-64:disabled  { padding-top: 256px; }
+.disabled_pt-72:disabled  { padding-top: 288px; }
+.disabled_pt-80:disabled  { padding-top: 320px; }
+.disabled_pt-96:disabled  { padding-top: 384px; }
+.disabled_pt-px:disabled  { padding-top: 1px; }
+.disabled_pr-0:disabled  { padding-right: 0px; }
+.disabled_pr-0d5:disabled  { padding-right: 2px; }
+.disabled_pr-1:disabled  { padding-right: 4px; }
+.disabled_pr-1d5:disabled  { padding-right: 6px; }
+.disabled_pr-2:disabled  { padding-right: 8px; }
+.disabled_pr-2d5:disabled  { padding-right: 10px; }
+.disabled_pr-3:disabled  { padding-right: 12px; }
+.disabled_pr-3d5:disabled  { padding-right: 14px; }
+.disabled_pr-4:disabled  { padding-right: 16px; }
+.disabled_pr-5:disabled  { padding-right: 20px; }
+.disabled_pr-6:disabled  { padding-right: 24px; }
+.disabled_pr-7:disabled  { padding-right: 28px; }
+.disabled_pr-8:disabled  { padding-right: 32px; }
+.disabled_pr-9:disabled  { padding-right: 36px; }
+.disabled_pr-10:disabled  { padding-right: 40px; }
+.disabled_pr-11:disabled  { padding-right: 44px; }
+.disabled_pr-12:disabled  { padding-right: 48px; }
+.disabled_pr-14:disabled  { padding-right: 56px; }
+.disabled_pr-16:disabled  { padding-right: 64px; }
+.disabled_pr-20:disabled  { padding-right: 80px; }
+.disabled_pr-24:disabled  { padding-right: 96px; }
+.disabled_pr-28:disabled  { padding-right: 112px; }
+.disabled_pr-32:disabled  { padding-right: 128px; }
+.disabled_pr-36:disabled  { padding-right: 144px; }
+.disabled_pr-40:disabled  { padding-right: 160px; }
+.disabled_pr-44:disabled  { padding-right: 176px; }
+.disabled_pr-48:disabled  { padding-right: 192px; }
+.disabled_pr-52:disabled  { padding-right: 208px; }
+.disabled_pr-56:disabled  { padding-right: 224px; }
+.disabled_pr-60:disabled  { padding-right: 240px; }
+.disabled_pr-64:disabled  { padding-right: 256px; }
+.disabled_pr-72:disabled  { padding-right: 288px; }
+.disabled_pr-80:disabled  { padding-right: 320px; }
+.disabled_pr-96:disabled  { padding-right: 384px; }
+.disabled_pr-px:disabled  { padding-right: 1px; }
+.disabled_pb-0:disabled  { padding-bottom: 0px; }
+.disabled_pb-0d5:disabled  { padding-bottom: 2px; }
+.disabled_pb-1:disabled  { padding-bottom: 4px; }
+.disabled_pb-1d5:disabled  { padding-bottom: 6px; }
+.disabled_pb-2:disabled  { padding-bottom: 8px; }
+.disabled_pb-2d5:disabled  { padding-bottom: 10px; }
+.disabled_pb-3:disabled  { padding-bottom: 12px; }
+.disabled_pb-3d5:disabled  { padding-bottom: 14px; }
+.disabled_pb-4:disabled  { padding-bottom: 16px; }
+.disabled_pb-5:disabled  { padding-bottom: 20px; }
+.disabled_pb-6:disabled  { padding-bottom: 24px; }
+.disabled_pb-7:disabled  { padding-bottom: 28px; }
+.disabled_pb-8:disabled  { padding-bottom: 32px; }
+.disabled_pb-9:disabled  { padding-bottom: 36px; }
+.disabled_pb-10:disabled  { padding-bottom: 40px; }
+.disabled_pb-11:disabled  { padding-bottom: 44px; }
+.disabled_pb-12:disabled  { padding-bottom: 48px; }
+.disabled_pb-14:disabled  { padding-bottom: 56px; }
+.disabled_pb-16:disabled  { padding-bottom: 64px; }
+.disabled_pb-20:disabled  { padding-bottom: 80px; }
+.disabled_pb-24:disabled  { padding-bottom: 96px; }
+.disabled_pb-28:disabled  { padding-bottom: 112px; }
+.disabled_pb-32:disabled  { padding-bottom: 128px; }
+.disabled_pb-36:disabled  { padding-bottom: 144px; }
+.disabled_pb-40:disabled  { padding-bottom: 160px; }
+.disabled_pb-44:disabled  { padding-bottom: 176px; }
+.disabled_pb-48:disabled  { padding-bottom: 192px; }
+.disabled_pb-52:disabled  { padding-bottom: 208px; }
+.disabled_pb-56:disabled  { padding-bottom: 224px; }
+.disabled_pb-60:disabled  { padding-bottom: 240px; }
+.disabled_pb-64:disabled  { padding-bottom: 256px; }
+.disabled_pb-72:disabled  { padding-bottom: 288px; }
+.disabled_pb-80:disabled  { padding-bottom: 320px; }
+.disabled_pb-96:disabled  { padding-bottom: 384px; }
+.disabled_pb-px:disabled  { padding-bottom: 1px; }
+.disabled_pl-0:disabled  { padding-left: 0px; }
+.disabled_pl-0d5:disabled  { padding-left: 2px; }
+.disabled_pl-1:disabled  { padding-left: 4px; }
+.disabled_pl-1d5:disabled  { padding-left: 6px; }
+.disabled_pl-2:disabled  { padding-left: 8px; }
+.disabled_pl-2d5:disabled  { padding-left: 10px; }
+.disabled_pl-3:disabled  { padding-left: 12px; }
+.disabled_pl-3d5:disabled  { padding-left: 14px; }
+.disabled_pl-4:disabled  { padding-left: 16px; }
+.disabled_pl-5:disabled  { padding-left: 20px; }
+.disabled_pl-6:disabled  { padding-left: 24px; }
+.disabled_pl-7:disabled  { padding-left: 28px; }
+.disabled_pl-8:disabled  { padding-left: 32px; }
+.disabled_pl-9:disabled  { padding-left: 36px; }
+.disabled_pl-10:disabled  { padding-left: 40px; }
+.disabled_pl-11:disabled  { padding-left: 44px; }
+.disabled_pl-12:disabled  { padding-left: 48px; }
+.disabled_pl-14:disabled  { padding-left: 56px; }
+.disabled_pl-16:disabled  { padding-left: 64px; }
+.disabled_pl-20:disabled  { padding-left: 80px; }
+.disabled_pl-24:disabled  { padding-left: 96px; }
+.disabled_pl-28:disabled  { padding-left: 112px; }
+.disabled_pl-32:disabled  { padding-left: 128px; }
+.disabled_pl-36:disabled  { padding-left: 144px; }
+.disabled_pl-40:disabled  { padding-left: 160px; }
+.disabled_pl-44:disabled  { padding-left: 176px; }
+.disabled_pl-48:disabled  { padding-left: 192px; }
+.disabled_pl-52:disabled  { padding-left: 208px; }
+.disabled_pl-56:disabled  { padding-left: 224px; }
+.disabled_pl-60:disabled  { padding-left: 240px; }
+.disabled_pl-64:disabled  { padding-left: 256px; }
+.disabled_pl-72:disabled  { padding-left: 288px; }
+.disabled_pl-80:disabled  { padding-left: 320px; }
+.disabled_pl-96:disabled  { padding-left: 384px; }
+.disabled_pl-px:disabled  { padding-left: 1px; }
+.disabled_m-0:disabled  { margin: 0px; }
+.disabled_m-0d5:disabled  { margin: 2px; }
+.disabled_m-1:disabled  { margin: 4px; }
+.disabled_m-1d5:disabled  { margin: 6px; }
+.disabled_m-2:disabled  { margin: 8px; }
+.disabled_m-2d5:disabled  { margin: 10px; }
+.disabled_m-3:disabled  { margin: 12px; }
+.disabled_m-3d5:disabled  { margin: 14px; }
+.disabled_m-4:disabled  { margin: 16px; }
+.disabled_m-5:disabled  { margin: 20px; }
+.disabled_m-6:disabled  { margin: 24px; }
+.disabled_m-7:disabled  { margin: 28px; }
+.disabled_m-8:disabled  { margin: 32px; }
+.disabled_m-9:disabled  { margin: 36px; }
+.disabled_m-10:disabled  { margin: 40px; }
+.disabled_m-11:disabled  { margin: 44px; }
+.disabled_m-12:disabled  { margin: 48px; }
+.disabled_m-14:disabled  { margin: 56px; }
+.disabled_m-16:disabled  { margin: 64px; }
+.disabled_m-20:disabled  { margin: 80px; }
+.disabled_m-24:disabled  { margin: 96px; }
+.disabled_m-28:disabled  { margin: 112px; }
+.disabled_m-32:disabled  { margin: 128px; }
+.disabled_m-36:disabled  { margin: 144px; }
+.disabled_m-40:disabled  { margin: 160px; }
+.disabled_m-44:disabled  { margin: 176px; }
+.disabled_m-48:disabled  { margin: 192px; }
+.disabled_m-52:disabled  { margin: 208px; }
+.disabled_m-56:disabled  { margin: 224px; }
+.disabled_m-60:disabled  { margin: 240px; }
+.disabled_m-64:disabled  { margin: 256px; }
+.disabled_m-72:disabled  { margin: 288px; }
+.disabled_m-80:disabled  { margin: 320px; }
+.disabled_m-96:disabled  { margin: 384px; }
+.disabled_m-px:disabled  { margin: 1px; }
+.disabled_-m-0:disabled  { margin: -0px; }
+.disabled_-m-0d5:disabled  { margin: -2px; }
+.disabled_-m-1:disabled  { margin: -4px; }
+.disabled_-m-1d5:disabled  { margin: -6px; }
+.disabled_-m-2:disabled  { margin: -8px; }
+.disabled_-m-2d5:disabled  { margin: -10px; }
+.disabled_-m-3:disabled  { margin: -12px; }
+.disabled_-m-3d5:disabled  { margin: -14px; }
+.disabled_-m-4:disabled  { margin: -16px; }
+.disabled_-m-5:disabled  { margin: -20px; }
+.disabled_-m-6:disabled  { margin: -24px; }
+.disabled_-m-7:disabled  { margin: -28px; }
+.disabled_-m-8:disabled  { margin: -32px; }
+.disabled_-m-9:disabled  { margin: -36px; }
+.disabled_-m-10:disabled  { margin: -40px; }
+.disabled_-m-11:disabled  { margin: -44px; }
+.disabled_-m-12:disabled  { margin: -48px; }
+.disabled_-m-14:disabled  { margin: -56px; }
+.disabled_-m-16:disabled  { margin: -64px; }
+.disabled_-m-20:disabled  { margin: -80px; }
+.disabled_-m-24:disabled  { margin: -96px; }
+.disabled_-m-28:disabled  { margin: -112px; }
+.disabled_-m-32:disabled  { margin: -128px; }
+.disabled_-m-36:disabled  { margin: -144px; }
+.disabled_-m-40:disabled  { margin: -160px; }
+.disabled_-m-44:disabled  { margin: -176px; }
+.disabled_-m-48:disabled  { margin: -192px; }
+.disabled_-m-52:disabled  { margin: -208px; }
+.disabled_-m-56:disabled  { margin: -224px; }
+.disabled_-m-60:disabled  { margin: -240px; }
+.disabled_-m-64:disabled  { margin: -256px; }
+.disabled_-m-72:disabled  { margin: -288px; }
+.disabled_-m-80:disabled  { margin: -320px; }
+.disabled_-m-96:disabled  { margin: -384px; }
+.disabled_-m-px:disabled  { margin: -1px; }
+.disabled_m-auto:disabled  { margin: auto; }
+.disabled_mx-0:disabled  { margin-left: 0px; margin-right: 0px; }
+.disabled_mx-0d5:disabled  { margin-left: 2px; margin-right: 2px; }
+.disabled_mx-1:disabled  { margin-left: 4px; margin-right: 4px; }
+.disabled_mx-1d5:disabled  { margin-left: 6px; margin-right: 6px; }
+.disabled_mx-2:disabled  { margin-left: 8px; margin-right: 8px; }
+.disabled_mx-2d5:disabled  { margin-left: 10px; margin-right: 10px; }
+.disabled_mx-3:disabled  { margin-left: 12px; margin-right: 12px; }
+.disabled_mx-3d5:disabled  { margin-left: 14px; margin-right: 14px; }
+.disabled_mx-4:disabled  { margin-left: 16px; margin-right: 16px; }
+.disabled_mx-5:disabled  { margin-left: 20px; margin-right: 20px; }
+.disabled_mx-6:disabled  { margin-left: 24px; margin-right: 24px; }
+.disabled_mx-7:disabled  { margin-left: 28px; margin-right: 28px; }
+.disabled_mx-8:disabled  { margin-left: 32px; margin-right: 32px; }
+.disabled_mx-9:disabled  { margin-left: 36px; margin-right: 36px; }
+.disabled_mx-10:disabled  { margin-left: 40px; margin-right: 40px; }
+.disabled_mx-11:disabled  { margin-left: 44px; margin-right: 44px; }
+.disabled_mx-12:disabled  { margin-left: 48px; margin-right: 48px; }
+.disabled_mx-14:disabled  { margin-left: 56px; margin-right: 56px; }
+.disabled_mx-16:disabled  { margin-left: 64px; margin-right: 64px; }
+.disabled_mx-20:disabled  { margin-left: 80px; margin-right: 80px; }
+.disabled_mx-24:disabled  { margin-left: 96px; margin-right: 96px; }
+.disabled_mx-28:disabled  { margin-left: 112px; margin-right: 112px; }
+.disabled_mx-32:disabled  { margin-left: 128px; margin-right: 128px; }
+.disabled_mx-36:disabled  { margin-left: 144px; margin-right: 144px; }
+.disabled_mx-40:disabled  { margin-left: 160px; margin-right: 160px; }
+.disabled_mx-44:disabled  { margin-left: 176px; margin-right: 176px; }
+.disabled_mx-48:disabled  { margin-left: 192px; margin-right: 192px; }
+.disabled_mx-52:disabled  { margin-left: 208px; margin-right: 208px; }
+.disabled_mx-56:disabled  { margin-left: 224px; margin-right: 224px; }
+.disabled_mx-60:disabled  { margin-left: 240px; margin-right: 240px; }
+.disabled_mx-64:disabled  { margin-left: 256px; margin-right: 256px; }
+.disabled_mx-72:disabled  { margin-left: 288px; margin-right: 288px; }
+.disabled_mx-80:disabled  { margin-left: 320px; margin-right: 320px; }
+.disabled_mx-96:disabled  { margin-left: 384px; margin-right: 384px; }
+.disabled_mx-px:disabled  { margin-left: 1px; margin-right: 1px; }
+.disabled_-mx-0:disabled  { margin-left: -0px; margin-right: -0px; }
+.disabled_-mx-0d5:disabled  { margin-left: -2px; margin-right: -2px; }
+.disabled_-mx-1:disabled  { margin-left: -4px; margin-right: -4px; }
+.disabled_-mx-1d5:disabled  { margin-left: -6px; margin-right: -6px; }
+.disabled_-mx-2:disabled  { margin-left: -8px; margin-right: -8px; }
+.disabled_-mx-2d5:disabled  { margin-left: -10px; margin-right: -10px; }
+.disabled_-mx-3:disabled  { margin-left: -12px; margin-right: -12px; }
+.disabled_-mx-3d5:disabled  { margin-left: -14px; margin-right: -14px; }
+.disabled_-mx-4:disabled  { margin-left: -16px; margin-right: -16px; }
+.disabled_-mx-5:disabled  { margin-left: -20px; margin-right: -20px; }
+.disabled_-mx-6:disabled  { margin-left: -24px; margin-right: -24px; }
+.disabled_-mx-7:disabled  { margin-left: -28px; margin-right: -28px; }
+.disabled_-mx-8:disabled  { margin-left: -32px; margin-right: -32px; }
+.disabled_-mx-9:disabled  { margin-left: -36px; margin-right: -36px; }
+.disabled_-mx-10:disabled  { margin-left: -40px; margin-right: -40px; }
+.disabled_-mx-11:disabled  { margin-left: -44px; margin-right: -44px; }
+.disabled_-mx-12:disabled  { margin-left: -48px; margin-right: -48px; }
+.disabled_-mx-14:disabled  { margin-left: -56px; margin-right: -56px; }
+.disabled_-mx-16:disabled  { margin-left: -64px; margin-right: -64px; }
+.disabled_-mx-20:disabled  { margin-left: -80px; margin-right: -80px; }
+.disabled_-mx-24:disabled  { margin-left: -96px; margin-right: -96px; }
+.disabled_-mx-28:disabled  { margin-left: -112px; margin-right: -112px; }
+.disabled_-mx-32:disabled  { margin-left: -128px; margin-right: -128px; }
+.disabled_-mx-36:disabled  { margin-left: -144px; margin-right: -144px; }
+.disabled_-mx-40:disabled  { margin-left: -160px; margin-right: -160px; }
+.disabled_-mx-44:disabled  { margin-left: -176px; margin-right: -176px; }
+.disabled_-mx-48:disabled  { margin-left: -192px; margin-right: -192px; }
+.disabled_-mx-52:disabled  { margin-left: -208px; margin-right: -208px; }
+.disabled_-mx-56:disabled  { margin-left: -224px; margin-right: -224px; }
+.disabled_-mx-60:disabled  { margin-left: -240px; margin-right: -240px; }
+.disabled_-mx-64:disabled  { margin-left: -256px; margin-right: -256px; }
+.disabled_-mx-72:disabled  { margin-left: -288px; margin-right: -288px; }
+.disabled_-mx-80:disabled  { margin-left: -320px; margin-right: -320px; }
+.disabled_-mx-96:disabled  { margin-left: -384px; margin-right: -384px; }
+.disabled_-mx-px:disabled  { margin-left: -1px; margin-right: -1px; }
+.disabled_mx-auto:disabled  { margin-left: auto; margin-right: auto; }
+.disabled_my-0:disabled  { margin-top: 0px; margin-bottom: 0px; }
+.disabled_my-0d5:disabled  { margin-top: 2px; margin-bottom: 2px; }
+.disabled_my-1:disabled  { margin-top: 4px; margin-bottom: 4px; }
+.disabled_my-1d5:disabled  { margin-top: 6px; margin-bottom: 6px; }
+.disabled_my-2:disabled  { margin-top: 8px; margin-bottom: 8px; }
+.disabled_my-2d5:disabled  { margin-top: 10px; margin-bottom: 10px; }
+.disabled_my-3:disabled  { margin-top: 12px; margin-bottom: 12px; }
+.disabled_my-3d5:disabled  { margin-top: 14px; margin-bottom: 14px; }
+.disabled_my-4:disabled  { margin-top: 16px; margin-bottom: 16px; }
+.disabled_my-5:disabled  { margin-top: 20px; margin-bottom: 20px; }
+.disabled_my-6:disabled  { margin-top: 24px; margin-bottom: 24px; }
+.disabled_my-7:disabled  { margin-top: 28px; margin-bottom: 28px; }
+.disabled_my-8:disabled  { margin-top: 32px; margin-bottom: 32px; }
+.disabled_my-9:disabled  { margin-top: 36px; margin-bottom: 36px; }
+.disabled_my-10:disabled  { margin-top: 40px; margin-bottom: 40px; }
+.disabled_my-11:disabled  { margin-top: 44px; margin-bottom: 44px; }
+.disabled_my-12:disabled  { margin-top: 48px; margin-bottom: 48px; }
+.disabled_my-14:disabled  { margin-top: 56px; margin-bottom: 56px; }
+.disabled_my-16:disabled  { margin-top: 64px; margin-bottom: 64px; }
+.disabled_my-20:disabled  { margin-top: 80px; margin-bottom: 80px; }
+.disabled_my-24:disabled  { margin-top: 96px; margin-bottom: 96px; }
+.disabled_my-28:disabled  { margin-top: 112px; margin-bottom: 112px; }
+.disabled_my-32:disabled  { margin-top: 128px; margin-bottom: 128px; }
+.disabled_my-36:disabled  { margin-top: 144px; margin-bottom: 144px; }
+.disabled_my-40:disabled  { margin-top: 160px; margin-bottom: 160px; }
+.disabled_my-44:disabled  { margin-top: 176px; margin-bottom: 176px; }
+.disabled_my-48:disabled  { margin-top: 192px; margin-bottom: 192px; }
+.disabled_my-52:disabled  { margin-top: 208px; margin-bottom: 208px; }
+.disabled_my-56:disabled  { margin-top: 224px; margin-bottom: 224px; }
+.disabled_my-60:disabled  { margin-top: 240px; margin-bottom: 240px; }
+.disabled_my-64:disabled  { margin-top: 256px; margin-bottom: 256px; }
+.disabled_my-72:disabled  { margin-top: 288px; margin-bottom: 288px; }
+.disabled_my-80:disabled  { margin-top: 320px; margin-bottom: 320px; }
+.disabled_my-96:disabled  { margin-top: 384px; margin-bottom: 384px; }
+.disabled_my-px:disabled  { margin-top: 1px; margin-bottom: 1px; }
+.disabled_-my-0:disabled  { margin-top: -0px; margin-bottom: -0px; }
+.disabled_-my-0d5:disabled  { margin-top: -2px; margin-bottom: -2px; }
+.disabled_-my-1:disabled  { margin-top: -4px; margin-bottom: -4px; }
+.disabled_-my-1d5:disabled  { margin-top: -6px; margin-bottom: -6px; }
+.disabled_-my-2:disabled  { margin-top: -8px; margin-bottom: -8px; }
+.disabled_-my-2d5:disabled  { margin-top: -10px; margin-bottom: -10px; }
+.disabled_-my-3:disabled  { margin-top: -12px; margin-bottom: -12px; }
+.disabled_-my-3d5:disabled  { margin-top: -14px; margin-bottom: -14px; }
+.disabled_-my-4:disabled  { margin-top: -16px; margin-bottom: -16px; }
+.disabled_-my-5:disabled  { margin-top: -20px; margin-bottom: -20px; }
+.disabled_-my-6:disabled  { margin-top: -24px; margin-bottom: -24px; }
+.disabled_-my-7:disabled  { margin-top: -28px; margin-bottom: -28px; }
+.disabled_-my-8:disabled  { margin-top: -32px; margin-bottom: -32px; }
+.disabled_-my-9:disabled  { margin-top: -36px; margin-bottom: -36px; }
+.disabled_-my-10:disabled  { margin-top: -40px; margin-bottom: -40px; }
+.disabled_-my-11:disabled  { margin-top: -44px; margin-bottom: -44px; }
+.disabled_-my-12:disabled  { margin-top: -48px; margin-bottom: -48px; }
+.disabled_-my-14:disabled  { margin-top: -56px; margin-bottom: -56px; }
+.disabled_-my-16:disabled  { margin-top: -64px; margin-bottom: -64px; }
+.disabled_-my-20:disabled  { margin-top: -80px; margin-bottom: -80px; }
+.disabled_-my-24:disabled  { margin-top: -96px; margin-bottom: -96px; }
+.disabled_-my-28:disabled  { margin-top: -112px; margin-bottom: -112px; }
+.disabled_-my-32:disabled  { margin-top: -128px; margin-bottom: -128px; }
+.disabled_-my-36:disabled  { margin-top: -144px; margin-bottom: -144px; }
+.disabled_-my-40:disabled  { margin-top: -160px; margin-bottom: -160px; }
+.disabled_-my-44:disabled  { margin-top: -176px; margin-bottom: -176px; }
+.disabled_-my-48:disabled  { margin-top: -192px; margin-bottom: -192px; }
+.disabled_-my-52:disabled  { margin-top: -208px; margin-bottom: -208px; }
+.disabled_-my-56:disabled  { margin-top: -224px; margin-bottom: -224px; }
+.disabled_-my-60:disabled  { margin-top: -240px; margin-bottom: -240px; }
+.disabled_-my-64:disabled  { margin-top: -256px; margin-bottom: -256px; }
+.disabled_-my-72:disabled  { margin-top: -288px; margin-bottom: -288px; }
+.disabled_-my-80:disabled  { margin-top: -320px; margin-bottom: -320px; }
+.disabled_-my-96:disabled  { margin-top: -384px; margin-bottom: -384px; }
+.disabled_-my-px:disabled  { margin-top: -1px; margin-bottom: -1px; }
+.disabled_my-auto:disabled  { margin-top: auto; margin-bottom: auto; }
+.disabled_mt-0:disabled  { margin-top: 0px; }
+.disabled_mt-0d5:disabled  { margin-top: 2px; }
+.disabled_mt-1:disabled  { margin-top: 4px; }
+.disabled_mt-1d5:disabled  { margin-top: 6px; }
+.disabled_mt-2:disabled  { margin-top: 8px; }
+.disabled_mt-2d5:disabled  { margin-top: 10px; }
+.disabled_mt-3:disabled  { margin-top: 12px; }
+.disabled_mt-3d5:disabled  { margin-top: 14px; }
+.disabled_mt-4:disabled  { margin-top: 16px; }
+.disabled_mt-5:disabled  { margin-top: 20px; }
+.disabled_mt-6:disabled  { margin-top: 24px; }
+.disabled_mt-7:disabled  { margin-top: 28px; }
+.disabled_mt-8:disabled  { margin-top: 32px; }
+.disabled_mt-9:disabled  { margin-top: 36px; }
+.disabled_mt-10:disabled  { margin-top: 40px; }
+.disabled_mt-11:disabled  { margin-top: 44px; }
+.disabled_mt-12:disabled  { margin-top: 48px; }
+.disabled_mt-14:disabled  { margin-top: 56px; }
+.disabled_mt-16:disabled  { margin-top: 64px; }
+.disabled_mt-20:disabled  { margin-top: 80px; }
+.disabled_mt-24:disabled  { margin-top: 96px; }
+.disabled_mt-28:disabled  { margin-top: 112px; }
+.disabled_mt-32:disabled  { margin-top: 128px; }
+.disabled_mt-36:disabled  { margin-top: 144px; }
+.disabled_mt-40:disabled  { margin-top: 160px; }
+.disabled_mt-44:disabled  { margin-top: 176px; }
+.disabled_mt-48:disabled  { margin-top: 192px; }
+.disabled_mt-52:disabled  { margin-top: 208px; }
+.disabled_mt-56:disabled  { margin-top: 224px; }
+.disabled_mt-60:disabled  { margin-top: 240px; }
+.disabled_mt-64:disabled  { margin-top: 256px; }
+.disabled_mt-72:disabled  { margin-top: 288px; }
+.disabled_mt-80:disabled  { margin-top: 320px; }
+.disabled_mt-96:disabled  { margin-top: 384px; }
+.disabled_mt-px:disabled  { margin-top: 1px; }
+.disabled_-mt-0:disabled  { margin-top: -0px; }
+.disabled_-mt-0d5:disabled  { margin-top: -2px; }
+.disabled_-mt-1:disabled  { margin-top: -4px; }
+.disabled_-mt-1d5:disabled  { margin-top: -6px; }
+.disabled_-mt-2:disabled  { margin-top: -8px; }
+.disabled_-mt-2d5:disabled  { margin-top: -10px; }
+.disabled_-mt-3:disabled  { margin-top: -12px; }
+.disabled_-mt-3d5:disabled  { margin-top: -14px; }
+.disabled_-mt-4:disabled  { margin-top: -16px; }
+.disabled_-mt-5:disabled  { margin-top: -20px; }
+.disabled_-mt-6:disabled  { margin-top: -24px; }
+.disabled_-mt-7:disabled  { margin-top: -28px; }
+.disabled_-mt-8:disabled  { margin-top: -32px; }
+.disabled_-mt-9:disabled  { margin-top: -36px; }
+.disabled_-mt-10:disabled  { margin-top: -40px; }
+.disabled_-mt-11:disabled  { margin-top: -44px; }
+.disabled_-mt-12:disabled  { margin-top: -48px; }
+.disabled_-mt-14:disabled  { margin-top: -56px; }
+.disabled_-mt-16:disabled  { margin-top: -64px; }
+.disabled_-mt-20:disabled  { margin-top: -80px; }
+.disabled_-mt-24:disabled  { margin-top: -96px; }
+.disabled_-mt-28:disabled  { margin-top: -112px; }
+.disabled_-mt-32:disabled  { margin-top: -128px; }
+.disabled_-mt-36:disabled  { margin-top: -144px; }
+.disabled_-mt-40:disabled  { margin-top: -160px; }
+.disabled_-mt-44:disabled  { margin-top: -176px; }
+.disabled_-mt-48:disabled  { margin-top: -192px; }
+.disabled_-mt-52:disabled  { margin-top: -208px; }
+.disabled_-mt-56:disabled  { margin-top: -224px; }
+.disabled_-mt-60:disabled  { margin-top: -240px; }
+.disabled_-mt-64:disabled  { margin-top: -256px; }
+.disabled_-mt-72:disabled  { margin-top: -288px; }
+.disabled_-mt-80:disabled  { margin-top: -320px; }
+.disabled_-mt-96:disabled  { margin-top: -384px; }
+.disabled_-mt-px:disabled  { margin-top: -1px; }
+.disabled_mt-auto:disabled  { margin-top: auto; }
+.disabled_mr-0:disabled  { margin-right: 0px; }
+.disabled_mr-0d5:disabled  { margin-right: 2px; }
+.disabled_mr-1:disabled  { margin-right: 4px; }
+.disabled_mr-1d5:disabled  { margin-right: 6px; }
+.disabled_mr-2:disabled  { margin-right: 8px; }
+.disabled_mr-2d5:disabled  { margin-right: 10px; }
+.disabled_mr-3:disabled  { margin-right: 12px; }
+.disabled_mr-3d5:disabled  { margin-right: 14px; }
+.disabled_mr-4:disabled  { margin-right: 16px; }
+.disabled_mr-5:disabled  { margin-right: 20px; }
+.disabled_mr-6:disabled  { margin-right: 24px; }
+.disabled_mr-7:disabled  { margin-right: 28px; }
+.disabled_mr-8:disabled  { margin-right: 32px; }
+.disabled_mr-9:disabled  { margin-right: 36px; }
+.disabled_mr-10:disabled  { margin-right: 40px; }
+.disabled_mr-11:disabled  { margin-right: 44px; }
+.disabled_mr-12:disabled  { margin-right: 48px; }
+.disabled_mr-14:disabled  { margin-right: 56px; }
+.disabled_mr-16:disabled  { margin-right: 64px; }
+.disabled_mr-20:disabled  { margin-right: 80px; }
+.disabled_mr-24:disabled  { margin-right: 96px; }
+.disabled_mr-28:disabled  { margin-right: 112px; }
+.disabled_mr-32:disabled  { margin-right: 128px; }
+.disabled_mr-36:disabled  { margin-right: 144px; }
+.disabled_mr-40:disabled  { margin-right: 160px; }
+.disabled_mr-44:disabled  { margin-right: 176px; }
+.disabled_mr-48:disabled  { margin-right: 192px; }
+.disabled_mr-52:disabled  { margin-right: 208px; }
+.disabled_mr-56:disabled  { margin-right: 224px; }
+.disabled_mr-60:disabled  { margin-right: 240px; }
+.disabled_mr-64:disabled  { margin-right: 256px; }
+.disabled_mr-72:disabled  { margin-right: 288px; }
+.disabled_mr-80:disabled  { margin-right: 320px; }
+.disabled_mr-96:disabled  { margin-right: 384px; }
+.disabled_mr-px:disabled  { margin-right: 1px; }
+.disabled_-mr-0:disabled  { margin-right: -0px; }
+.disabled_-mr-0d5:disabled  { margin-right: -2px; }
+.disabled_-mr-1:disabled  { margin-right: -4px; }
+.disabled_-mr-1d5:disabled  { margin-right: -6px; }
+.disabled_-mr-2:disabled  { margin-right: -8px; }
+.disabled_-mr-2d5:disabled  { margin-right: -10px; }
+.disabled_-mr-3:disabled  { margin-right: -12px; }
+.disabled_-mr-3d5:disabled  { margin-right: -14px; }
+.disabled_-mr-4:disabled  { margin-right: -16px; }
+.disabled_-mr-5:disabled  { margin-right: -20px; }
+.disabled_-mr-6:disabled  { margin-right: -24px; }
+.disabled_-mr-7:disabled  { margin-right: -28px; }
+.disabled_-mr-8:disabled  { margin-right: -32px; }
+.disabled_-mr-9:disabled  { margin-right: -36px; }
+.disabled_-mr-10:disabled  { margin-right: -40px; }
+.disabled_-mr-11:disabled  { margin-right: -44px; }
+.disabled_-mr-12:disabled  { margin-right: -48px; }
+.disabled_-mr-14:disabled  { margin-right: -56px; }
+.disabled_-mr-16:disabled  { margin-right: -64px; }
+.disabled_-mr-20:disabled  { margin-right: -80px; }
+.disabled_-mr-24:disabled  { margin-right: -96px; }
+.disabled_-mr-28:disabled  { margin-right: -112px; }
+.disabled_-mr-32:disabled  { margin-right: -128px; }
+.disabled_-mr-36:disabled  { margin-right: -144px; }
+.disabled_-mr-40:disabled  { margin-right: -160px; }
+.disabled_-mr-44:disabled  { margin-right: -176px; }
+.disabled_-mr-48:disabled  { margin-right: -192px; }
+.disabled_-mr-52:disabled  { margin-right: -208px; }
+.disabled_-mr-56:disabled  { margin-right: -224px; }
+.disabled_-mr-60:disabled  { margin-right: -240px; }
+.disabled_-mr-64:disabled  { margin-right: -256px; }
+.disabled_-mr-72:disabled  { margin-right: -288px; }
+.disabled_-mr-80:disabled  { margin-right: -320px; }
+.disabled_-mr-96:disabled  { margin-right: -384px; }
+.disabled_-mr-px:disabled  { margin-right: -1px; }
+.disabled_mr-auto:disabled  { margin-right: auto; }
+.disabled_mb-0:disabled  { margin-bottom: 0px; }
+.disabled_mb-0d5:disabled  { margin-bottom: 2px; }
+.disabled_mb-1:disabled  { margin-bottom: 4px; }
+.disabled_mb-1d5:disabled  { margin-bottom: 6px; }
+.disabled_mb-2:disabled  { margin-bottom: 8px; }
+.disabled_mb-2d5:disabled  { margin-bottom: 10px; }
+.disabled_mb-3:disabled  { margin-bottom: 12px; }
+.disabled_mb-3d5:disabled  { margin-bottom: 14px; }
+.disabled_mb-4:disabled  { margin-bottom: 16px; }
+.disabled_mb-5:disabled  { margin-bottom: 20px; }
+.disabled_mb-6:disabled  { margin-bottom: 24px; }
+.disabled_mb-7:disabled  { margin-bottom: 28px; }
+.disabled_mb-8:disabled  { margin-bottom: 32px; }
+.disabled_mb-9:disabled  { margin-bottom: 36px; }
+.disabled_mb-10:disabled  { margin-bottom: 40px; }
+.disabled_mb-11:disabled  { margin-bottom: 44px; }
+.disabled_mb-12:disabled  { margin-bottom: 48px; }
+.disabled_mb-14:disabled  { margin-bottom: 56px; }
+.disabled_mb-16:disabled  { margin-bottom: 64px; }
+.disabled_mb-20:disabled  { margin-bottom: 80px; }
+.disabled_mb-24:disabled  { margin-bottom: 96px; }
+.disabled_mb-28:disabled  { margin-bottom: 112px; }
+.disabled_mb-32:disabled  { margin-bottom: 128px; }
+.disabled_mb-36:disabled  { margin-bottom: 144px; }
+.disabled_mb-40:disabled  { margin-bottom: 160px; }
+.disabled_mb-44:disabled  { margin-bottom: 176px; }
+.disabled_mb-48:disabled  { margin-bottom: 192px; }
+.disabled_mb-52:disabled  { margin-bottom: 208px; }
+.disabled_mb-56:disabled  { margin-bottom: 224px; }
+.disabled_mb-60:disabled  { margin-bottom: 240px; }
+.disabled_mb-64:disabled  { margin-bottom: 256px; }
+.disabled_mb-72:disabled  { margin-bottom: 288px; }
+.disabled_mb-80:disabled  { margin-bottom: 320px; }
+.disabled_mb-96:disabled  { margin-bottom: 384px; }
+.disabled_mb-px:disabled  { margin-bottom: 1px; }
+.disabled_-mb-0:disabled  { margin-bottom: -0px; }
+.disabled_-mb-0d5:disabled  { margin-bottom: -2px; }
+.disabled_-mb-1:disabled  { margin-bottom: -4px; }
+.disabled_-mb-1d5:disabled  { margin-bottom: -6px; }
+.disabled_-mb-2:disabled  { margin-bottom: -8px; }
+.disabled_-mb-2d5:disabled  { margin-bottom: -10px; }
+.disabled_-mb-3:disabled  { margin-bottom: -12px; }
+.disabled_-mb-3d5:disabled  { margin-bottom: -14px; }
+.disabled_-mb-4:disabled  { margin-bottom: -16px; }
+.disabled_-mb-5:disabled  { margin-bottom: -20px; }
+.disabled_-mb-6:disabled  { margin-bottom: -24px; }
+.disabled_-mb-7:disabled  { margin-bottom: -28px; }
+.disabled_-mb-8:disabled  { margin-bottom: -32px; }
+.disabled_-mb-9:disabled  { margin-bottom: -36px; }
+.disabled_-mb-10:disabled  { margin-bottom: -40px; }
+.disabled_-mb-11:disabled  { margin-bottom: -44px; }
+.disabled_-mb-12:disabled  { margin-bottom: -48px; }
+.disabled_-mb-14:disabled  { margin-bottom: -56px; }
+.disabled_-mb-16:disabled  { margin-bottom: -64px; }
+.disabled_-mb-20:disabled  { margin-bottom: -80px; }
+.disabled_-mb-24:disabled  { margin-bottom: -96px; }
+.disabled_-mb-28:disabled  { margin-bottom: -112px; }
+.disabled_-mb-32:disabled  { margin-bottom: -128px; }
+.disabled_-mb-36:disabled  { margin-bottom: -144px; }
+.disabled_-mb-40:disabled  { margin-bottom: -160px; }
+.disabled_-mb-44:disabled  { margin-bottom: -176px; }
+.disabled_-mb-48:disabled  { margin-bottom: -192px; }
+.disabled_-mb-52:disabled  { margin-bottom: -208px; }
+.disabled_-mb-56:disabled  { margin-bottom: -224px; }
+.disabled_-mb-60:disabled  { margin-bottom: -240px; }
+.disabled_-mb-64:disabled  { margin-bottom: -256px; }
+.disabled_-mb-72:disabled  { margin-bottom: -288px; }
+.disabled_-mb-80:disabled  { margin-bottom: -320px; }
+.disabled_-mb-96:disabled  { margin-bottom: -384px; }
+.disabled_-mb-px:disabled  { margin-bottom: -1px; }
+.disabled_mb-auto:disabled  { margin-bottom: auto; }
+.disabled_ml-0:disabled  { margin-left: 0px; }
+.disabled_ml-0d5:disabled  { margin-left: 2px; }
+.disabled_ml-1:disabled  { margin-left: 4px; }
+.disabled_ml-1d5:disabled  { margin-left: 6px; }
+.disabled_ml-2:disabled  { margin-left: 8px; }
+.disabled_ml-2d5:disabled  { margin-left: 10px; }
+.disabled_ml-3:disabled  { margin-left: 12px; }
+.disabled_ml-3d5:disabled  { margin-left: 14px; }
+.disabled_ml-4:disabled  { margin-left: 16px; }
+.disabled_ml-5:disabled  { margin-left: 20px; }
+.disabled_ml-6:disabled  { margin-left: 24px; }
+.disabled_ml-7:disabled  { margin-left: 28px; }
+.disabled_ml-8:disabled  { margin-left: 32px; }
+.disabled_ml-9:disabled  { margin-left: 36px; }
+.disabled_ml-10:disabled  { margin-left: 40px; }
+.disabled_ml-11:disabled  { margin-left: 44px; }
+.disabled_ml-12:disabled  { margin-left: 48px; }
+.disabled_ml-14:disabled  { margin-left: 56px; }
+.disabled_ml-16:disabled  { margin-left: 64px; }
+.disabled_ml-20:disabled  { margin-left: 80px; }
+.disabled_ml-24:disabled  { margin-left: 96px; }
+.disabled_ml-28:disabled  { margin-left: 112px; }
+.disabled_ml-32:disabled  { margin-left: 128px; }
+.disabled_ml-36:disabled  { margin-left: 144px; }
+.disabled_ml-40:disabled  { margin-left: 160px; }
+.disabled_ml-44:disabled  { margin-left: 176px; }
+.disabled_ml-48:disabled  { margin-left: 192px; }
+.disabled_ml-52:disabled  { margin-left: 208px; }
+.disabled_ml-56:disabled  { margin-left: 224px; }
+.disabled_ml-60:disabled  { margin-left: 240px; }
+.disabled_ml-64:disabled  { margin-left: 256px; }
+.disabled_ml-72:disabled  { margin-left: 288px; }
+.disabled_ml-80:disabled  { margin-left: 320px; }
+.disabled_ml-96:disabled  { margin-left: 384px; }
+.disabled_ml-px:disabled  { margin-left: 1px; }
+.disabled_-ml-0:disabled  { margin-left: -0px; }
+.disabled_-ml-0d5:disabled  { margin-left: -2px; }
+.disabled_-ml-1:disabled  { margin-left: -4px; }
+.disabled_-ml-1d5:disabled  { margin-left: -6px; }
+.disabled_-ml-2:disabled  { margin-left: -8px; }
+.disabled_-ml-2d5:disabled  { margin-left: -10px; }
+.disabled_-ml-3:disabled  { margin-left: -12px; }
+.disabled_-ml-3d5:disabled  { margin-left: -14px; }
+.disabled_-ml-4:disabled  { margin-left: -16px; }
+.disabled_-ml-5:disabled  { margin-left: -20px; }
+.disabled_-ml-6:disabled  { margin-left: -24px; }
+.disabled_-ml-7:disabled  { margin-left: -28px; }
+.disabled_-ml-8:disabled  { margin-left: -32px; }
+.disabled_-ml-9:disabled  { margin-left: -36px; }
+.disabled_-ml-10:disabled  { margin-left: -40px; }
+.disabled_-ml-11:disabled  { margin-left: -44px; }
+.disabled_-ml-12:disabled  { margin-left: -48px; }
+.disabled_-ml-14:disabled  { margin-left: -56px; }
+.disabled_-ml-16:disabled  { margin-left: -64px; }
+.disabled_-ml-20:disabled  { margin-left: -80px; }
+.disabled_-ml-24:disabled  { margin-left: -96px; }
+.disabled_-ml-28:disabled  { margin-left: -112px; }
+.disabled_-ml-32:disabled  { margin-left: -128px; }
+.disabled_-ml-36:disabled  { margin-left: -144px; }
+.disabled_-ml-40:disabled  { margin-left: -160px; }
+.disabled_-ml-44:disabled  { margin-left: -176px; }
+.disabled_-ml-48:disabled  { margin-left: -192px; }
+.disabled_-ml-52:disabled  { margin-left: -208px; }
+.disabled_-ml-56:disabled  { margin-left: -224px; }
+.disabled_-ml-60:disabled  { margin-left: -240px; }
+.disabled_-ml-64:disabled  { margin-left: -256px; }
+.disabled_-ml-72:disabled  { margin-left: -288px; }
+.disabled_-ml-80:disabled  { margin-left: -320px; }
+.disabled_-ml-96:disabled  { margin-left: -384px; }
+.disabled_-ml-px:disabled  { margin-left: -1px; }
+.disabled_ml-auto:disabled  { margin-left: auto; }
+.disabled_space-x-0:disabled > * { margin-right: 0px; }
+.disabled_space-x-0d5:disabled > * { margin-right: 2px; }
+.disabled_space-x-1:disabled > * { margin-right: 4px; }
+.disabled_space-x-1d5:disabled > * { margin-right: 6px; }
+.disabled_space-x-2:disabled > * { margin-right: 8px; }
+.disabled_space-x-2d5:disabled > * { margin-right: 10px; }
+.disabled_space-x-3:disabled > * { margin-right: 12px; }
+.disabled_space-x-3d5:disabled > * { margin-right: 14px; }
+.disabled_space-x-4:disabled > * { margin-right: 16px; }
+.disabled_space-x-5:disabled > * { margin-right: 20px; }
+.disabled_space-x-6:disabled > * { margin-right: 24px; }
+.disabled_space-x-7:disabled > * { margin-right: 28px; }
+.disabled_space-x-8:disabled > * { margin-right: 32px; }
+.disabled_space-x-9:disabled > * { margin-right: 36px; }
+.disabled_space-x-10:disabled > * { margin-right: 40px; }
+.disabled_space-x-11:disabled > * { margin-right: 44px; }
+.disabled_space-x-12:disabled > * { margin-right: 48px; }
+.disabled_space-x-14:disabled > * { margin-right: 56px; }
+.disabled_space-x-16:disabled > * { margin-right: 64px; }
+.disabled_space-x-20:disabled > * { margin-right: 80px; }
+.disabled_space-x-24:disabled > * { margin-right: 96px; }
+.disabled_space-x-28:disabled > * { margin-right: 112px; }
+.disabled_space-x-32:disabled > * { margin-right: 128px; }
+.disabled_space-x-36:disabled > * { margin-right: 144px; }
+.disabled_space-x-40:disabled > * { margin-right: 160px; }
+.disabled_space-x-44:disabled > * { margin-right: 176px; }
+.disabled_space-x-48:disabled > * { margin-right: 192px; }
+.disabled_space-x-52:disabled > * { margin-right: 208px; }
+.disabled_space-x-56:disabled > * { margin-right: 224px; }
+.disabled_space-x-60:disabled > * { margin-right: 240px; }
+.disabled_space-x-64:disabled > * { margin-right: 256px; }
+.disabled_space-x-72:disabled > * { margin-right: 288px; }
+.disabled_space-x-80:disabled > * { margin-right: 320px; }
+.disabled_space-x-96:disabled > * { margin-right: 384px; }
+.disabled_space-x-px:disabled > * { margin-right: 1px; }
+.disabled_-space-x-0:disabled > * { margin-right: -0px; }
+.disabled_-space-x-0d5:disabled > * { margin-right: -2px; }
+.disabled_-space-x-1:disabled > * { margin-right: -4px; }
+.disabled_-space-x-1d5:disabled > * { margin-right: -6px; }
+.disabled_-space-x-2:disabled > * { margin-right: -8px; }
+.disabled_-space-x-2d5:disabled > * { margin-right: -10px; }
+.disabled_-space-x-3:disabled > * { margin-right: -12px; }
+.disabled_-space-x-3d5:disabled > * { margin-right: -14px; }
+.disabled_-space-x-4:disabled > * { margin-right: -16px; }
+.disabled_-space-x-5:disabled > * { margin-right: -20px; }
+.disabled_-space-x-6:disabled > * { margin-right: -24px; }
+.disabled_-space-x-7:disabled > * { margin-right: -28px; }
+.disabled_-space-x-8:disabled > * { margin-right: -32px; }
+.disabled_-space-x-9:disabled > * { margin-right: -36px; }
+.disabled_-space-x-10:disabled > * { margin-right: -40px; }
+.disabled_-space-x-11:disabled > * { margin-right: -44px; }
+.disabled_-space-x-12:disabled > * { margin-right: -48px; }
+.disabled_-space-x-14:disabled > * { margin-right: -56px; }
+.disabled_-space-x-16:disabled > * { margin-right: -64px; }
+.disabled_-space-x-20:disabled > * { margin-right: -80px; }
+.disabled_-space-x-24:disabled > * { margin-right: -96px; }
+.disabled_-space-x-28:disabled > * { margin-right: -112px; }
+.disabled_-space-x-32:disabled > * { margin-right: -128px; }
+.disabled_-space-x-36:disabled > * { margin-right: -144px; }
+.disabled_-space-x-40:disabled > * { margin-right: -160px; }
+.disabled_-space-x-44:disabled > * { margin-right: -176px; }
+.disabled_-space-x-48:disabled > * { margin-right: -192px; }
+.disabled_-space-x-52:disabled > * { margin-right: -208px; }
+.disabled_-space-x-56:disabled > * { margin-right: -224px; }
+.disabled_-space-x-60:disabled > * { margin-right: -240px; }
+.disabled_-space-x-64:disabled > * { margin-right: -256px; }
+.disabled_-space-x-72:disabled > * { margin-right: -288px; }
+.disabled_-space-x-80:disabled > * { margin-right: -320px; }
+.disabled_-space-x-96:disabled > * { margin-right: -384px; }
+.disabled_-space-x-px:disabled > * { margin-right: -1px; }
+.disabled_space-y-0:disabled > * { margin-bottom: 0px; }
+.disabled_space-y-0d5:disabled > * { margin-bottom: 2px; }
+.disabled_space-y-1:disabled > * { margin-bottom: 4px; }
+.disabled_space-y-1d5:disabled > * { margin-bottom: 6px; }
+.disabled_space-y-2:disabled > * { margin-bottom: 8px; }
+.disabled_space-y-2d5:disabled > * { margin-bottom: 10px; }
+.disabled_space-y-3:disabled > * { margin-bottom: 12px; }
+.disabled_space-y-3d5:disabled > * { margin-bottom: 14px; }
+.disabled_space-y-4:disabled > * { margin-bottom: 16px; }
+.disabled_space-y-5:disabled > * { margin-bottom: 20px; }
+.disabled_space-y-6:disabled > * { margin-bottom: 24px; }
+.disabled_space-y-7:disabled > * { margin-bottom: 28px; }
+.disabled_space-y-8:disabled > * { margin-bottom: 32px; }
+.disabled_space-y-9:disabled > * { margin-bottom: 36px; }
+.disabled_space-y-10:disabled > * { margin-bottom: 40px; }
+.disabled_space-y-11:disabled > * { margin-bottom: 44px; }
+.disabled_space-y-12:disabled > * { margin-bottom: 48px; }
+.disabled_space-y-14:disabled > * { margin-bottom: 56px; }
+.disabled_space-y-16:disabled > * { margin-bottom: 64px; }
+.disabled_space-y-20:disabled > * { margin-bottom: 80px; }
+.disabled_space-y-24:disabled > * { margin-bottom: 96px; }
+.disabled_space-y-28:disabled > * { margin-bottom: 112px; }
+.disabled_space-y-32:disabled > * { margin-bottom: 128px; }
+.disabled_space-y-36:disabled > * { margin-bottom: 144px; }
+.disabled_space-y-40:disabled > * { margin-bottom: 160px; }
+.disabled_space-y-44:disabled > * { margin-bottom: 176px; }
+.disabled_space-y-48:disabled > * { margin-bottom: 192px; }
+.disabled_space-y-52:disabled > * { margin-bottom: 208px; }
+.disabled_space-y-56:disabled > * { margin-bottom: 224px; }
+.disabled_space-y-60:disabled > * { margin-bottom: 240px; }
+.disabled_space-y-64:disabled > * { margin-bottom: 256px; }
+.disabled_space-y-72:disabled > * { margin-bottom: 288px; }
+.disabled_space-y-80:disabled > * { margin-bottom: 320px; }
+.disabled_space-y-96:disabled > * { margin-bottom: 384px; }
+.disabled_space-y-px:disabled > * { margin-bottom: 1px; }
+.disabled_-space-y-0:disabled > * { margin-bottom: -0px; }
+.disabled_-space-y-0d5:disabled > * { margin-bottom: -2px; }
+.disabled_-space-y-1:disabled > * { margin-bottom: -4px; }
+.disabled_-space-y-1d5:disabled > * { margin-bottom: -6px; }
+.disabled_-space-y-2:disabled > * { margin-bottom: -8px; }
+.disabled_-space-y-2d5:disabled > * { margin-bottom: -10px; }
+.disabled_-space-y-3:disabled > * { margin-bottom: -12px; }
+.disabled_-space-y-3d5:disabled > * { margin-bottom: -14px; }
+.disabled_-space-y-4:disabled > * { margin-bottom: -16px; }
+.disabled_-space-y-5:disabled > * { margin-bottom: -20px; }
+.disabled_-space-y-6:disabled > * { margin-bottom: -24px; }
+.disabled_-space-y-7:disabled > * { margin-bottom: -28px; }
+.disabled_-space-y-8:disabled > * { margin-bottom: -32px; }
+.disabled_-space-y-9:disabled > * { margin-bottom: -36px; }
+.disabled_-space-y-10:disabled > * { margin-bottom: -40px; }
+.disabled_-space-y-11:disabled > * { margin-bottom: -44px; }
+.disabled_-space-y-12:disabled > * { margin-bottom: -48px; }
+.disabled_-space-y-14:disabled > * { margin-bottom: -56px; }
+.disabled_-space-y-16:disabled > * { margin-bottom: -64px; }
+.disabled_-space-y-20:disabled > * { margin-bottom: -80px; }
+.disabled_-space-y-24:disabled > * { margin-bottom: -96px; }
+.disabled_-space-y-28:disabled > * { margin-bottom: -112px; }
+.disabled_-space-y-32:disabled > * { margin-bottom: -128px; }
+.disabled_-space-y-36:disabled > * { margin-bottom: -144px; }
+.disabled_-space-y-40:disabled > * { margin-bottom: -160px; }
+.disabled_-space-y-44:disabled > * { margin-bottom: -176px; }
+.disabled_-space-y-48:disabled > * { margin-bottom: -192px; }
+.disabled_-space-y-52:disabled > * { margin-bottom: -208px; }
+.disabled_-space-y-56:disabled > * { margin-bottom: -224px; }
+.disabled_-space-y-60:disabled > * { margin-bottom: -240px; }
+.disabled_-space-y-64:disabled > * { margin-bottom: -256px; }
+.disabled_-space-y-72:disabled > * { margin-bottom: -288px; }
+.disabled_-space-y-80:disabled > * { margin-bottom: -320px; }
+.disabled_-space-y-96:disabled > * { margin-bottom: -384px; }
+.disabled_-space-y-px:disabled > * { margin-bottom: -1px; }
+.disabled_space-x-reverse-0:disabled > * { margin-left: 0px; }
+.disabled_space-x-reverse-0d5:disabled > * { margin-left: 2px; }
+.disabled_space-x-reverse-1:disabled > * { margin-left: 4px; }
+.disabled_space-x-reverse-1d5:disabled > * { margin-left: 6px; }
+.disabled_space-x-reverse-2:disabled > * { margin-left: 8px; }
+.disabled_space-x-reverse-2d5:disabled > * { margin-left: 10px; }
+.disabled_space-x-reverse-3:disabled > * { margin-left: 12px; }
+.disabled_space-x-reverse-3d5:disabled > * { margin-left: 14px; }
+.disabled_space-x-reverse-4:disabled > * { margin-left: 16px; }
+.disabled_space-x-reverse-5:disabled > * { margin-left: 20px; }
+.disabled_space-x-reverse-6:disabled > * { margin-left: 24px; }
+.disabled_space-x-reverse-7:disabled > * { margin-left: 28px; }
+.disabled_space-x-reverse-8:disabled > * { margin-left: 32px; }
+.disabled_space-x-reverse-9:disabled > * { margin-left: 36px; }
+.disabled_space-x-reverse-10:disabled > * { margin-left: 40px; }
+.disabled_space-x-reverse-11:disabled > * { margin-left: 44px; }
+.disabled_space-x-reverse-12:disabled > * { margin-left: 48px; }
+.disabled_space-x-reverse-14:disabled > * { margin-left: 56px; }
+.disabled_space-x-reverse-16:disabled > * { margin-left: 64px; }
+.disabled_space-x-reverse-20:disabled > * { margin-left: 80px; }
+.disabled_space-x-reverse-24:disabled > * { margin-left: 96px; }
+.disabled_space-x-reverse-28:disabled > * { margin-left: 112px; }
+.disabled_space-x-reverse-32:disabled > * { margin-left: 128px; }
+.disabled_space-x-reverse-36:disabled > * { margin-left: 144px; }
+.disabled_space-x-reverse-40:disabled > * { margin-left: 160px; }
+.disabled_space-x-reverse-44:disabled > * { margin-left: 176px; }
+.disabled_space-x-reverse-48:disabled > * { margin-left: 192px; }
+.disabled_space-x-reverse-52:disabled > * { margin-left: 208px; }
+.disabled_space-x-reverse-56:disabled > * { margin-left: 224px; }
+.disabled_space-x-reverse-60:disabled > * { margin-left: 240px; }
+.disabled_space-x-reverse-64:disabled > * { margin-left: 256px; }
+.disabled_space-x-reverse-72:disabled > * { margin-left: 288px; }
+.disabled_space-x-reverse-80:disabled > * { margin-left: 320px; }
+.disabled_space-x-reverse-96:disabled > * { margin-left: 384px; }
+.disabled_space-x-reverse-px:disabled > * { margin-left: 1px; }
+.disabled_-space-x-reverse-0:disabled > * { margin-left: -0px; }
+.disabled_-space-x-reverse-0d5:disabled > * { margin-left: -2px; }
+.disabled_-space-x-reverse-1:disabled > * { margin-left: -4px; }
+.disabled_-space-x-reverse-1d5:disabled > * { margin-left: -6px; }
+.disabled_-space-x-reverse-2:disabled > * { margin-left: -8px; }
+.disabled_-space-x-reverse-2d5:disabled > * { margin-left: -10px; }
+.disabled_-space-x-reverse-3:disabled > * { margin-left: -12px; }
+.disabled_-space-x-reverse-3d5:disabled > * { margin-left: -14px; }
+.disabled_-space-x-reverse-4:disabled > * { margin-left: -16px; }
+.disabled_-space-x-reverse-5:disabled > * { margin-left: -20px; }
+.disabled_-space-x-reverse-6:disabled > * { margin-left: -24px; }
+.disabled_-space-x-reverse-7:disabled > * { margin-left: -28px; }
+.disabled_-space-x-reverse-8:disabled > * { margin-left: -32px; }
+.disabled_-space-x-reverse-9:disabled > * { margin-left: -36px; }
+.disabled_-space-x-reverse-10:disabled > * { margin-left: -40px; }
+.disabled_-space-x-reverse-11:disabled > * { margin-left: -44px; }
+.disabled_-space-x-reverse-12:disabled > * { margin-left: -48px; }
+.disabled_-space-x-reverse-14:disabled > * { margin-left: -56px; }
+.disabled_-space-x-reverse-16:disabled > * { margin-left: -64px; }
+.disabled_-space-x-reverse-20:disabled > * { margin-left: -80px; }
+.disabled_-space-x-reverse-24:disabled > * { margin-left: -96px; }
+.disabled_-space-x-reverse-28:disabled > * { margin-left: -112px; }
+.disabled_-space-x-reverse-32:disabled > * { margin-left: -128px; }
+.disabled_-space-x-reverse-36:disabled > * { margin-left: -144px; }
+.disabled_-space-x-reverse-40:disabled > * { margin-left: -160px; }
+.disabled_-space-x-reverse-44:disabled > * { margin-left: -176px; }
+.disabled_-space-x-reverse-48:disabled > * { margin-left: -192px; }
+.disabled_-space-x-reverse-52:disabled > * { margin-left: -208px; }
+.disabled_-space-x-reverse-56:disabled > * { margin-left: -224px; }
+.disabled_-space-x-reverse-60:disabled > * { margin-left: -240px; }
+.disabled_-space-x-reverse-64:disabled > * { margin-left: -256px; }
+.disabled_-space-x-reverse-72:disabled > * { margin-left: -288px; }
+.disabled_-space-x-reverse-80:disabled > * { margin-left: -320px; }
+.disabled_-space-x-reverse-96:disabled > * { margin-left: -384px; }
+.disabled_-space-x-reverse-px:disabled > * { margin-left: -1px; }
+.disabled_space-y-reverse-0:disabled > * { margin-top: 0px; }
+.disabled_space-y-reverse-0d5:disabled > * { margin-top: 2px; }
+.disabled_space-y-reverse-1:disabled > * { margin-top: 4px; }
+.disabled_space-y-reverse-1d5:disabled > * { margin-top: 6px; }
+.disabled_space-y-reverse-2:disabled > * { margin-top: 8px; }
+.disabled_space-y-reverse-2d5:disabled > * { margin-top: 10px; }
+.disabled_space-y-reverse-3:disabled > * { margin-top: 12px; }
+.disabled_space-y-reverse-3d5:disabled > * { margin-top: 14px; }
+.disabled_space-y-reverse-4:disabled > * { margin-top: 16px; }
+.disabled_space-y-reverse-5:disabled > * { margin-top: 20px; }
+.disabled_space-y-reverse-6:disabled > * { margin-top: 24px; }
+.disabled_space-y-reverse-7:disabled > * { margin-top: 28px; }
+.disabled_space-y-reverse-8:disabled > * { margin-top: 32px; }
+.disabled_space-y-reverse-9:disabled > * { margin-top: 36px; }
+.disabled_space-y-reverse-10:disabled > * { margin-top: 40px; }
+.disabled_space-y-reverse-11:disabled > * { margin-top: 44px; }
+.disabled_space-y-reverse-12:disabled > * { margin-top: 48px; }
+.disabled_space-y-reverse-14:disabled > * { margin-top: 56px; }
+.disabled_space-y-reverse-16:disabled > * { margin-top: 64px; }
+.disabled_space-y-reverse-20:disabled > * { margin-top: 80px; }
+.disabled_space-y-reverse-24:disabled > * { margin-top: 96px; }
+.disabled_space-y-reverse-28:disabled > * { margin-top: 112px; }
+.disabled_space-y-reverse-32:disabled > * { margin-top: 128px; }
+.disabled_space-y-reverse-36:disabled > * { margin-top: 144px; }
+.disabled_space-y-reverse-40:disabled > * { margin-top: 160px; }
+.disabled_space-y-reverse-44:disabled > * { margin-top: 176px; }
+.disabled_space-y-reverse-48:disabled > * { margin-top: 192px; }
+.disabled_space-y-reverse-52:disabled > * { margin-top: 208px; }
+.disabled_space-y-reverse-56:disabled > * { margin-top: 224px; }
+.disabled_space-y-reverse-60:disabled > * { margin-top: 240px; }
+.disabled_space-y-reverse-64:disabled > * { margin-top: 256px; }
+.disabled_space-y-reverse-72:disabled > * { margin-top: 288px; }
+.disabled_space-y-reverse-80:disabled > * { margin-top: 320px; }
+.disabled_space-y-reverse-96:disabled > * { margin-top: 384px; }
+.disabled_space-y-reverse-px:disabled > * { margin-top: 1px; }
+.disabled_-space-y-reverse-0:disabled > * { margin-top: -0px; }
+.disabled_-space-y-reverse-0d5:disabled > * { margin-top: -2px; }
+.disabled_-space-y-reverse-1:disabled > * { margin-top: -4px; }
+.disabled_-space-y-reverse-1d5:disabled > * { margin-top: -6px; }
+.disabled_-space-y-reverse-2:disabled > * { margin-top: -8px; }
+.disabled_-space-y-reverse-2d5:disabled > * { margin-top: -10px; }
+.disabled_-space-y-reverse-3:disabled > * { margin-top: -12px; }
+.disabled_-space-y-reverse-3d5:disabled > * { margin-top: -14px; }
+.disabled_-space-y-reverse-4:disabled > * { margin-top: -16px; }
+.disabled_-space-y-reverse-5:disabled > * { margin-top: -20px; }
+.disabled_-space-y-reverse-6:disabled > * { margin-top: -24px; }
+.disabled_-space-y-reverse-7:disabled > * { margin-top: -28px; }
+.disabled_-space-y-reverse-8:disabled > * { margin-top: -32px; }
+.disabled_-space-y-reverse-9:disabled > * { margin-top: -36px; }
+.disabled_-space-y-reverse-10:disabled > * { margin-top: -40px; }
+.disabled_-space-y-reverse-11:disabled > * { margin-top: -44px; }
+.disabled_-space-y-reverse-12:disabled > * { margin-top: -48px; }
+.disabled_-space-y-reverse-14:disabled > * { margin-top: -56px; }
+.disabled_-space-y-reverse-16:disabled > * { margin-top: -64px; }
+.disabled_-space-y-reverse-20:disabled > * { margin-top: -80px; }
+.disabled_-space-y-reverse-24:disabled > * { margin-top: -96px; }
+.disabled_-space-y-reverse-28:disabled > * { margin-top: -112px; }
+.disabled_-space-y-reverse-32:disabled > * { margin-top: -128px; }
+.disabled_-space-y-reverse-36:disabled > * { margin-top: -144px; }
+.disabled_-space-y-reverse-40:disabled > * { margin-top: -160px; }
+.disabled_-space-y-reverse-44:disabled > * { margin-top: -176px; }
+.disabled_-space-y-reverse-48:disabled > * { margin-top: -192px; }
+.disabled_-space-y-reverse-52:disabled > * { margin-top: -208px; }
+.disabled_-space-y-reverse-56:disabled > * { margin-top: -224px; }
+.disabled_-space-y-reverse-60:disabled > * { margin-top: -240px; }
+.disabled_-space-y-reverse-64:disabled > * { margin-top: -256px; }
+.disabled_-space-y-reverse-72:disabled > * { margin-top: -288px; }
+.disabled_-space-y-reverse-80:disabled > * { margin-top: -320px; }
+.disabled_-space-y-reverse-96:disabled > * { margin-top: -384px; }
+.disabled_-space-y-reverse-px:disabled > * { margin-top: -1px; }
+.disabled_bg-slate-50:disabled  { background-color: #f8fafc; }
+.disabled_bg-slate-100:disabled  { background-color: #f1f5f9; }
+.disabled_bg-slate-200:disabled  { background-color: #e2e8f0; }
+.disabled_bg-slate-300:disabled  { background-color: #cbd5e1; }
+.disabled_bg-slate-400:disabled  { background-color: #94a3b8; }
+.disabled_bg-slate-500:disabled  { background-color: #64748b; }
+.disabled_bg-slate-600:disabled  { background-color: #475569; }
+.disabled_bg-slate-700:disabled  { background-color: #334155; }
+.disabled_bg-slate-800:disabled  { background-color: #1e293b; }
+.disabled_bg-slate-900:disabled  { background-color: #0f172a; }
+.disabled_bg-slate-950:disabled  { background-color: #020617; }
+.disabled_bg-gray-50:disabled  { background-color: #f9fafb; }
+.disabled_bg-gray-100:disabled  { background-color: #f3f4f6; }
+.disabled_bg-gray-200:disabled  { background-color: #e5e7eb; }
+.disabled_bg-gray-300:disabled  { background-color: #d1d5db; }
+.disabled_bg-gray-400:disabled  { background-color: #9ca3af; }
+.disabled_bg-gray-500:disabled  { background-color: #6b7280; }
+.disabled_bg-gray-600:disabled  { background-color: #4b5563; }
+.disabled_bg-gray-700:disabled  { background-color: #374151; }
+.disabled_bg-gray-800:disabled  { background-color: #1f2937; }
+.disabled_bg-gray-900:disabled  { background-color: #111827; }
+.disabled_bg-gray-950:disabled  { background-color: #030712; }
+.disabled_bg-zinc-50:disabled  { background-color: #fafafa; }
+.disabled_bg-zinc-100:disabled  { background-color: #f4f4f5; }
+.disabled_bg-zinc-200:disabled  { background-color: #e4e4e7; }
+.disabled_bg-zinc-300:disabled  { background-color: #d4d4d8; }
+.disabled_bg-zinc-400:disabled  { background-color: #a1a1aa; }
+.disabled_bg-zinc-500:disabled  { background-color: #71717a; }
+.disabled_bg-zinc-600:disabled  { background-color: #52525b; }
+.disabled_bg-zinc-700:disabled  { background-color: #3f3f46; }
+.disabled_bg-zinc-800:disabled  { background-color: #27272a; }
+.disabled_bg-zinc-900:disabled  { background-color: #18181b; }
+.disabled_bg-zinc-950:disabled  { background-color: #09090b; }
+.disabled_bg-neutral-50:disabled  { background-color: #fafafa; }
+.disabled_bg-neutral-100:disabled  { background-color: #f5f5f5; }
+.disabled_bg-neutral-200:disabled  { background-color: #e5e5e5; }
+.disabled_bg-neutral-300:disabled  { background-color: #d4d4d4; }
+.disabled_bg-neutral-400:disabled  { background-color: #a3a3a3; }
+.disabled_bg-neutral-500:disabled  { background-color: #737373; }
+.disabled_bg-neutral-600:disabled  { background-color: #525252; }
+.disabled_bg-neutral-700:disabled  { background-color: #404040; }
+.disabled_bg-neutral-800:disabled  { background-color: #262626; }
+.disabled_bg-neutral-900:disabled  { background-color: #171717; }
+.disabled_bg-neutral-950:disabled  { background-color: #0a0a0a; }
+.disabled_bg-stone-50:disabled  { background-color: #fafaf9; }
+.disabled_bg-stone-100:disabled  { background-color: #f5f5f4; }
+.disabled_bg-stone-200:disabled  { background-color: #e7e5e4; }
+.disabled_bg-stone-300:disabled  { background-color: #d6d3d1; }
+.disabled_bg-stone-400:disabled  { background-color: #a8a29e; }
+.disabled_bg-stone-500:disabled  { background-color: #78716c; }
+.disabled_bg-stone-600:disabled  { background-color: #57534e; }
+.disabled_bg-stone-700:disabled  { background-color: #44403c; }
+.disabled_bg-stone-800:disabled  { background-color: #292524; }
+.disabled_bg-stone-900:disabled  { background-color: #1c1917; }
+.disabled_bg-stone-950:disabled  { background-color: #0c0a09; }
+.disabled_bg-red-50:disabled  { background-color: #fef2f2; }
+.disabled_bg-red-100:disabled  { background-color: #fee2e2; }
+.disabled_bg-red-200:disabled  { background-color: #fecaca; }
+.disabled_bg-red-300:disabled  { background-color: #fca5a5; }
+.disabled_bg-red-400:disabled  { background-color: #f87171; }
+.disabled_bg-red-500:disabled  { background-color: #ef4444; }
+.disabled_bg-red-600:disabled  { background-color: #dc2626; }
+.disabled_bg-red-700:disabled  { background-color: #b91c1c; }
+.disabled_bg-red-800:disabled  { background-color: #991b1b; }
+.disabled_bg-red-900:disabled  { background-color: #7f1d1d; }
+.disabled_bg-red-950:disabled  { background-color: #450a0a; }
+.disabled_bg-orange-50:disabled  { background-color: #fff7ed; }
+.disabled_bg-orange-100:disabled  { background-color: #ffedd5; }
+.disabled_bg-orange-200:disabled  { background-color: #fed7aa; }
+.disabled_bg-orange-300:disabled  { background-color: #fdba74; }
+.disabled_bg-orange-400:disabled  { background-color: #fb923c; }
+.disabled_bg-orange-500:disabled  { background-color: #f97316; }
+.disabled_bg-orange-600:disabled  { background-color: #ea580c; }
+.disabled_bg-orange-700:disabled  { background-color: #c2410c; }
+.disabled_bg-orange-800:disabled  { background-color: #9a3412; }
+.disabled_bg-orange-900:disabled  { background-color: #7c2d12; }
+.disabled_bg-orange-950:disabled  { background-color: #431407; }
+.disabled_bg-amber-50:disabled  { background-color: #fffbeb; }
+.disabled_bg-amber-100:disabled  { background-color: #fef3c7; }
+.disabled_bg-amber-200:disabled  { background-color: #fde68a; }
+.disabled_bg-amber-300:disabled  { background-color: #fcd34d; }
+.disabled_bg-amber-400:disabled  { background-color: #fbbf24; }
+.disabled_bg-amber-500:disabled  { background-color: #f59e0b; }
+.disabled_bg-amber-600:disabled  { background-color: #d97706; }
+.disabled_bg-amber-700:disabled  { background-color: #b45309; }
+.disabled_bg-amber-800:disabled  { background-color: #92400e; }
+.disabled_bg-amber-900:disabled  { background-color: #78350f; }
+.disabled_bg-amber-950:disabled  { background-color: #451a03; }
+.disabled_bg-yellow-50:disabled  { background-color: #fefce8; }
+.disabled_bg-yellow-100:disabled  { background-color: #fef9c3; }
+.disabled_bg-yellow-200:disabled  { background-color: #fef08a; }
+.disabled_bg-yellow-300:disabled  { background-color: #fde047; }
+.disabled_bg-yellow-400:disabled  { background-color: #facc15; }
+.disabled_bg-yellow-500:disabled  { background-color: #eab308; }
+.disabled_bg-yellow-600:disabled  { background-color: #ca8a04; }
+.disabled_bg-yellow-700:disabled  { background-color: #a16207; }
+.disabled_bg-yellow-800:disabled  { background-color: #854d0e; }
+.disabled_bg-yellow-900:disabled  { background-color: #713f12; }
+.disabled_bg-yellow-950:disabled  { background-color: #422006; }
+.disabled_bg-lime-50:disabled  { background-color: #f7fee7; }
+.disabled_bg-lime-100:disabled  { background-color: #ecfccb; }
+.disabled_bg-lime-200:disabled  { background-color: #d9f99d; }
+.disabled_bg-lime-300:disabled  { background-color: #bef264; }
+.disabled_bg-lime-400:disabled  { background-color: #a3e635; }
+.disabled_bg-lime-500:disabled  { background-color: #84cc16; }
+.disabled_bg-lime-600:disabled  { background-color: #65a30d; }
+.disabled_bg-lime-700:disabled  { background-color: #4d7c0f; }
+.disabled_bg-lime-800:disabled  { background-color: #3f6212; }
+.disabled_bg-lime-900:disabled  { background-color: #365314; }
+.disabled_bg-lime-950:disabled  { background-color: #1a2e05; }
+.disabled_bg-green-50:disabled  { background-color: #f0fdf4; }
+.disabled_bg-green-100:disabled  { background-color: #dcfce7; }
+.disabled_bg-green-200:disabled  { background-color: #bbf7d0; }
+.disabled_bg-green-300:disabled  { background-color: #86efac; }
+.disabled_bg-green-400:disabled  { background-color: #4ade80; }
+.disabled_bg-green-500:disabled  { background-color: #22c55e; }
+.disabled_bg-green-600:disabled  { background-color: #16a34a; }
+.disabled_bg-green-700:disabled  { background-color: #15803d; }
+.disabled_bg-green-800:disabled  { background-color: #166534; }
+.disabled_bg-green-900:disabled  { background-color: #14532d; }
+.disabled_bg-green-950:disabled  { background-color: #052e16; }
+.disabled_bg-emerald-50:disabled  { background-color: #ecfdf5; }
+.disabled_bg-emerald-100:disabled  { background-color: #d1fae5; }
+.disabled_bg-emerald-200:disabled  { background-color: #a7f3d0; }
+.disabled_bg-emerald-300:disabled  { background-color: #6ee7b7; }
+.disabled_bg-emerald-400:disabled  { background-color: #34d399; }
+.disabled_bg-emerald-500:disabled  { background-color: #10b981; }
+.disabled_bg-emerald-600:disabled  { background-color: #059669; }
+.disabled_bg-emerald-700:disabled  { background-color: #047857; }
+.disabled_bg-emerald-800:disabled  { background-color: #065f46; }
+.disabled_bg-emerald-900:disabled  { background-color: #064e3b; }
+.disabled_bg-emerald-950:disabled  { background-color: #022c22; }
+.disabled_bg-teal-50:disabled  { background-color: #f0fdfa; }
+.disabled_bg-teal-100:disabled  { background-color: #ccfbf1; }
+.disabled_bg-teal-200:disabled  { background-color: #99f6e4; }
+.disabled_bg-teal-300:disabled  { background-color: #5eead4; }
+.disabled_bg-teal-400:disabled  { background-color: #2dd4bf; }
+.disabled_bg-teal-500:disabled  { background-color: #14b8a6; }
+.disabled_bg-teal-600:disabled  { background-color: #0d9488; }
+.disabled_bg-teal-700:disabled  { background-color: #0f766e; }
+.disabled_bg-teal-800:disabled  { background-color: #115e59; }
+.disabled_bg-teal-900:disabled  { background-color: #134e4a; }
+.disabled_bg-teal-950:disabled  { background-color: #042f2e; }
+.disabled_bg-cyan-50:disabled  { background-color: #ecfeff; }
+.disabled_bg-cyan-100:disabled  { background-color: #cffafe; }
+.disabled_bg-cyan-200:disabled  { background-color: #a5f3fc; }
+.disabled_bg-cyan-300:disabled  { background-color: #67e8f9; }
+.disabled_bg-cyan-400:disabled  { background-color: #22d3ee; }
+.disabled_bg-cyan-500:disabled  { background-color: #06b6d4; }
+.disabled_bg-cyan-600:disabled  { background-color: #0891b2; }
+.disabled_bg-cyan-700:disabled  { background-color: #0e7490; }
+.disabled_bg-cyan-800:disabled  { background-color: #155e75; }
+.disabled_bg-cyan-900:disabled  { background-color: #164e63; }
+.disabled_bg-cyan-950:disabled  { background-color: #083344; }
+.disabled_bg-sky-50:disabled  { background-color: #f0f9ff; }
+.disabled_bg-sky-100:disabled  { background-color: #e0f2fe; }
+.disabled_bg-sky-200:disabled  { background-color: #bae6fd; }
+.disabled_bg-sky-300:disabled  { background-color: #7dd3fc; }
+.disabled_bg-sky-400:disabled  { background-color: #38bdf8; }
+.disabled_bg-sky-500:disabled  { background-color: #0ea5e9; }
+.disabled_bg-sky-600:disabled  { background-color: #0284c7; }
+.disabled_bg-sky-700:disabled  { background-color: #0369a1; }
+.disabled_bg-sky-800:disabled  { background-color: #075985; }
+.disabled_bg-sky-900:disabled  { background-color: #0c4a6e; }
+.disabled_bg-sky-950:disabled  { background-color: #082f49; }
+.disabled_bg-blue-50:disabled  { background-color: #eff6ff; }
+.disabled_bg-blue-100:disabled  { background-color: #dbeafe; }
+.disabled_bg-blue-200:disabled  { background-color: #bfdbfe; }
+.disabled_bg-blue-300:disabled  { background-color: #93c5fd; }
+.disabled_bg-blue-400:disabled  { background-color: #60a5fa; }
+.disabled_bg-blue-500:disabled  { background-color: #3b82f6; }
+.disabled_bg-blue-600:disabled  { background-color: #2563eb; }
+.disabled_bg-blue-700:disabled  { background-color: #1d4ed8; }
+.disabled_bg-blue-800:disabled  { background-color: #1e40af; }
+.disabled_bg-blue-900:disabled  { background-color: #1e3a8a; }
+.disabled_bg-blue-950:disabled  { background-color: #172554; }
+.disabled_bg-indigo-50:disabled  { background-color: #eef2ff; }
+.disabled_bg-indigo-100:disabled  { background-color: #e0e7ff; }
+.disabled_bg-indigo-200:disabled  { background-color: #c7d2fe; }
+.disabled_bg-indigo-300:disabled  { background-color: #a5b4fc; }
+.disabled_bg-indigo-400:disabled  { background-color: #818cf8; }
+.disabled_bg-indigo-500:disabled  { background-color: #6366f1; }
+.disabled_bg-indigo-600:disabled  { background-color: #4f46e5; }
+.disabled_bg-indigo-700:disabled  { background-color: #4338ca; }
+.disabled_bg-indigo-800:disabled  { background-color: #3730a3; }
+.disabled_bg-indigo-900:disabled  { background-color: #312e81; }
+.disabled_bg-indigo-950:disabled  { background-color: #1e1b4b; }
+.disabled_bg-violet-50:disabled  { background-color: #f5f3ff; }
+.disabled_bg-violet-100:disabled  { background-color: #ede9fe; }
+.disabled_bg-violet-200:disabled  { background-color: #ddd6fe; }
+.disabled_bg-violet-300:disabled  { background-color: #c4b5fd; }
+.disabled_bg-violet-400:disabled  { background-color: #a78bfa; }
+.disabled_bg-violet-500:disabled  { background-color: #8b5cf6; }
+.disabled_bg-violet-600:disabled  { background-color: #7c3aed; }
+.disabled_bg-violet-700:disabled  { background-color: #6d28d9; }
+.disabled_bg-violet-800:disabled  { background-color: #5b21b6; }
+.disabled_bg-violet-900:disabled  { background-color: #4c1d95; }
+.disabled_bg-violet-950:disabled  { background-color: #2e1065; }
+.disabled_bg-purple-50:disabled  { background-color: #faf5ff; }
+.disabled_bg-purple-100:disabled  { background-color: #f3e8ff; }
+.disabled_bg-purple-200:disabled  { background-color: #e9d5ff; }
+.disabled_bg-purple-300:disabled  { background-color: #d8b4fe; }
+.disabled_bg-purple-400:disabled  { background-color: #c084fc; }
+.disabled_bg-purple-500:disabled  { background-color: #a855f7; }
+.disabled_bg-purple-600:disabled  { background-color: #9333ea; }
+.disabled_bg-purple-700:disabled  { background-color: #7e22ce; }
+.disabled_bg-purple-800:disabled  { background-color: #6b21a8; }
+.disabled_bg-purple-900:disabled  { background-color: #581c87; }
+.disabled_bg-purple-950:disabled  { background-color: #3b0764; }
+.disabled_bg-fuchsia-50:disabled  { background-color: #fdf4ff; }
+.disabled_bg-fuchsia-100:disabled  { background-color: #fae8ff; }
+.disabled_bg-fuchsia-200:disabled  { background-color: #f5d0fe; }
+.disabled_bg-fuchsia-300:disabled  { background-color: #f0abfc; }
+.disabled_bg-fuchsia-400:disabled  { background-color: #e879f9; }
+.disabled_bg-fuchsia-500:disabled  { background-color: #d946ef; }
+.disabled_bg-fuchsia-600:disabled  { background-color: #c026d3; }
+.disabled_bg-fuchsia-700:disabled  { background-color: #a21caf; }
+.disabled_bg-fuchsia-800:disabled  { background-color: #86198f; }
+.disabled_bg-fuchsia-900:disabled  { background-color: #701a75; }
+.disabled_bg-fuchsia-950:disabled  { background-color: #4a044e; }
+.disabled_bg-pink-50:disabled  { background-color: #fdf2f8; }
+.disabled_bg-pink-100:disabled  { background-color: #fce7f3; }
+.disabled_bg-pink-200:disabled  { background-color: #fbcfe8; }
+.disabled_bg-pink-300:disabled  { background-color: #f9a8d4; }
+.disabled_bg-pink-400:disabled  { background-color: #f472b6; }
+.disabled_bg-pink-500:disabled  { background-color: #ec4899; }
+.disabled_bg-pink-600:disabled  { background-color: #db2777; }
+.disabled_bg-pink-700:disabled  { background-color: #be185d; }
+.disabled_bg-pink-800:disabled  { background-color: #9d174d; }
+.disabled_bg-pink-900:disabled  { background-color: #831843; }
+.disabled_bg-pink-950:disabled  { background-color: #500724; }
+.disabled_bg-rose-50:disabled  { background-color: #fff1f2; }
+.disabled_bg-rose-100:disabled  { background-color: #ffe4e6; }
+.disabled_bg-rose-200:disabled  { background-color: #fecdd3; }
+.disabled_bg-rose-300:disabled  { background-color: #fda4af; }
+.disabled_bg-rose-400:disabled  { background-color: #fb7185; }
+.disabled_bg-rose-500:disabled  { background-color: #f43f5e; }
+.disabled_bg-rose-600:disabled  { background-color: #e11d48; }
+.disabled_bg-rose-700:disabled  { background-color: #be123c; }
+.disabled_bg-rose-800:disabled  { background-color: #9f1239; }
+.disabled_bg-rose-900:disabled  { background-color: #881337; }
+.disabled_bg-rose-950:disabled  { background-color: #4c0519; }
+.disabled_bg-transparent:disabled  { background-color: transparent; }
+.disabled_bg-white:disabled  { background-color: white; }
+.disabled_bg-black:disabled  { background-color: black; }
+.disabled_bg-bottom:disabled  { background-position: bottom; }
+.disabled_bg-center:disabled  { background-position: center; }
+.disabled_bg-left:disabled  { background-position: left; }
+.disabled_bg-left-bottom:disabled  { background-position: left bottom; }
+.disabled_bg-left-top:disabled  { background-position: left top; }
+.disabled_bg-right:disabled  { background-position: right; }
+.disabled_bg-right-bottom:disabled  { background-position: right bottom; }
+.disabled_bg-right-top:disabled  { background-position: right top; }
+.disabled_bg-top:disabled  { background-position: top; }
+.disabled_bg-repeat:disabled  { background-repeat: repeat; }
+.disabled_bg-no-repeat:disabled  { background-repeat: no-repeat; }
+.disabled_bg-repeat-x:disabled  { background-repeat: repeat-x; }
+.disabled_bg-repeat-y:disabled  { background-repeat: repeat-y; }
+.disabled_bg-repeat-round:disabled  { background-repeat: round; }
+.disabled_bg-repeat-space:disabled  { background-repeat: space; }
+.disabled_bg-auto:disabled  { background-size: auto; }
+.disabled_bg-cover:disabled  { background-size: cover; }
+.disabled_bg-contain:disabled  { background-size: contain; }
+.disabled_transform:disabled  { 
+                    --tw-translate-x: 0;
+                    --tw-translate-y: 0;
+                    --tw-rotate: 0;
+                    --tw-scale-x: 1;
+                    --tw-scale-y: 1;
+                    translate: var(--tw-translate-x) var(--tw-translate-y); 
+                    rotate: var(--tw-rotate);
+                    scale: var(--tw-scale-x) var(--tw-scale-y); }
+.disabled_scale-0:disabled  { --tw-scale-x: 0; --tw-scale-y: 0; }
+.disabled_scale-50:disabled  { --tw-scale-x: .5; --tw-scale-y: .5; }
+.disabled_scale-75:disabled  { --tw-scale-x: .75; --tw-scale-y: .75; }
+.disabled_scale-90:disabled  { --tw-scale-x: .9; --tw-scale-y: .9; }
+.disabled_scale-95:disabled  { --tw-scale-x: .95; --tw-scale-y: .95; }
+.disabled_scale-100:disabled  { --tw-scale-x: 1; --tw-scale-y: 1; }
+.disabled_scale-105:disabled  { --tw-scale-x: 1.05; --tw-scale-y: 1.05; }
+.disabled_scale-110:disabled  { --tw-scale-x: 1.1; --tw-scale-y: 1.1; }
+.disabled_scale-125:disabled  { --tw-scale-x: 1.25; --tw-scale-y: 1.25; }
+.disabled_scale-150:disabled  { --tw-scale-x: 1.5; --tw-scale-y: 1.5; }
+.disabled_scale-x-0:disabled  { --tw-scale-x: 0; }
+.disabled_scale-x-50:disabled  { --tw-scale-x: .5; }
+.disabled_scale-x-75:disabled  { --tw-scale-x: .75; }
+.disabled_scale-x-90:disabled  { --tw-scale-x: .9; }
+.disabled_scale-x-95:disabled  { --tw-scale-x: .95; }
+.disabled_scale-x-100:disabled  { --tw-scale-x: 1; }
+.disabled_scale-x-105:disabled  { --tw-scale-x: 1.05; }
+.disabled_scale-x-110:disabled  { --tw-scale-x: 1.1; }
+.disabled_scale-x-125:disabled  { --tw-scale-x: 1.25; }
+.disabled_scale-x-150:disabled  { --tw-scale-x: 1.5; }
+.disabled_scale-y-0:disabled  { --tw-scale-y: 0; }
+.disabled_scale-y-50:disabled  { --tw-scale-y: .5; }
+.disabled_scale-y-75:disabled  { --tw-scale-y: .75; }
+.disabled_scale-y-90:disabled  { --tw-scale-y: .9; }
+.disabled_scale-y-95:disabled  { --tw-scale-y: .95; }
+.disabled_scale-y-100:disabled  { --tw-scale-y: 1; }
+.disabled_scale-y-105:disabled  { --tw-scale-y: 1.05; }
+.disabled_scale-y-110:disabled  { --tw-scale-y: 1.1; }
+.disabled_scale-y-125:disabled  { --tw-scale-y: 1.25; }
+.disabled_scale-y-150:disabled  { --tw-scale-y: 1.5; }
+.disabled_rotate-0:disabled  { --tw-rotate: 0deg; }
+.disabled_rotate-1:disabled  { --tw-rotate: 1deg; }
+.disabled_rotate-2:disabled  { --tw-rotate: 2deg; }
+.disabled_rotate-3:disabled  { --tw-rotate: 3deg; }
+.disabled_rotate-6:disabled  { --tw-rotate: 6deg; }
+.disabled_rotate-12:disabled  { --tw-rotate: 12deg; }
+.disabled_rotate-45:disabled  { --tw-rotate: 45deg; }
+.disabled_rotate-90:disabled  { --tw-rotate: 90deg; }
+.disabled_rotate-180:disabled  { --tw-rotate: 180deg; }
+.disabled_rotate--180:disabled  { --tw-rotate: -180deg; }
+.disabled_rotate--90:disabled  { --tw-rotate: -90deg; }
+.disabled_rotate--45:disabled  { --tw-rotate: -45deg; }
+.disabled_rotate--12:disabled  { --tw-rotate: -12deg; }
+.disabled_rotate--6:disabled  { --tw-rotate: -6deg; }
+.disabled_rotate--3:disabled  { --tw-rotate: -3deg; }
+.disabled_rotate--2:disabled  { --tw-rotate: -2deg; }
+.disabled_rotate--1:disabled  { --tw-rotate: -1deg; }
+.disabled_translate-x-0:disabled  { --tw-translate-x: 0px; }
+.disabled_translate-x-0d5:disabled  { --tw-translate-x: 2px; }
+.disabled_translate-x-1:disabled  { --tw-translate-x: 4px; }
+.disabled_translate-x-1d5:disabled  { --tw-translate-x: 6px; }
+.disabled_translate-x-2:disabled  { --tw-translate-x: 8px; }
+.disabled_translate-x-2d5:disabled  { --tw-translate-x: 10px; }
+.disabled_translate-x-3:disabled  { --tw-translate-x: 12px; }
+.disabled_translate-x-3d5:disabled  { --tw-translate-x: 14px; }
+.disabled_translate-x-4:disabled  { --tw-translate-x: 16px; }
+.disabled_translate-x-5:disabled  { --tw-translate-x: 20px; }
+.disabled_translate-x-6:disabled  { --tw-translate-x: 24px; }
+.disabled_translate-x-7:disabled  { --tw-translate-x: 28px; }
+.disabled_translate-x-8:disabled  { --tw-translate-x: 32px; }
+.disabled_translate-x-9:disabled  { --tw-translate-x: 36px; }
+.disabled_translate-x-10:disabled  { --tw-translate-x: 40px; }
+.disabled_translate-x-11:disabled  { --tw-translate-x: 44px; }
+.disabled_translate-x-12:disabled  { --tw-translate-x: 48px; }
+.disabled_translate-x-14:disabled  { --tw-translate-x: 56px; }
+.disabled_translate-x-16:disabled  { --tw-translate-x: 64px; }
+.disabled_translate-x-20:disabled  { --tw-translate-x: 80px; }
+.disabled_translate-x-24:disabled  { --tw-translate-x: 96px; }
+.disabled_translate-x-28:disabled  { --tw-translate-x: 112px; }
+.disabled_translate-x-32:disabled  { --tw-translate-x: 128px; }
+.disabled_translate-x-36:disabled  { --tw-translate-x: 144px; }
+.disabled_translate-x-40:disabled  { --tw-translate-x: 160px; }
+.disabled_translate-x-44:disabled  { --tw-translate-x: 176px; }
+.disabled_translate-x-48:disabled  { --tw-translate-x: 192px; }
+.disabled_translate-x-52:disabled  { --tw-translate-x: 208px; }
+.disabled_translate-x-56:disabled  { --tw-translate-x: 224px; }
+.disabled_translate-x-60:disabled  { --tw-translate-x: 240px; }
+.disabled_translate-x-64:disabled  { --tw-translate-x: 256px; }
+.disabled_translate-x-72:disabled  { --tw-translate-x: 288px; }
+.disabled_translate-x-80:disabled  { --tw-translate-x: 320px; }
+.disabled_translate-x-96:disabled  { --tw-translate-x: 384px; }
+.disabled_translate-x-px:disabled  { --tw-translate-x: 1px; }
+.disabled_-translate-x-0:disabled  { --tw-translate-x: -0px; }
+.disabled_-translate-x-0d5:disabled  { --tw-translate-x: -2px; }
+.disabled_-translate-x-1:disabled  { --tw-translate-x: -4px; }
+.disabled_-translate-x-1d5:disabled  { --tw-translate-x: -6px; }
+.disabled_-translate-x-2:disabled  { --tw-translate-x: -8px; }
+.disabled_-translate-x-2d5:disabled  { --tw-translate-x: -10px; }
+.disabled_-translate-x-3:disabled  { --tw-translate-x: -12px; }
+.disabled_-translate-x-3d5:disabled  { --tw-translate-x: -14px; }
+.disabled_-translate-x-4:disabled  { --tw-translate-x: -16px; }
+.disabled_-translate-x-5:disabled  { --tw-translate-x: -20px; }
+.disabled_-translate-x-6:disabled  { --tw-translate-x: -24px; }
+.disabled_-translate-x-7:disabled  { --tw-translate-x: -28px; }
+.disabled_-translate-x-8:disabled  { --tw-translate-x: -32px; }
+.disabled_-translate-x-9:disabled  { --tw-translate-x: -36px; }
+.disabled_-translate-x-10:disabled  { --tw-translate-x: -40px; }
+.disabled_-translate-x-11:disabled  { --tw-translate-x: -44px; }
+.disabled_-translate-x-12:disabled  { --tw-translate-x: -48px; }
+.disabled_-translate-x-14:disabled  { --tw-translate-x: -56px; }
+.disabled_-translate-x-16:disabled  { --tw-translate-x: -64px; }
+.disabled_-translate-x-20:disabled  { --tw-translate-x: -80px; }
+.disabled_-translate-x-24:disabled  { --tw-translate-x: -96px; }
+.disabled_-translate-x-28:disabled  { --tw-translate-x: -112px; }
+.disabled_-translate-x-32:disabled  { --tw-translate-x: -128px; }
+.disabled_-translate-x-36:disabled  { --tw-translate-x: -144px; }
+.disabled_-translate-x-40:disabled  { --tw-translate-x: -160px; }
+.disabled_-translate-x-44:disabled  { --tw-translate-x: -176px; }
+.disabled_-translate-x-48:disabled  { --tw-translate-x: -192px; }
+.disabled_-translate-x-52:disabled  { --tw-translate-x: -208px; }
+.disabled_-translate-x-56:disabled  { --tw-translate-x: -224px; }
+.disabled_-translate-x-60:disabled  { --tw-translate-x: -240px; }
+.disabled_-translate-x-64:disabled  { --tw-translate-x: -256px; }
+.disabled_-translate-x-72:disabled  { --tw-translate-x: -288px; }
+.disabled_-translate-x-80:disabled  { --tw-translate-x: -320px; }
+.disabled_-translate-x-96:disabled  { --tw-translate-x: -384px; }
+.disabled_-translate-x-px:disabled  { --tw-translate-x: -1px; }
+.disabled_translate-x-1s2:disabled  { --tw-translate-x: 50%; }
+.disabled_translate-x-1s3:disabled  { --tw-translate-x: 33.333333%; }
+.disabled_translate-x-2s3:disabled  { --tw-translate-x: 66.666667%; }
+.disabled_translate-x-1s4:disabled  { --tw-translate-x: 25%; }
+.disabled_translate-x-2s4:disabled  { --tw-translate-x: 50%; }
+.disabled_translate-x-3s4:disabled  { --tw-translate-x: 75%; }
+.disabled_translate-x-full:disabled  { --tw-translate-x: 100%; }
+.disabled_-translate-x-1s2:disabled  { --tw-translate-x: -50%; }
+.disabled_-translate-x-1s3:disabled  { --tw-translate-x: -33.333333%; }
+.disabled_-translate-x-2s3:disabled  { --tw-translate-x: -66.666667%; }
+.disabled_-translate-x-1s4:disabled  { --tw-translate-x: -25%; }
+.disabled_-translate-x-2s4:disabled  { --tw-translate-x: -50%; }
+.disabled_-translate-x-3s4:disabled  { --tw-translate-x: -75%; }
+.disabled_-translate-x-full:disabled  { --tw-translate-x: -100%; }
+.disabled_translate-y-0:disabled  { --tw-translate-y: 0px; }
+.disabled_translate-y-0d5:disabled  { --tw-translate-y: 2px; }
+.disabled_translate-y-1:disabled  { --tw-translate-y: 4px; }
+.disabled_translate-y-1d5:disabled  { --tw-translate-y: 6px; }
+.disabled_translate-y-2:disabled  { --tw-translate-y: 8px; }
+.disabled_translate-y-2d5:disabled  { --tw-translate-y: 10px; }
+.disabled_translate-y-3:disabled  { --tw-translate-y: 12px; }
+.disabled_translate-y-3d5:disabled  { --tw-translate-y: 14px; }
+.disabled_translate-y-4:disabled  { --tw-translate-y: 16px; }
+.disabled_translate-y-5:disabled  { --tw-translate-y: 20px; }
+.disabled_translate-y-6:disabled  { --tw-translate-y: 24px; }
+.disabled_translate-y-7:disabled  { --tw-translate-y: 28px; }
+.disabled_translate-y-8:disabled  { --tw-translate-y: 32px; }
+.disabled_translate-y-9:disabled  { --tw-translate-y: 36px; }
+.disabled_translate-y-10:disabled  { --tw-translate-y: 40px; }
+.disabled_translate-y-11:disabled  { --tw-translate-y: 44px; }
+.disabled_translate-y-12:disabled  { --tw-translate-y: 48px; }
+.disabled_translate-y-14:disabled  { --tw-translate-y: 56px; }
+.disabled_translate-y-16:disabled  { --tw-translate-y: 64px; }
+.disabled_translate-y-20:disabled  { --tw-translate-y: 80px; }
+.disabled_translate-y-24:disabled  { --tw-translate-y: 96px; }
+.disabled_translate-y-28:disabled  { --tw-translate-y: 112px; }
+.disabled_translate-y-32:disabled  { --tw-translate-y: 128px; }
+.disabled_translate-y-36:disabled  { --tw-translate-y: 144px; }
+.disabled_translate-y-40:disabled  { --tw-translate-y: 160px; }
+.disabled_translate-y-44:disabled  { --tw-translate-y: 176px; }
+.disabled_translate-y-48:disabled  { --tw-translate-y: 192px; }
+.disabled_translate-y-52:disabled  { --tw-translate-y: 208px; }
+.disabled_translate-y-56:disabled  { --tw-translate-y: 224px; }
+.disabled_translate-y-60:disabled  { --tw-translate-y: 240px; }
+.disabled_translate-y-64:disabled  { --tw-translate-y: 256px; }
+.disabled_translate-y-72:disabled  { --tw-translate-y: 288px; }
+.disabled_translate-y-80:disabled  { --tw-translate-y: 320px; }
+.disabled_translate-y-96:disabled  { --tw-translate-y: 384px; }
+.disabled_translate-y-px:disabled  { --tw-translate-y: 1px; }
+.disabled_-translate-y-0:disabled  { --tw-translate-y: -0px; }
+.disabled_-translate-y-0d5:disabled  { --tw-translate-y: -2px; }
+.disabled_-translate-y-1:disabled  { --tw-translate-y: -4px; }
+.disabled_-translate-y-1d5:disabled  { --tw-translate-y: -6px; }
+.disabled_-translate-y-2:disabled  { --tw-translate-y: -8px; }
+.disabled_-translate-y-2d5:disabled  { --tw-translate-y: -10px; }
+.disabled_-translate-y-3:disabled  { --tw-translate-y: -12px; }
+.disabled_-translate-y-3d5:disabled  { --tw-translate-y: -14px; }
+.disabled_-translate-y-4:disabled  { --tw-translate-y: -16px; }
+.disabled_-translate-y-5:disabled  { --tw-translate-y: -20px; }
+.disabled_-translate-y-6:disabled  { --tw-translate-y: -24px; }
+.disabled_-translate-y-7:disabled  { --tw-translate-y: -28px; }
+.disabled_-translate-y-8:disabled  { --tw-translate-y: -32px; }
+.disabled_-translate-y-9:disabled  { --tw-translate-y: -36px; }
+.disabled_-translate-y-10:disabled  { --tw-translate-y: -40px; }
+.disabled_-translate-y-11:disabled  { --tw-translate-y: -44px; }
+.disabled_-translate-y-12:disabled  { --tw-translate-y: -48px; }
+.disabled_-translate-y-14:disabled  { --tw-translate-y: -56px; }
+.disabled_-translate-y-16:disabled  { --tw-translate-y: -64px; }
+.disabled_-translate-y-20:disabled  { --tw-translate-y: -80px; }
+.disabled_-translate-y-24:disabled  { --tw-translate-y: -96px; }
+.disabled_-translate-y-28:disabled  { --tw-translate-y: -112px; }
+.disabled_-translate-y-32:disabled  { --tw-translate-y: -128px; }
+.disabled_-translate-y-36:disabled  { --tw-translate-y: -144px; }
+.disabled_-translate-y-40:disabled  { --tw-translate-y: -160px; }
+.disabled_-translate-y-44:disabled  { --tw-translate-y: -176px; }
+.disabled_-translate-y-48:disabled  { --tw-translate-y: -192px; }
+.disabled_-translate-y-52:disabled  { --tw-translate-y: -208px; }
+.disabled_-translate-y-56:disabled  { --tw-translate-y: -224px; }
+.disabled_-translate-y-60:disabled  { --tw-translate-y: -240px; }
+.disabled_-translate-y-64:disabled  { --tw-translate-y: -256px; }
+.disabled_-translate-y-72:disabled  { --tw-translate-y: -288px; }
+.disabled_-translate-y-80:disabled  { --tw-translate-y: -320px; }
+.disabled_-translate-y-96:disabled  { --tw-translate-y: -384px; }
+.disabled_-translate-y-px:disabled  { --tw-translate-y: -1px; }
+.disabled_translate-y-1s2:disabled  { --tw-translate-y: 50%; }
+.disabled_translate-y-1s3:disabled  { --tw-translate-y: 33.333333%; }
+.disabled_translate-y-2s3:disabled  { --tw-translate-y: 66.666667%; }
+.disabled_translate-y-1s4:disabled  { --tw-translate-y: 25%; }
+.disabled_translate-y-2s4:disabled  { --tw-translate-y: 50%; }
+.disabled_translate-y-3s4:disabled  { --tw-translate-y: 75%; }
+.disabled_translate-y-full:disabled  { --tw-translate-y: 100%; }
+.disabled_-translate-y-1s2:disabled  { --tw-translate-y: -50%; }
+.disabled_-translate-y-1s3:disabled  { --tw-translate-y: -33.333333%; }
+.disabled_-translate-y-2s3:disabled  { --tw-translate-y: -66.666667%; }
+.disabled_-translate-y-1s4:disabled  { --tw-translate-y: -25%; }
+.disabled_-translate-y-2s4:disabled  { --tw-translate-y: -50%; }
+.disabled_-translate-y-3s4:disabled  { --tw-translate-y: -75%; }
+.disabled_-translate-y-full:disabled  { --tw-translate-y: -100%; }
+.disabled_origin-center:disabled  { transform-origin: center; }
+.disabled_origin-top:disabled  { transform-origin: top; }
+.disabled_origin-top-right:disabled  { transform-origin: top right; }
+.disabled_origin-right:disabled  { transform-origin: right; }
+.disabled_origin-bottom-right:disabled  { transform-origin: bottom right; }
+.disabled_origin-bottom:disabled  { transform-origin: bottom; }
+.disabled_origin-bottom-left:disabled  { transform-origin: bottom left; }
+.disabled_origin-left:disabled  { transform-origin: left; }
+.disabled_origin-top-left:disabled  { transform-origin: top left; }
+.disabled_opacity-0:disabled  { opacity: 0; }
+.disabled_opacity-5:disabled  { opacity: 0.05; }
+.disabled_opacity-10:disabled  { opacity: 0.1; }
+.disabled_opacity-20:disabled  { opacity: 0.2; }
+.disabled_opacity-25:disabled  { opacity: 0.25; }
+.disabled_opacity-30:disabled  { opacity: 0.3; }
+.disabled_opacity-40:disabled  { opacity: 0.4; }
+.disabled_opacity-50:disabled  { opacity: 0.5; }
+.disabled_opacity-60:disabled  { opacity: 0.6; }
+.disabled_opacity-70:disabled  { opacity: 0.7; }
+.disabled_opacity-75:disabled  { opacity: 0.75; }
+.disabled_opacity-80:disabled  { opacity: 0.8; }
+.disabled_opacity-90:disabled  { opacity: 0.9; }
+.disabled_opacity-95:disabled  { opacity: 0.95; }
+.disabled_opacity-100:disabled  { opacity: 1; }
+.disabled_flex-row:disabled  { flex-direction: row; }
+.disabled_flex-row-reverse:disabled  { flex-direction: row-reverse; }
+.disabled_flex-col:disabled  { flex-direction: column; }
+.disabled_flex-col-reverse:disabled  { flex-direction: column-reverse; }
+.disabled_flex-wrap:disabled  { flex-wrap: wrap; }
+.disabled_flex-wrap-reverse:disabled  { flex-wrap: wrap-reverse; }
+.disabled_flex-nowrap:disabled  { flex-wrap: nowrap; }
+.disabled_flex-1:disabled  { flex: 1 1 0%; }
+.disabled_flex-auto:disabled  { flex: 1 1 auto; }
+.disabled_flex-initial:disabled  { flex: 0 1 auto; }
+.disabled_flex-none:disabled  { flex: none; }
+.disabled_flex-grow:disabled  { flex-grow: 1; }
+.disabled_flex-grow-0:disabled  { flex-grow: 0; }
+.disabled_flex-shrink:disabled  { flex-shrink: 1; }
+.disabled_flex-shrink-0:disabled  { flex-shrink: 0; }
+.disabled_w-0:disabled  { width: 0px; }
+.disabled_w-0d5:disabled  { width: 2px; }
+.disabled_w-1:disabled  { width: 4px; }
+.disabled_w-1d5:disabled  { width: 6px; }
+.disabled_w-2:disabled  { width: 8px; }
+.disabled_w-2d5:disabled  { width: 10px; }
+.disabled_w-3:disabled  { width: 12px; }
+.disabled_w-3d5:disabled  { width: 14px; }
+.disabled_w-4:disabled  { width: 16px; }
+.disabled_w-5:disabled  { width: 20px; }
+.disabled_w-6:disabled  { width: 24px; }
+.disabled_w-7:disabled  { width: 28px; }
+.disabled_w-8:disabled  { width: 32px; }
+.disabled_w-9:disabled  { width: 36px; }
+.disabled_w-10:disabled  { width: 40px; }
+.disabled_w-11:disabled  { width: 44px; }
+.disabled_w-12:disabled  { width: 48px; }
+.disabled_w-14:disabled  { width: 56px; }
+.disabled_w-16:disabled  { width: 64px; }
+.disabled_w-20:disabled  { width: 80px; }
+.disabled_w-24:disabled  { width: 96px; }
+.disabled_w-28:disabled  { width: 112px; }
+.disabled_w-32:disabled  { width: 128px; }
+.disabled_w-36:disabled  { width: 144px; }
+.disabled_w-40:disabled  { width: 160px; }
+.disabled_w-44:disabled  { width: 176px; }
+.disabled_w-48:disabled  { width: 192px; }
+.disabled_w-52:disabled  { width: 208px; }
+.disabled_w-56:disabled  { width: 224px; }
+.disabled_w-60:disabled  { width: 240px; }
+.disabled_w-64:disabled  { width: 256px; }
+.disabled_w-72:disabled  { width: 288px; }
+.disabled_w-80:disabled  { width: 320px; }
+.disabled_w-96:disabled  { width: 384px; }
+.disabled_w-px:disabled  { width: 1px; }
+.disabled_w-auto:disabled  { width: auto; }
+.disabled_w-1s2:disabled  { width: 50%; }
+.disabled_w-1s3:disabled  { width: 33.333333%; }
+.disabled_w-2s3:disabled  { width: 66.666667%; }
+.disabled_w-1s4:disabled  { width: 25%; }
+.disabled_w-2s4:disabled  { width: 50%; }
+.disabled_w-3s4:disabled  { width: 75%; }
+.disabled_w-full:disabled  { width: 100%; }
+.disabled_w-1s5:disabled  { width: 20%; }
+.disabled_w-2s5:disabled  { width: 40%; }
+.disabled_w-3s5:disabled  { width: 60%; }
+.disabled_w-4s5:disabled  { width: 80%; }
+.disabled_w-1s6:disabled  { width: 16.666667%; }
+.disabled_w-2s6:disabled  { width: 33.333333%; }
+.disabled_w-3s6:disabled  { width: 50%; }
+.disabled_w-4s6:disabled  { width: 66.666667%; }
+.disabled_w-5s6:disabled  { width: 83.333333%; }
+.disabled_w-1s12:disabled  { width: 8.333333%; }
+.disabled_w-2s12:disabled  { width: 16.666667%; }
+.disabled_w-3s12:disabled  { width: 25%; }
+.disabled_w-4s12:disabled  { width: 33.333333%; }
+.disabled_w-5s12:disabled  { width: 41.666667%; }
+.disabled_w-6s12:disabled  { width: 50%; }
+.disabled_w-7s12:disabled  { width: 58.333333%; }
+.disabled_w-8s12:disabled  { width: 66.666667%; }
+.disabled_w-9s12:disabled  { width: 75%; }
+.disabled_w-10s12:disabled  { width: 83.333333%; }
+.disabled_w-11s12:disabled  { width: 91.666667%; }
+.disabled_min-w-0:disabled  { min-width: 0px; }
+.disabled_min-w-full:disabled  { min-width: 100%; }
+.disabled_max-w-0:disabled  { max-width: 0px; }
+.disabled_max-w-none:disabled  { max-width: none; }
+.disabled_max-w-xs:disabled  { max-width: 320px; }
+.disabled_max-w-sm:disabled  { max-width: 384px; }
+.disabled_max-w-md:disabled  { max-width: 448px; }
+.disabled_max-w-lg:disabled  { max-width: 512px; }
+.disabled_max-w-xl:disabled  { max-width: 576px; }
+.disabled_max-w-2xl:disabled  { max-width: 672px; }
+.disabled_max-w-3xl:disabled  { max-width: 768px; }
+.disabled_max-w-4xl:disabled  { max-width: 896px; }
+.disabled_max-w-5xl:disabled  { max-width: 1024px; }
+.disabled_max-w-6xl:disabled  { max-width: 1152px; }
+.disabled_max-w-7xl:disabled  { max-width: 1280px; }
+.disabled_max-w-full:disabled  { max-width: 100%; }
+.disabled_h-0:disabled  { height: 0px; }
+.disabled_h-0d5:disabled  { height: 2px; }
+.disabled_h-1:disabled  { height: 4px; }
+.disabled_h-1d5:disabled  { height: 6px; }
+.disabled_h-2:disabled  { height: 8px; }
+.disabled_h-2d5:disabled  { height: 10px; }
+.disabled_h-3:disabled  { height: 12px; }
+.disabled_h-3d5:disabled  { height: 14px; }
+.disabled_h-4:disabled  { height: 16px; }
+.disabled_h-5:disabled  { height: 20px; }
+.disabled_h-6:disabled  { height: 24px; }
+.disabled_h-7:disabled  { height: 28px; }
+.disabled_h-8:disabled  { height: 32px; }
+.disabled_h-9:disabled  { height: 36px; }
+.disabled_h-10:disabled  { height: 40px; }
+.disabled_h-11:disabled  { height: 44px; }
+.disabled_h-12:disabled  { height: 48px; }
+.disabled_h-14:disabled  { height: 56px; }
+.disabled_h-16:disabled  { height: 64px; }
+.disabled_h-20:disabled  { height: 80px; }
+.disabled_h-24:disabled  { height: 96px; }
+.disabled_h-28:disabled  { height: 112px; }
+.disabled_h-32:disabled  { height: 128px; }
+.disabled_h-36:disabled  { height: 144px; }
+.disabled_h-40:disabled  { height: 160px; }
+.disabled_h-44:disabled  { height: 176px; }
+.disabled_h-48:disabled  { height: 192px; }
+.disabled_h-52:disabled  { height: 208px; }
+.disabled_h-56:disabled  { height: 224px; }
+.disabled_h-60:disabled  { height: 240px; }
+.disabled_h-64:disabled  { height: 256px; }
+.disabled_h-72:disabled  { height: 288px; }
+.disabled_h-80:disabled  { height: 320px; }
+.disabled_h-96:disabled  { height: 384px; }
+.disabled_h-px:disabled  { height: 1px; }
+.disabled_h-auto:disabled  { height: auto; }
+.disabled_h-1s2:disabled  { height: 50%; }
+.disabled_h-1s3:disabled  { height: 33.333333%; }
+.disabled_h-2s3:disabled  { height: 66.666667%; }
+.disabled_h-1s4:disabled  { height: 25%; }
+.disabled_h-2s4:disabled  { height: 50%; }
+.disabled_h-3s4:disabled  { height: 75%; }
+.disabled_h-full:disabled  { height: 100%; }
+.disabled_h-1s5:disabled  { height: 20%; }
+.disabled_h-2s5:disabled  { height: 40%; }
+.disabled_h-3s5:disabled  { height: 60%; }
+.disabled_h-4s5:disabled  { height: 80%; }
+.disabled_h-1s6:disabled  { height: 16.666667%; }
+.disabled_h-2s6:disabled  { height: 33.333333%; }
+.disabled_h-3s6:disabled  { height: 50%; }
+.disabled_h-4s6:disabled  { height: 66.666667%; }
+.disabled_h-5s6:disabled  { height: 83.333333%; }
+.disabled_h-1s12:disabled  { height: 8.333333%; }
+.disabled_h-2s12:disabled  { height: 16.666667%; }
+.disabled_h-3s12:disabled  { height: 25%; }
+.disabled_h-4s12:disabled  { height: 33.333333%; }
+.disabled_h-5s12:disabled  { height: 41.666667%; }
+.disabled_h-6s12:disabled  { height: 50%; }
+.disabled_h-7s12:disabled  { height: 58.333333%; }
+.disabled_h-8s12:disabled  { height: 66.666667%; }
+.disabled_h-9s12:disabled  { height: 75%; }
+.disabled_h-10s12:disabled  { height: 83.333333%; }
+.disabled_h-11s12:disabled  { height: 91.666667%; }
+.disabled_min-h-0:disabled  { min-height: 0px; }
+.disabled_min-h-full:disabled  { min-height: 100%; }
+.disabled_max-h-0:disabled  { max-height: 0px; }
+.disabled_max-h-none:disabled  { max-height: none; }
+.disabled_max-h-xs:disabled  { max-height: 320px; }
+.disabled_max-h-sm:disabled  { max-height: 384px; }
+.disabled_max-h-md:disabled  { max-height: 448px; }
+.disabled_max-h-lg:disabled  { max-height: 512px; }
+.disabled_max-h-xl:disabled  { max-height: 576px; }
+.disabled_max-h-2xl:disabled  { max-height: 672px; }
+.disabled_max-h-3xl:disabled  { max-height: 768px; }
+.disabled_max-h-4xl:disabled  { max-height: 896px; }
+.disabled_max-h-5xl:disabled  { max-height: 1024px; }
+.disabled_max-h-6xl:disabled  { max-height: 1152px; }
+.disabled_max-h-7xl:disabled  { max-height: 1280px; }
+.disabled_max-h-full:disabled  { max-height: 100%; }
+.disabled_rounded-none:disabled  { border-radius: 0px; }
+.disabled_rounded-sm:disabled  { border-radius: 2px; }
+.disabled_rounded:disabled  { border-radius: 4px; }
+.disabled_rounded-md:disabled  { border-radius: 6px; }
+.disabled_rounded-lg:disabled  { border-radius: 8px; }
+.disabled_rounded-xl:disabled  { border-radius: 12px; }
+.disabled_rounded-2xl:disabled  { border-radius: 16px; }
+.disabled_rounded-3xl:disabled  { border-radius: 24px; }
+.disabled_rounded-full:disabled  { border-radius: 9999px; }
+.disabled_rounded-t-none:disabled  { border-top-left-radius: 0px; border-top-right-radius: 0px; }
+.disabled_rounded-t-sm:disabled  { border-top-left-radius: 2px; border-top-right-radius: 2px; }
+.disabled_rounded-t:disabled  { border-top-left-radius: 4px; border-top-right-radius: 4px; }
+.disabled_rounded-t-md:disabled  { border-top-left-radius: 6px; border-top-right-radius: 6px; }
+.disabled_rounded-t-lg:disabled  { border-top-left-radius: 8px; border-top-right-radius: 8px; }
+.disabled_rounded-t-xl:disabled  { border-top-left-radius: 12px; border-top-right-radius: 12px; }
+.disabled_rounded-t-2xl:disabled  { border-top-left-radius: 16px; border-top-right-radius: 16px; }
+.disabled_rounded-t-3xl:disabled  { border-top-left-radius: 24px; border-top-right-radius: 24px; }
+.disabled_rounded-t-full:disabled  { border-top-left-radius: 9999px; border-top-right-radius: 9999px; }
+.disabled_rounded-r-none:disabled  { border-top-right-radius: 0px; border-bottom-right-radius: 0px; }
+.disabled_rounded-r-sm:disabled  { border-top-right-radius: 2px; border-bottom-right-radius: 2px; }
+.disabled_rounded-r:disabled  { border-top-right-radius: 4px; border-bottom-right-radius: 4px; }
+.disabled_rounded-r-md:disabled  { border-top-right-radius: 6px; border-bottom-right-radius: 6px; }
+.disabled_rounded-r-lg:disabled  { border-top-right-radius: 8px; border-bottom-right-radius: 8px; }
+.disabled_rounded-r-xl:disabled  { border-top-right-radius: 12px; border-bottom-right-radius: 12px; }
+.disabled_rounded-r-2xl:disabled  { border-top-right-radius: 16px; border-bottom-right-radius: 16px; }
+.disabled_rounded-r-3xl:disabled  { border-top-right-radius: 24px; border-bottom-right-radius: 24px; }
+.disabled_rounded-r-full:disabled  { border-top-right-radius: 9999px; border-bottom-right-radius: 9999px; }
+.disabled_rounded-b-none:disabled  { border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; }
+.disabled_rounded-b-sm:disabled  { border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; }
+.disabled_rounded-b:disabled  { border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; }
+.disabled_rounded-b-md:disabled  { border-bottom-right-radius: 6px; border-bottom-left-radius: 6px; }
+.disabled_rounded-b-lg:disabled  { border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; }
+.disabled_rounded-b-xl:disabled  { border-bottom-right-radius: 12px; border-bottom-left-radius: 12px; }
+.disabled_rounded-b-2xl:disabled  { border-bottom-right-radius: 16px; border-bottom-left-radius: 16px; }
+.disabled_rounded-b-3xl:disabled  { border-bottom-right-radius: 24px; border-bottom-left-radius: 24px; }
+.disabled_rounded-b-full:disabled  { border-bottom-right-radius: 9999px; border-bottom-left-radius: 9999px; }
+.disabled_rounded-l-none:disabled  { border-top-left-radius: 0px; border-bottom-left-radius: 0px; }
+.disabled_rounded-l-sm:disabled  { border-top-left-radius: 2px; border-bottom-left-radius: 2px; }
+.disabled_rounded-l:disabled  { border-top-left-radius: 4px; border-bottom-left-radius: 4px; }
+.disabled_rounded-l-md:disabled  { border-top-left-radius: 6px; border-bottom-left-radius: 6px; }
+.disabled_rounded-l-lg:disabled  { border-top-left-radius: 8px; border-bottom-left-radius: 8px; }
+.disabled_rounded-l-xl:disabled  { border-top-left-radius: 12px; border-bottom-left-radius: 12px; }
+.disabled_rounded-l-2xl:disabled  { border-top-left-radius: 16px; border-bottom-left-radius: 16px; }
+.disabled_rounded-l-3xl:disabled  { border-top-left-radius: 24px; border-bottom-left-radius: 24px; }
+.disabled_rounded-l-full:disabled  { border-top-left-radius: 9999px; border-bottom-left-radius: 9999px; }
+.disabled_rounded-tl-none:disabled  { border-top-left-radius: 0px; }
+.disabled_rounded-tl-sm:disabled  { border-top-left-radius: 2px; }
+.disabled_rounded-tl:disabled  { border-top-left-radius: 4px; }
+.disabled_rounded-tl-md:disabled  { border-top-left-radius: 6px; }
+.disabled_rounded-tl-lg:disabled  { border-top-left-radius: 8px; }
+.disabled_rounded-tl-xl:disabled  { border-top-left-radius: 12px; }
+.disabled_rounded-tl-2xl:disabled  { border-top-left-radius: 16px; }
+.disabled_rounded-tl-3xl:disabled  { border-top-left-radius: 24px; }
+.disabled_rounded-tl-full:disabled  { border-top-left-radius: 9999px; }
+.disabled_rounded-tr-none:disabled  { border-top-right-radius: 0px; }
+.disabled_rounded-tr-sm:disabled  { border-top-right-radius: 2px; }
+.disabled_rounded-tr:disabled  { border-top-right-radius: 4px; }
+.disabled_rounded-tr-md:disabled  { border-top-right-radius: 6px; }
+.disabled_rounded-tr-lg:disabled  { border-top-right-radius: 8px; }
+.disabled_rounded-tr-xl:disabled  { border-top-right-radius: 12px; }
+.disabled_rounded-tr-2xl:disabled  { border-top-right-radius: 16px; }
+.disabled_rounded-tr-3xl:disabled  { border-top-right-radius: 24px; }
+.disabled_rounded-tr-full:disabled  { border-top-right-radius: 9999px; }
+.disabled_rounded-br-none:disabled  { border-bottom-right-radius: 0px; }
+.disabled_rounded-br-sm:disabled  { border-bottom-right-radius: 2px; }
+.disabled_rounded-br:disabled  { border-bottom-right-radius: 4px; }
+.disabled_rounded-br-md:disabled  { border-bottom-right-radius: 6px; }
+.disabled_rounded-br-lg:disabled  { border-bottom-right-radius: 8px; }
+.disabled_rounded-br-xl:disabled  { border-bottom-right-radius: 12px; }
+.disabled_rounded-br-2xl:disabled  { border-bottom-right-radius: 16px; }
+.disabled_rounded-br-3xl:disabled  { border-bottom-right-radius: 24px; }
+.disabled_rounded-br-full:disabled  { border-bottom-right-radius: 9999px; }
+.disabled_rounded-bl-none:disabled  { border-bottom-left-radius: 0px; }
+.disabled_rounded-bl-sm:disabled  { border-bottom-left-radius: 2px; }
+.disabled_rounded-bl:disabled  { border-bottom-left-radius: 4px; }
+.disabled_rounded-bl-md:disabled  { border-bottom-left-radius: 6px; }
+.disabled_rounded-bl-lg:disabled  { border-bottom-left-radius: 8px; }
+.disabled_rounded-bl-xl:disabled  { border-bottom-left-radius: 12px; }
+.disabled_rounded-bl-2xl:disabled  { border-bottom-left-radius: 16px; }
+.disabled_rounded-bl-3xl:disabled  { border-bottom-left-radius: 24px; }
+.disabled_rounded-bl-full:disabled  { border-bottom-left-radius: 9999px; }
+.disabled_border:disabled  { border-width: 1px; }
+.disabled_border-0:disabled  { border-width: 0px; }
+.disabled_border-2:disabled  { border-width: 2px; }
+.disabled_border-4:disabled  { border-width: 4px; }
+.disabled_border-8:disabled  { border-width: 8px; }
+.disabled_border-t:disabled  { border-top-width: 1px; }
+.disabled_border-t-0:disabled  { border-top-width: 0px; }
+.disabled_border-t-2:disabled  { border-top-width: 2px; }
+.disabled_border-t-4:disabled  { border-top-width: 4px; }
+.disabled_border-t-8:disabled  { border-top-width: 8px; }
+.disabled_border-r:disabled  { border-right-width: 1px; }
+.disabled_border-r-0:disabled  { border-right-width: 0px; }
+.disabled_border-r-2:disabled  { border-right-width: 2px; }
+.disabled_border-r-4:disabled  { border-right-width: 4px; }
+.disabled_border-r-8:disabled  { border-right-width: 8px; }
+.disabled_border-b:disabled  { border-bottom-width: 1px; }
+.disabled_border-b-0:disabled  { border-bottom-width: 0px; }
+.disabled_border-b-2:disabled  { border-bottom-width: 2px; }
+.disabled_border-b-4:disabled  { border-bottom-width: 4px; }
+.disabled_border-b-8:disabled  { border-bottom-width: 8px; }
+.disabled_border-l:disabled  { border-left-width: 1px; }
+.disabled_border-l-0:disabled  { border-left-width: 0px; }
+.disabled_border-l-2:disabled  { border-left-width: 2px; }
+.disabled_border-l-4:disabled  { border-left-width: 4px; }
+.disabled_border-l-8:disabled  { border-left-width: 8px; }
+.disabled_border-slate-50:disabled  { border-color: #f8fafc; }
+.disabled_border-slate-100:disabled  { border-color: #f1f5f9; }
+.disabled_border-slate-200:disabled  { border-color: #e2e8f0; }
+.disabled_border-slate-300:disabled  { border-color: #cbd5e1; }
+.disabled_border-slate-400:disabled  { border-color: #94a3b8; }
+.disabled_border-slate-500:disabled  { border-color: #64748b; }
+.disabled_border-slate-600:disabled  { border-color: #475569; }
+.disabled_border-slate-700:disabled  { border-color: #334155; }
+.disabled_border-slate-800:disabled  { border-color: #1e293b; }
+.disabled_border-slate-900:disabled  { border-color: #0f172a; }
+.disabled_border-slate-950:disabled  { border-color: #020617; }
+.disabled_border-gray-50:disabled  { border-color: #f9fafb; }
+.disabled_border-gray-100:disabled  { border-color: #f3f4f6; }
+.disabled_border-gray-200:disabled  { border-color: #e5e7eb; }
+.disabled_border-gray-300:disabled  { border-color: #d1d5db; }
+.disabled_border-gray-400:disabled  { border-color: #9ca3af; }
+.disabled_border-gray-500:disabled  { border-color: #6b7280; }
+.disabled_border-gray-600:disabled  { border-color: #4b5563; }
+.disabled_border-gray-700:disabled  { border-color: #374151; }
+.disabled_border-gray-800:disabled  { border-color: #1f2937; }
+.disabled_border-gray-900:disabled  { border-color: #111827; }
+.disabled_border-gray-950:disabled  { border-color: #030712; }
+.disabled_border-zinc-50:disabled  { border-color: #fafafa; }
+.disabled_border-zinc-100:disabled  { border-color: #f4f4f5; }
+.disabled_border-zinc-200:disabled  { border-color: #e4e4e7; }
+.disabled_border-zinc-300:disabled  { border-color: #d4d4d8; }
+.disabled_border-zinc-400:disabled  { border-color: #a1a1aa; }
+.disabled_border-zinc-500:disabled  { border-color: #71717a; }
+.disabled_border-zinc-600:disabled  { border-color: #52525b; }
+.disabled_border-zinc-700:disabled  { border-color: #3f3f46; }
+.disabled_border-zinc-800:disabled  { border-color: #27272a; }
+.disabled_border-zinc-900:disabled  { border-color: #18181b; }
+.disabled_border-zinc-950:disabled  { border-color: #09090b; }
+.disabled_border-neutral-50:disabled  { border-color: #fafafa; }
+.disabled_border-neutral-100:disabled  { border-color: #f5f5f5; }
+.disabled_border-neutral-200:disabled  { border-color: #e5e5e5; }
+.disabled_border-neutral-300:disabled  { border-color: #d4d4d4; }
+.disabled_border-neutral-400:disabled  { border-color: #a3a3a3; }
+.disabled_border-neutral-500:disabled  { border-color: #737373; }
+.disabled_border-neutral-600:disabled  { border-color: #525252; }
+.disabled_border-neutral-700:disabled  { border-color: #404040; }
+.disabled_border-neutral-800:disabled  { border-color: #262626; }
+.disabled_border-neutral-900:disabled  { border-color: #171717; }
+.disabled_border-neutral-950:disabled  { border-color: #0a0a0a; }
+.disabled_border-stone-50:disabled  { border-color: #fafaf9; }
+.disabled_border-stone-100:disabled  { border-color: #f5f5f4; }
+.disabled_border-stone-200:disabled  { border-color: #e7e5e4; }
+.disabled_border-stone-300:disabled  { border-color: #d6d3d1; }
+.disabled_border-stone-400:disabled  { border-color: #a8a29e; }
+.disabled_border-stone-500:disabled  { border-color: #78716c; }
+.disabled_border-stone-600:disabled  { border-color: #57534e; }
+.disabled_border-stone-700:disabled  { border-color: #44403c; }
+.disabled_border-stone-800:disabled  { border-color: #292524; }
+.disabled_border-stone-900:disabled  { border-color: #1c1917; }
+.disabled_border-stone-950:disabled  { border-color: #0c0a09; }
+.disabled_border-red-50:disabled  { border-color: #fef2f2; }
+.disabled_border-red-100:disabled  { border-color: #fee2e2; }
+.disabled_border-red-200:disabled  { border-color: #fecaca; }
+.disabled_border-red-300:disabled  { border-color: #fca5a5; }
+.disabled_border-red-400:disabled  { border-color: #f87171; }
+.disabled_border-red-500:disabled  { border-color: #ef4444; }
+.disabled_border-red-600:disabled  { border-color: #dc2626; }
+.disabled_border-red-700:disabled  { border-color: #b91c1c; }
+.disabled_border-red-800:disabled  { border-color: #991b1b; }
+.disabled_border-red-900:disabled  { border-color: #7f1d1d; }
+.disabled_border-red-950:disabled  { border-color: #450a0a; }
+.disabled_border-orange-50:disabled  { border-color: #fff7ed; }
+.disabled_border-orange-100:disabled  { border-color: #ffedd5; }
+.disabled_border-orange-200:disabled  { border-color: #fed7aa; }
+.disabled_border-orange-300:disabled  { border-color: #fdba74; }
+.disabled_border-orange-400:disabled  { border-color: #fb923c; }
+.disabled_border-orange-500:disabled  { border-color: #f97316; }
+.disabled_border-orange-600:disabled  { border-color: #ea580c; }
+.disabled_border-orange-700:disabled  { border-color: #c2410c; }
+.disabled_border-orange-800:disabled  { border-color: #9a3412; }
+.disabled_border-orange-900:disabled  { border-color: #7c2d12; }
+.disabled_border-orange-950:disabled  { border-color: #431407; }
+.disabled_border-amber-50:disabled  { border-color: #fffbeb; }
+.disabled_border-amber-100:disabled  { border-color: #fef3c7; }
+.disabled_border-amber-200:disabled  { border-color: #fde68a; }
+.disabled_border-amber-300:disabled  { border-color: #fcd34d; }
+.disabled_border-amber-400:disabled  { border-color: #fbbf24; }
+.disabled_border-amber-500:disabled  { border-color: #f59e0b; }
+.disabled_border-amber-600:disabled  { border-color: #d97706; }
+.disabled_border-amber-700:disabled  { border-color: #b45309; }
+.disabled_border-amber-800:disabled  { border-color: #92400e; }
+.disabled_border-amber-900:disabled  { border-color: #78350f; }
+.disabled_border-amber-950:disabled  { border-color: #451a03; }
+.disabled_border-yellow-50:disabled  { border-color: #fefce8; }
+.disabled_border-yellow-100:disabled  { border-color: #fef9c3; }
+.disabled_border-yellow-200:disabled  { border-color: #fef08a; }
+.disabled_border-yellow-300:disabled  { border-color: #fde047; }
+.disabled_border-yellow-400:disabled  { border-color: #facc15; }
+.disabled_border-yellow-500:disabled  { border-color: #eab308; }
+.disabled_border-yellow-600:disabled  { border-color: #ca8a04; }
+.disabled_border-yellow-700:disabled  { border-color: #a16207; }
+.disabled_border-yellow-800:disabled  { border-color: #854d0e; }
+.disabled_border-yellow-900:disabled  { border-color: #713f12; }
+.disabled_border-yellow-950:disabled  { border-color: #422006; }
+.disabled_border-lime-50:disabled  { border-color: #f7fee7; }
+.disabled_border-lime-100:disabled  { border-color: #ecfccb; }
+.disabled_border-lime-200:disabled  { border-color: #d9f99d; }
+.disabled_border-lime-300:disabled  { border-color: #bef264; }
+.disabled_border-lime-400:disabled  { border-color: #a3e635; }
+.disabled_border-lime-500:disabled  { border-color: #84cc16; }
+.disabled_border-lime-600:disabled  { border-color: #65a30d; }
+.disabled_border-lime-700:disabled  { border-color: #4d7c0f; }
+.disabled_border-lime-800:disabled  { border-color: #3f6212; }
+.disabled_border-lime-900:disabled  { border-color: #365314; }
+.disabled_border-lime-950:disabled  { border-color: #1a2e05; }
+.disabled_border-green-50:disabled  { border-color: #f0fdf4; }
+.disabled_border-green-100:disabled  { border-color: #dcfce7; }
+.disabled_border-green-200:disabled  { border-color: #bbf7d0; }
+.disabled_border-green-300:disabled  { border-color: #86efac; }
+.disabled_border-green-400:disabled  { border-color: #4ade80; }
+.disabled_border-green-500:disabled  { border-color: #22c55e; }
+.disabled_border-green-600:disabled  { border-color: #16a34a; }
+.disabled_border-green-700:disabled  { border-color: #15803d; }
+.disabled_border-green-800:disabled  { border-color: #166534; }
+.disabled_border-green-900:disabled  { border-color: #14532d; }
+.disabled_border-green-950:disabled  { border-color: #052e16; }
+.disabled_border-emerald-50:disabled  { border-color: #ecfdf5; }
+.disabled_border-emerald-100:disabled  { border-color: #d1fae5; }
+.disabled_border-emerald-200:disabled  { border-color: #a7f3d0; }
+.disabled_border-emerald-300:disabled  { border-color: #6ee7b7; }
+.disabled_border-emerald-400:disabled  { border-color: #34d399; }
+.disabled_border-emerald-500:disabled  { border-color: #10b981; }
+.disabled_border-emerald-600:disabled  { border-color: #059669; }
+.disabled_border-emerald-700:disabled  { border-color: #047857; }
+.disabled_border-emerald-800:disabled  { border-color: #065f46; }
+.disabled_border-emerald-900:disabled  { border-color: #064e3b; }
+.disabled_border-emerald-950:disabled  { border-color: #022c22; }
+.disabled_border-teal-50:disabled  { border-color: #f0fdfa; }
+.disabled_border-teal-100:disabled  { border-color: #ccfbf1; }
+.disabled_border-teal-200:disabled  { border-color: #99f6e4; }
+.disabled_border-teal-300:disabled  { border-color: #5eead4; }
+.disabled_border-teal-400:disabled  { border-color: #2dd4bf; }
+.disabled_border-teal-500:disabled  { border-color: #14b8a6; }
+.disabled_border-teal-600:disabled  { border-color: #0d9488; }
+.disabled_border-teal-700:disabled  { border-color: #0f766e; }
+.disabled_border-teal-800:disabled  { border-color: #115e59; }
+.disabled_border-teal-900:disabled  { border-color: #134e4a; }
+.disabled_border-teal-950:disabled  { border-color: #042f2e; }
+.disabled_border-cyan-50:disabled  { border-color: #ecfeff; }
+.disabled_border-cyan-100:disabled  { border-color: #cffafe; }
+.disabled_border-cyan-200:disabled  { border-color: #a5f3fc; }
+.disabled_border-cyan-300:disabled  { border-color: #67e8f9; }
+.disabled_border-cyan-400:disabled  { border-color: #22d3ee; }
+.disabled_border-cyan-500:disabled  { border-color: #06b6d4; }
+.disabled_border-cyan-600:disabled  { border-color: #0891b2; }
+.disabled_border-cyan-700:disabled  { border-color: #0e7490; }
+.disabled_border-cyan-800:disabled  { border-color: #155e75; }
+.disabled_border-cyan-900:disabled  { border-color: #164e63; }
+.disabled_border-cyan-950:disabled  { border-color: #083344; }
+.disabled_border-sky-50:disabled  { border-color: #f0f9ff; }
+.disabled_border-sky-100:disabled  { border-color: #e0f2fe; }
+.disabled_border-sky-200:disabled  { border-color: #bae6fd; }
+.disabled_border-sky-300:disabled  { border-color: #7dd3fc; }
+.disabled_border-sky-400:disabled  { border-color: #38bdf8; }
+.disabled_border-sky-500:disabled  { border-color: #0ea5e9; }
+.disabled_border-sky-600:disabled  { border-color: #0284c7; }
+.disabled_border-sky-700:disabled  { border-color: #0369a1; }
+.disabled_border-sky-800:disabled  { border-color: #075985; }
+.disabled_border-sky-900:disabled  { border-color: #0c4a6e; }
+.disabled_border-sky-950:disabled  { border-color: #082f49; }
+.disabled_border-blue-50:disabled  { border-color: #eff6ff; }
+.disabled_border-blue-100:disabled  { border-color: #dbeafe; }
+.disabled_border-blue-200:disabled  { border-color: #bfdbfe; }
+.disabled_border-blue-300:disabled  { border-color: #93c5fd; }
+.disabled_border-blue-400:disabled  { border-color: #60a5fa; }
+.disabled_border-blue-500:disabled  { border-color: #3b82f6; }
+.disabled_border-blue-600:disabled  { border-color: #2563eb; }
+.disabled_border-blue-700:disabled  { border-color: #1d4ed8; }
+.disabled_border-blue-800:disabled  { border-color: #1e40af; }
+.disabled_border-blue-900:disabled  { border-color: #1e3a8a; }
+.disabled_border-blue-950:disabled  { border-color: #172554; }
+.disabled_border-indigo-50:disabled  { border-color: #eef2ff; }
+.disabled_border-indigo-100:disabled  { border-color: #e0e7ff; }
+.disabled_border-indigo-200:disabled  { border-color: #c7d2fe; }
+.disabled_border-indigo-300:disabled  { border-color: #a5b4fc; }
+.disabled_border-indigo-400:disabled  { border-color: #818cf8; }
+.disabled_border-indigo-500:disabled  { border-color: #6366f1; }
+.disabled_border-indigo-600:disabled  { border-color: #4f46e5; }
+.disabled_border-indigo-700:disabled  { border-color: #4338ca; }
+.disabled_border-indigo-800:disabled  { border-color: #3730a3; }
+.disabled_border-indigo-900:disabled  { border-color: #312e81; }
+.disabled_border-indigo-950:disabled  { border-color: #1e1b4b; }
+.disabled_border-violet-50:disabled  { border-color: #f5f3ff; }
+.disabled_border-violet-100:disabled  { border-color: #ede9fe; }
+.disabled_border-violet-200:disabled  { border-color: #ddd6fe; }
+.disabled_border-violet-300:disabled  { border-color: #c4b5fd; }
+.disabled_border-violet-400:disabled  { border-color: #a78bfa; }
+.disabled_border-violet-500:disabled  { border-color: #8b5cf6; }
+.disabled_border-violet-600:disabled  { border-color: #7c3aed; }
+.disabled_border-violet-700:disabled  { border-color: #6d28d9; }
+.disabled_border-violet-800:disabled  { border-color: #5b21b6; }
+.disabled_border-violet-900:disabled  { border-color: #4c1d95; }
+.disabled_border-violet-950:disabled  { border-color: #2e1065; }
+.disabled_border-purple-50:disabled  { border-color: #faf5ff; }
+.disabled_border-purple-100:disabled  { border-color: #f3e8ff; }
+.disabled_border-purple-200:disabled  { border-color: #e9d5ff; }
+.disabled_border-purple-300:disabled  { border-color: #d8b4fe; }
+.disabled_border-purple-400:disabled  { border-color: #c084fc; }
+.disabled_border-purple-500:disabled  { border-color: #a855f7; }
+.disabled_border-purple-600:disabled  { border-color: #9333ea; }
+.disabled_border-purple-700:disabled  { border-color: #7e22ce; }
+.disabled_border-purple-800:disabled  { border-color: #6b21a8; }
+.disabled_border-purple-900:disabled  { border-color: #581c87; }
+.disabled_border-purple-950:disabled  { border-color: #3b0764; }
+.disabled_border-fuchsia-50:disabled  { border-color: #fdf4ff; }
+.disabled_border-fuchsia-100:disabled  { border-color: #fae8ff; }
+.disabled_border-fuchsia-200:disabled  { border-color: #f5d0fe; }
+.disabled_border-fuchsia-300:disabled  { border-color: #f0abfc; }
+.disabled_border-fuchsia-400:disabled  { border-color: #e879f9; }
+.disabled_border-fuchsia-500:disabled  { border-color: #d946ef; }
+.disabled_border-fuchsia-600:disabled  { border-color: #c026d3; }
+.disabled_border-fuchsia-700:disabled  { border-color: #a21caf; }
+.disabled_border-fuchsia-800:disabled  { border-color: #86198f; }
+.disabled_border-fuchsia-900:disabled  { border-color: #701a75; }
+.disabled_border-fuchsia-950:disabled  { border-color: #4a044e; }
+.disabled_border-pink-50:disabled  { border-color: #fdf2f8; }
+.disabled_border-pink-100:disabled  { border-color: #fce7f3; }
+.disabled_border-pink-200:disabled  { border-color: #fbcfe8; }
+.disabled_border-pink-300:disabled  { border-color: #f9a8d4; }
+.disabled_border-pink-400:disabled  { border-color: #f472b6; }
+.disabled_border-pink-500:disabled  { border-color: #ec4899; }
+.disabled_border-pink-600:disabled  { border-color: #db2777; }
+.disabled_border-pink-700:disabled  { border-color: #be185d; }
+.disabled_border-pink-800:disabled  { border-color: #9d174d; }
+.disabled_border-pink-900:disabled  { border-color: #831843; }
+.disabled_border-pink-950:disabled  { border-color: #500724; }
+.disabled_border-rose-50:disabled  { border-color: #fff1f2; }
+.disabled_border-rose-100:disabled  { border-color: #ffe4e6; }
+.disabled_border-rose-200:disabled  { border-color: #fecdd3; }
+.disabled_border-rose-300:disabled  { border-color: #fda4af; }
+.disabled_border-rose-400:disabled  { border-color: #fb7185; }
+.disabled_border-rose-500:disabled  { border-color: #f43f5e; }
+.disabled_border-rose-600:disabled  { border-color: #e11d48; }
+.disabled_border-rose-700:disabled  { border-color: #be123c; }
+.disabled_border-rose-800:disabled  { border-color: #9f1239; }
+.disabled_border-rose-900:disabled  { border-color: #881337; }
+.disabled_border-rose-950:disabled  { border-color: #4c0519; }
+.disabled_border-transparent:disabled  { border-color: transparent; }
+.disabled_border-white:disabled  { border-color: white; }
+.disabled_border-black:disabled  { border-color: black; }
+.disabled_transition:disabled  { transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.disabled_transition-none:disabled  { transition-property: none; }
+.disabled_transition-all:disabled  { transition-property: all; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.disabled_transition-colors:disabled  { transition-property: background-color, border-color, color, fill, stroke; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.disabled_transition-opacity:disabled  { transition-property: opacity; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.disabled_transition-shadow:disabled  { transition-property: box-shadow; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.disabled_transition-transform:disabled  { transition-property: transform; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.disabled_duration-75:disabled  { transition-duration: 75ms; }
+.disabled_duration-100:disabled  { transition-duration: 100ms; }
+.disabled_duration-150:disabled  { transition-duration: 150ms; }
+.disabled_duration-200:disabled  { transition-duration: 200ms; }
+.disabled_duration-300:disabled  { transition-duration: 300ms; }
+.disabled_duration-500:disabled  { transition-duration: 500ms; }
+.disabled_duration-700:disabled  { transition-duration: 700ms; }
+.disabled_duration-1000:disabled  { transition-duration: 1000ms; }
+.disabled_ease-linear:disabled  { transition-timing-function: linear; }
+.disabled_ease-in:disabled  { transition-timing-function: ease-in-cubic; }
+.disabled_ease-out:disabled  { transition-timing-function: ease-out-cubic; }
+.disabled_ease-in-out:disabled  { transition-timing-function: ease-in-out-cubic; }
+.disabled_delay-75:disabled  { transition-delay: 75ms; }
+.disabled_delay-100:disabled  { transition-delay: 100ms; }
+.disabled_delay-150:disabled  { transition-delay: 150ms; }
+.disabled_delay-200:disabled  { transition-delay: 200ms; }
+.disabled_delay-300:disabled  { transition-delay: 300ms; }
+.disabled_delay-500:disabled  { transition-delay: 500ms; }
+.disabled_delay-700:disabled  { transition-delay: 700ms; }
+.disabled_delay-1000:disabled  { transition-delay: 1000ms; }
+.disabled_cursor-arrow:disabled  { cursor: arrow; }
+.disabled_cursor-text:disabled  { cursor: text; }
+.disabled_cursor-resize-vertical:disabled  { cursor: resize-vertical; }
+.disabled_cursor-resize-horizontal:disabled  { cursor: resize-horizontal; }
+.disabled_cursor-link:disabled  { cursor: link; }
+.disabled_cursor-slide-arrow:disabled  { cursor: slide-arrow; }
+.disabled_cursor-resize-up-right:disabled  { cursor: resize-up-right; }
+.disabled_cursor-resize-up-left:disabled  { cursor: resize-up-left; }
+.disabled_cursor-move-arrow:disabled  { cursor: move-arrow; }
+.disabled_cursor-rotate-arrow:disabled  { cursor: rotate-arrow; }
+.disabled_cursor-scale-arrow:disabled  { cursor: scale-arrow; }
+.disabled_cursor-arrow-plus:disabled  { cursor: arrow-plus; }
+.disabled_cursor-arrow-minus:disabled  { cursor: arrow-minus; }
+.disabled_cursor-pan:disabled  { cursor: pan; }
+.disabled_cursor-orbit:disabled  { cursor: orbit; }
+.disabled_cursor-zoom:disabled  { cursor: zoom; }
+.disabled_cursor-fps:disabled  { cursor: fps; }
+.disabled_cursor-split-resize-up-down:disabled  { cursor: split-resize-up-down; }
+.disabled_cursor-split-resize-left-right:disabled  { cursor: split-resize-left-right; }
+.disabled_justify-start:disabled  { justify-content: flex-start; }
+.disabled_justify-end:disabled  { justify-content: flex-end; }
+.disabled_justify-center:disabled  { justify-content: center; }
+.disabled_justify-between:disabled  { justify-content: space-between; }
+.disabled_justify-around:disabled  { justify-content: space-around; }
+.disabled_justify-evenly:disabled  { justify-content: space-evenly; }
+.disabled_content-start:disabled  { align-content: flex-start; }
+.disabled_content-center:disabled  { align-content: center; }
+.disabled_content-end:disabled  { align-content: flex-end; }
+.disabled_items-stretch:disabled  { align-items: stretch; }
+.disabled_items-start:disabled  { align-items: flex-start; }
+.disabled_items-center:disabled  { align-items: center; }
+.disabled_items-end:disabled  { align-items: flex-end; }
+.disabled_self-auto:disabled  { align-self: auto; }
+.disabled_self-start:disabled  { align-self: flex-start; }
+.disabled_self-end:disabled  { align-self: flex-end; }
+.disabled_self-center:disabled  { align-self: center; }
+.disabled_self-stretch:disabled  { align-self: stretch; }
+.disabled_text-slate-50:disabled  { color: #f8fafc; }
+.disabled_text-slate-100:disabled  { color: #f1f5f9; }
+.disabled_text-slate-200:disabled  { color: #e2e8f0; }
+.disabled_text-slate-300:disabled  { color: #cbd5e1; }
+.disabled_text-slate-400:disabled  { color: #94a3b8; }
+.disabled_text-slate-500:disabled  { color: #64748b; }
+.disabled_text-slate-600:disabled  { color: #475569; }
+.disabled_text-slate-700:disabled  { color: #334155; }
+.disabled_text-slate-800:disabled  { color: #1e293b; }
+.disabled_text-slate-900:disabled  { color: #0f172a; }
+.disabled_text-slate-950:disabled  { color: #020617; }
+.disabled_text-gray-50:disabled  { color: #f9fafb; }
+.disabled_text-gray-100:disabled  { color: #f3f4f6; }
+.disabled_text-gray-200:disabled  { color: #e5e7eb; }
+.disabled_text-gray-300:disabled  { color: #d1d5db; }
+.disabled_text-gray-400:disabled  { color: #9ca3af; }
+.disabled_text-gray-500:disabled  { color: #6b7280; }
+.disabled_text-gray-600:disabled  { color: #4b5563; }
+.disabled_text-gray-700:disabled  { color: #374151; }
+.disabled_text-gray-800:disabled  { color: #1f2937; }
+.disabled_text-gray-900:disabled  { color: #111827; }
+.disabled_text-gray-950:disabled  { color: #030712; }
+.disabled_text-zinc-50:disabled  { color: #fafafa; }
+.disabled_text-zinc-100:disabled  { color: #f4f4f5; }
+.disabled_text-zinc-200:disabled  { color: #e4e4e7; }
+.disabled_text-zinc-300:disabled  { color: #d4d4d8; }
+.disabled_text-zinc-400:disabled  { color: #a1a1aa; }
+.disabled_text-zinc-500:disabled  { color: #71717a; }
+.disabled_text-zinc-600:disabled  { color: #52525b; }
+.disabled_text-zinc-700:disabled  { color: #3f3f46; }
+.disabled_text-zinc-800:disabled  { color: #27272a; }
+.disabled_text-zinc-900:disabled  { color: #18181b; }
+.disabled_text-zinc-950:disabled  { color: #09090b; }
+.disabled_text-neutral-50:disabled  { color: #fafafa; }
+.disabled_text-neutral-100:disabled  { color: #f5f5f5; }
+.disabled_text-neutral-200:disabled  { color: #e5e5e5; }
+.disabled_text-neutral-300:disabled  { color: #d4d4d4; }
+.disabled_text-neutral-400:disabled  { color: #a3a3a3; }
+.disabled_text-neutral-500:disabled  { color: #737373; }
+.disabled_text-neutral-600:disabled  { color: #525252; }
+.disabled_text-neutral-700:disabled  { color: #404040; }
+.disabled_text-neutral-800:disabled  { color: #262626; }
+.disabled_text-neutral-900:disabled  { color: #171717; }
+.disabled_text-neutral-950:disabled  { color: #0a0a0a; }
+.disabled_text-stone-50:disabled  { color: #fafaf9; }
+.disabled_text-stone-100:disabled  { color: #f5f5f4; }
+.disabled_text-stone-200:disabled  { color: #e7e5e4; }
+.disabled_text-stone-300:disabled  { color: #d6d3d1; }
+.disabled_text-stone-400:disabled  { color: #a8a29e; }
+.disabled_text-stone-500:disabled  { color: #78716c; }
+.disabled_text-stone-600:disabled  { color: #57534e; }
+.disabled_text-stone-700:disabled  { color: #44403c; }
+.disabled_text-stone-800:disabled  { color: #292524; }
+.disabled_text-stone-900:disabled  { color: #1c1917; }
+.disabled_text-stone-950:disabled  { color: #0c0a09; }
+.disabled_text-red-50:disabled  { color: #fef2f2; }
+.disabled_text-red-100:disabled  { color: #fee2e2; }
+.disabled_text-red-200:disabled  { color: #fecaca; }
+.disabled_text-red-300:disabled  { color: #fca5a5; }
+.disabled_text-red-400:disabled  { color: #f87171; }
+.disabled_text-red-500:disabled  { color: #ef4444; }
+.disabled_text-red-600:disabled  { color: #dc2626; }
+.disabled_text-red-700:disabled  { color: #b91c1c; }
+.disabled_text-red-800:disabled  { color: #991b1b; }
+.disabled_text-red-900:disabled  { color: #7f1d1d; }
+.disabled_text-red-950:disabled  { color: #450a0a; }
+.disabled_text-orange-50:disabled  { color: #fff7ed; }
+.disabled_text-orange-100:disabled  { color: #ffedd5; }
+.disabled_text-orange-200:disabled  { color: #fed7aa; }
+.disabled_text-orange-300:disabled  { color: #fdba74; }
+.disabled_text-orange-400:disabled  { color: #fb923c; }
+.disabled_text-orange-500:disabled  { color: #f97316; }
+.disabled_text-orange-600:disabled  { color: #ea580c; }
+.disabled_text-orange-700:disabled  { color: #c2410c; }
+.disabled_text-orange-800:disabled  { color: #9a3412; }
+.disabled_text-orange-900:disabled  { color: #7c2d12; }
+.disabled_text-orange-950:disabled  { color: #431407; }
+.disabled_text-amber-50:disabled  { color: #fffbeb; }
+.disabled_text-amber-100:disabled  { color: #fef3c7; }
+.disabled_text-amber-200:disabled  { color: #fde68a; }
+.disabled_text-amber-300:disabled  { color: #fcd34d; }
+.disabled_text-amber-400:disabled  { color: #fbbf24; }
+.disabled_text-amber-500:disabled  { color: #f59e0b; }
+.disabled_text-amber-600:disabled  { color: #d97706; }
+.disabled_text-amber-700:disabled  { color: #b45309; }
+.disabled_text-amber-800:disabled  { color: #92400e; }
+.disabled_text-amber-900:disabled  { color: #78350f; }
+.disabled_text-amber-950:disabled  { color: #451a03; }
+.disabled_text-yellow-50:disabled  { color: #fefce8; }
+.disabled_text-yellow-100:disabled  { color: #fef9c3; }
+.disabled_text-yellow-200:disabled  { color: #fef08a; }
+.disabled_text-yellow-300:disabled  { color: #fde047; }
+.disabled_text-yellow-400:disabled  { color: #facc15; }
+.disabled_text-yellow-500:disabled  { color: #eab308; }
+.disabled_text-yellow-600:disabled  { color: #ca8a04; }
+.disabled_text-yellow-700:disabled  { color: #a16207; }
+.disabled_text-yellow-800:disabled  { color: #854d0e; }
+.disabled_text-yellow-900:disabled  { color: #713f12; }
+.disabled_text-yellow-950:disabled  { color: #422006; }
+.disabled_text-lime-50:disabled  { color: #f7fee7; }
+.disabled_text-lime-100:disabled  { color: #ecfccb; }
+.disabled_text-lime-200:disabled  { color: #d9f99d; }
+.disabled_text-lime-300:disabled  { color: #bef264; }
+.disabled_text-lime-400:disabled  { color: #a3e635; }
+.disabled_text-lime-500:disabled  { color: #84cc16; }
+.disabled_text-lime-600:disabled  { color: #65a30d; }
+.disabled_text-lime-700:disabled  { color: #4d7c0f; }
+.disabled_text-lime-800:disabled  { color: #3f6212; }
+.disabled_text-lime-900:disabled  { color: #365314; }
+.disabled_text-lime-950:disabled  { color: #1a2e05; }
+.disabled_text-green-50:disabled  { color: #f0fdf4; }
+.disabled_text-green-100:disabled  { color: #dcfce7; }
+.disabled_text-green-200:disabled  { color: #bbf7d0; }
+.disabled_text-green-300:disabled  { color: #86efac; }
+.disabled_text-green-400:disabled  { color: #4ade80; }
+.disabled_text-green-500:disabled  { color: #22c55e; }
+.disabled_text-green-600:disabled  { color: #16a34a; }
+.disabled_text-green-700:disabled  { color: #15803d; }
+.disabled_text-green-800:disabled  { color: #166534; }
+.disabled_text-green-900:disabled  { color: #14532d; }
+.disabled_text-green-950:disabled  { color: #052e16; }
+.disabled_text-emerald-50:disabled  { color: #ecfdf5; }
+.disabled_text-emerald-100:disabled  { color: #d1fae5; }
+.disabled_text-emerald-200:disabled  { color: #a7f3d0; }
+.disabled_text-emerald-300:disabled  { color: #6ee7b7; }
+.disabled_text-emerald-400:disabled  { color: #34d399; }
+.disabled_text-emerald-500:disabled  { color: #10b981; }
+.disabled_text-emerald-600:disabled  { color: #059669; }
+.disabled_text-emerald-700:disabled  { color: #047857; }
+.disabled_text-emerald-800:disabled  { color: #065f46; }
+.disabled_text-emerald-900:disabled  { color: #064e3b; }
+.disabled_text-emerald-950:disabled  { color: #022c22; }
+.disabled_text-teal-50:disabled  { color: #f0fdfa; }
+.disabled_text-teal-100:disabled  { color: #ccfbf1; }
+.disabled_text-teal-200:disabled  { color: #99f6e4; }
+.disabled_text-teal-300:disabled  { color: #5eead4; }
+.disabled_text-teal-400:disabled  { color: #2dd4bf; }
+.disabled_text-teal-500:disabled  { color: #14b8a6; }
+.disabled_text-teal-600:disabled  { color: #0d9488; }
+.disabled_text-teal-700:disabled  { color: #0f766e; }
+.disabled_text-teal-800:disabled  { color: #115e59; }
+.disabled_text-teal-900:disabled  { color: #134e4a; }
+.disabled_text-teal-950:disabled  { color: #042f2e; }
+.disabled_text-cyan-50:disabled  { color: #ecfeff; }
+.disabled_text-cyan-100:disabled  { color: #cffafe; }
+.disabled_text-cyan-200:disabled  { color: #a5f3fc; }
+.disabled_text-cyan-300:disabled  { color: #67e8f9; }
+.disabled_text-cyan-400:disabled  { color: #22d3ee; }
+.disabled_text-cyan-500:disabled  { color: #06b6d4; }
+.disabled_text-cyan-600:disabled  { color: #0891b2; }
+.disabled_text-cyan-700:disabled  { color: #0e7490; }
+.disabled_text-cyan-800:disabled  { color: #155e75; }
+.disabled_text-cyan-900:disabled  { color: #164e63; }
+.disabled_text-cyan-950:disabled  { color: #083344; }
+.disabled_text-sky-50:disabled  { color: #f0f9ff; }
+.disabled_text-sky-100:disabled  { color: #e0f2fe; }
+.disabled_text-sky-200:disabled  { color: #bae6fd; }
+.disabled_text-sky-300:disabled  { color: #7dd3fc; }
+.disabled_text-sky-400:disabled  { color: #38bdf8; }
+.disabled_text-sky-500:disabled  { color: #0ea5e9; }
+.disabled_text-sky-600:disabled  { color: #0284c7; }
+.disabled_text-sky-700:disabled  { color: #0369a1; }
+.disabled_text-sky-800:disabled  { color: #075985; }
+.disabled_text-sky-900:disabled  { color: #0c4a6e; }
+.disabled_text-sky-950:disabled  { color: #082f49; }
+.disabled_text-blue-50:disabled  { color: #eff6ff; }
+.disabled_text-blue-100:disabled  { color: #dbeafe; }
+.disabled_text-blue-200:disabled  { color: #bfdbfe; }
+.disabled_text-blue-300:disabled  { color: #93c5fd; }
+.disabled_text-blue-400:disabled  { color: #60a5fa; }
+.disabled_text-blue-500:disabled  { color: #3b82f6; }
+.disabled_text-blue-600:disabled  { color: #2563eb; }
+.disabled_text-blue-700:disabled  { color: #1d4ed8; }
+.disabled_text-blue-800:disabled  { color: #1e40af; }
+.disabled_text-blue-900:disabled  { color: #1e3a8a; }
+.disabled_text-blue-950:disabled  { color: #172554; }
+.disabled_text-indigo-50:disabled  { color: #eef2ff; }
+.disabled_text-indigo-100:disabled  { color: #e0e7ff; }
+.disabled_text-indigo-200:disabled  { color: #c7d2fe; }
+.disabled_text-indigo-300:disabled  { color: #a5b4fc; }
+.disabled_text-indigo-400:disabled  { color: #818cf8; }
+.disabled_text-indigo-500:disabled  { color: #6366f1; }
+.disabled_text-indigo-600:disabled  { color: #4f46e5; }
+.disabled_text-indigo-700:disabled  { color: #4338ca; }
+.disabled_text-indigo-800:disabled  { color: #3730a3; }
+.disabled_text-indigo-900:disabled  { color: #312e81; }
+.disabled_text-indigo-950:disabled  { color: #1e1b4b; }
+.disabled_text-violet-50:disabled  { color: #f5f3ff; }
+.disabled_text-violet-100:disabled  { color: #ede9fe; }
+.disabled_text-violet-200:disabled  { color: #ddd6fe; }
+.disabled_text-violet-300:disabled  { color: #c4b5fd; }
+.disabled_text-violet-400:disabled  { color: #a78bfa; }
+.disabled_text-violet-500:disabled  { color: #8b5cf6; }
+.disabled_text-violet-600:disabled  { color: #7c3aed; }
+.disabled_text-violet-700:disabled  { color: #6d28d9; }
+.disabled_text-violet-800:disabled  { color: #5b21b6; }
+.disabled_text-violet-900:disabled  { color: #4c1d95; }
+.disabled_text-violet-950:disabled  { color: #2e1065; }
+.disabled_text-purple-50:disabled  { color: #faf5ff; }
+.disabled_text-purple-100:disabled  { color: #f3e8ff; }
+.disabled_text-purple-200:disabled  { color: #e9d5ff; }
+.disabled_text-purple-300:disabled  { color: #d8b4fe; }
+.disabled_text-purple-400:disabled  { color: #c084fc; }
+.disabled_text-purple-500:disabled  { color: #a855f7; }
+.disabled_text-purple-600:disabled  { color: #9333ea; }
+.disabled_text-purple-700:disabled  { color: #7e22ce; }
+.disabled_text-purple-800:disabled  { color: #6b21a8; }
+.disabled_text-purple-900:disabled  { color: #581c87; }
+.disabled_text-purple-950:disabled  { color: #3b0764; }
+.disabled_text-fuchsia-50:disabled  { color: #fdf4ff; }
+.disabled_text-fuchsia-100:disabled  { color: #fae8ff; }
+.disabled_text-fuchsia-200:disabled  { color: #f5d0fe; }
+.disabled_text-fuchsia-300:disabled  { color: #f0abfc; }
+.disabled_text-fuchsia-400:disabled  { color: #e879f9; }
+.disabled_text-fuchsia-500:disabled  { color: #d946ef; }
+.disabled_text-fuchsia-600:disabled  { color: #c026d3; }
+.disabled_text-fuchsia-700:disabled  { color: #a21caf; }
+.disabled_text-fuchsia-800:disabled  { color: #86198f; }
+.disabled_text-fuchsia-900:disabled  { color: #701a75; }
+.disabled_text-fuchsia-950:disabled  { color: #4a044e; }
+.disabled_text-pink-50:disabled  { color: #fdf2f8; }
+.disabled_text-pink-100:disabled  { color: #fce7f3; }
+.disabled_text-pink-200:disabled  { color: #fbcfe8; }
+.disabled_text-pink-300:disabled  { color: #f9a8d4; }
+.disabled_text-pink-400:disabled  { color: #f472b6; }
+.disabled_text-pink-500:disabled  { color: #ec4899; }
+.disabled_text-pink-600:disabled  { color: #db2777; }
+.disabled_text-pink-700:disabled  { color: #be185d; }
+.disabled_text-pink-800:disabled  { color: #9d174d; }
+.disabled_text-pink-900:disabled  { color: #831843; }
+.disabled_text-pink-950:disabled  { color: #500724; }
+.disabled_text-rose-50:disabled  { color: #fff1f2; }
+.disabled_text-rose-100:disabled  { color: #ffe4e6; }
+.disabled_text-rose-200:disabled  { color: #fecdd3; }
+.disabled_text-rose-300:disabled  { color: #fda4af; }
+.disabled_text-rose-400:disabled  { color: #fb7185; }
+.disabled_text-rose-500:disabled  { color: #f43f5e; }
+.disabled_text-rose-600:disabled  { color: #e11d48; }
+.disabled_text-rose-700:disabled  { color: #be123c; }
+.disabled_text-rose-800:disabled  { color: #9f1239; }
+.disabled_text-rose-900:disabled  { color: #881337; }
+.disabled_text-rose-950:disabled  { color: #4c0519; }
+.disabled_text-transparent:disabled  { color: transparent; }
+.disabled_text-white:disabled  { color: white; }
+.disabled_text-black:disabled  { color: black; }
+.disabled_text-xs:disabled  { font-size: 12px; }
+.disabled_text-sm:disabled  { font-size: 14px; }
+.disabled_text-base:disabled  { font-size: 16px; }
+.disabled_text-lg:disabled  { font-size: 18px; }
+.disabled_text-xl:disabled  { font-size: 20px; }
+.disabled_text-2xl:disabled  { font-size: 24px; }
+.disabled_text-3xl:disabled  { font-size: 30px; }
+.disabled_text-4xl:disabled  { font-size: 36px; }
+.disabled_text-5xl:disabled  { font-size: 48px; }
+.disabled_text-6xl:disabled  { font-size: 60px; }
+.disabled_text-7xl:disabled  { font-size: 72px; }
+.disabled_text-8xl:disabled  { font-size: 96px; }
+.disabled_text-9xl:disabled  { font-size: 128px; }
+.disabled_whitespace-normal:disabled  { white-space: normal; }
+.disabled_whitespace-no-wrap:disabled  { white-space: nowrap; }

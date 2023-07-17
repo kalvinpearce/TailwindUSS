@@ -1,0 +1,16 @@
+{
+    "name": "KalvinPearce.TailwindUSS.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c6a53c87d10fe615a8afe7809f19176c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

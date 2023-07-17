@@ -16,11 +16,10 @@ namespace TailwindUSS
         [UnityEditor.MenuItem("Assets/TailwindUSS/Generate")]
         public static void Generate()
         {
-            var ussFilePath = Path.Combine(Utils.PROJECT_PATH, "Runtime/TailwindUSS.uss");
-            var enumPath = Path.Combine(Utils.PROJECT_PATH, "Runtime/TailwindClassesEnum.cs");
+            var baseFilePath = Path.Combine(Utils.PROJECT_PATH, "Runtime");
 
             // Ensure directory exists
-            var directory = Path.GetDirectoryName(ussFilePath);
+            var directory = Path.GetDirectoryName(baseFilePath);
             if (!Directory.Exists(directory))
             {
                 Directory.CreateDirectory(directory);
@@ -88,71 +87,35 @@ namespace TailwindUSS
             allProps.AddRange(GetFontSizeProps());
             allProps.AddRange(GetTextWhiteSpaceProps());
 
-            using StreamWriter ussWriter = new StreamWriter(ussFilePath, false);
-            ussWriter.WriteLine("/*");
-            ussWriter.WriteLine(" vim: filetype=css");
-            ussWriter.WriteLine(" This file is auto-generated. Do not edit it directly.");
-            ussWriter.WriteLine("*/");
-
-            using StreamWriter enumWriter = new StreamWriter(enumPath, false);
-            enumWriter.WriteLine("// This file is auto-generated. Do not edit it directly.");
-            enumWriter.WriteLine("namespace TailwindUSS");
-            enumWriter.WriteLine("{");
-            enumWriter.WriteLine("    public enum Tw");
-            enumWriter.WriteLine("    {");
+            void WriteClassesToFile(string fileName, string pseudo = "")
+            {
+                using StreamWriter writer = new StreamWriter(fileName, false);
+                writer.WriteLine("/*");
+                writer.WriteLine(" vim: filetype=css");
+                writer.WriteLine(" This file is auto-generated. Do not edit it directly.");
+                writer.WriteLine("*/");
+                foreach (var prop in allProps)
+                {
+                    var namePrefix = string.IsNullOrEmpty(pseudo) ? "" : $"{pseudo}_";
+                    var pseudoSuffix = string.IsNullOrEmpty(pseudo) ? "" : $":{pseudo}";
+                    writer.WriteLine($".{namePrefix}{prop.name}{pseudoSuffix} {prop.selectors} {{ {prop.css} }}");
+                }
+            }
 
             // Normal
-            foreach (var prop in allProps)
-            {
-                ussWriter.WriteLine($".{prop.name} {prop.selectors} {{ {prop.css} }}");
-                var enumName = Utils.ClassNameToTwEnum(prop.name);
-                enumWriter.WriteLine($"        {enumName},");
-            }
+            WriteClassesToFile(Path.Combine(baseFilePath, "TailwindUSS.Normal.uss"));
             // Hover
-            foreach (var prop in allProps)
-            {
-                ussWriter.WriteLine($".hover-{prop.name}:hover {prop.selectors} {{ {prop.css} }}");
-                var enumName = Utils.ClassNameToTwEnum($"hover-{prop.name}");
-                enumWriter.WriteLine($"        {enumName},");
-            }
+            WriteClassesToFile(Path.Combine(baseFilePath, "TailwindUSS.Hover.uss"), "hover");
             // Focus
-            foreach (var prop in allProps)
-            {
-                ussWriter.WriteLine($".focus-{prop.name}:focus {prop.selectors} {{ {prop.css} }}");
-                var enumName = Utils.ClassNameToTwEnum($"focus-{prop.name}");
-                enumWriter.WriteLine($"        {enumName},");
-            }
+            WriteClassesToFile(Path.Combine(baseFilePath, "TailwindUSS.Focus.uss"), "focus");
             // Active
-            foreach (var prop in allProps)
-            {
-                ussWriter.WriteLine($".active-{prop.name}:active {prop.selectors} {{ {prop.css} }}");
-                var enumName = Utils.ClassNameToTwEnum($"active-{prop.name}");
-                enumWriter.WriteLine($"        {enumName},");
-            }
+            WriteClassesToFile(Path.Combine(baseFilePath, "TailwindUSS.Active.uss"), "active");
             //Inactive
-            foreach (var prop in allProps)
-            {
-                ussWriter.WriteLine($".inactive-{prop.name}:inactive {prop.selectors} {{ {prop.css} }}");
-                var enumName = Utils.ClassNameToTwEnum($"inactive-{prop.name}");
-                enumWriter.WriteLine($"        {enumName},");
-            }
+            WriteClassesToFile(Path.Combine(baseFilePath, "TailwindUSS.Inactive.uss"), "inactive");
             // Disabled
-            foreach (var prop in allProps)
-            {
-                ussWriter.WriteLine($".disabled-{prop.name}:disabled {prop.selectors} {{ {prop.css} }}");
-                var enumName = Utils.ClassNameToTwEnum($"disabled-{prop.name}");
-                enumWriter.WriteLine($"        {enumName},");
-            }
+            WriteClassesToFile(Path.Combine(baseFilePath, "TailwindUSS.Disabled.uss"), "disabled");
             // Checked
-            foreach (var prop in allProps)
-            {
-                ussWriter.WriteLine($".checked-{prop.name}:checked {prop.selectors} {{ {prop.css} }}");
-                var enumName = Utils.ClassNameToTwEnum($"checked-{prop.name}");
-                enumWriter.WriteLine($"        {enumName},");
-            }
-
-            enumWriter.WriteLine("    }");
-            enumWriter.WriteLine("}");
+            WriteClassesToFile(Path.Combine(baseFilePath, "TailwindUSS.Checked.uss"), "checked");
         }
 
 
@@ -312,7 +275,7 @@ namespace TailwindUSS
         private static List<Prop> GetRotateProps()
         {
             var props = new List<Prop>();
-            props.AddRange(GetScales("rotate", "--tw-rotate"));
+            props.AddRange(GetAngles("rotate", "--tw-rotate"));
             return props;
         }
 

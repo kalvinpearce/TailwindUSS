@@ -1,0 +1,2989 @@
+/*
+ vim: filetype=css
+ This file is auto-generated. Do not edit it directly.
+*/
+.checked_flex:checked  { display: flex; }
+.checked_hidden:checked  { display: none; }
+.checked_overflow-hidden:checked  { overflow: hidden; }
+.checked_overflow-visible:checked  { overflow: visible; }
+.checked_overflow-scroll:checked  { overflow: scroll; }
+.checked_absolute:checked  { position: absolute; }
+.checked_relative:checked  { position: relative; }
+.checked_inset-0:checked  { top: 0px; right: 0px; bottom: 0px; left: 0px; }
+.checked_inset-0d5:checked  { top: 2px; right: 2px; bottom: 2px; left: 2px; }
+.checked_inset-1:checked  { top: 4px; right: 4px; bottom: 4px; left: 4px; }
+.checked_inset-1d5:checked  { top: 6px; right: 6px; bottom: 6px; left: 6px; }
+.checked_inset-2:checked  { top: 8px; right: 8px; bottom: 8px; left: 8px; }
+.checked_inset-2d5:checked  { top: 10px; right: 10px; bottom: 10px; left: 10px; }
+.checked_inset-3:checked  { top: 12px; right: 12px; bottom: 12px; left: 12px; }
+.checked_inset-3d5:checked  { top: 14px; right: 14px; bottom: 14px; left: 14px; }
+.checked_inset-4:checked  { top: 16px; right: 16px; bottom: 16px; left: 16px; }
+.checked_inset-5:checked  { top: 20px; right: 20px; bottom: 20px; left: 20px; }
+.checked_inset-6:checked  { top: 24px; right: 24px; bottom: 24px; left: 24px; }
+.checked_inset-7:checked  { top: 28px; right: 28px; bottom: 28px; left: 28px; }
+.checked_inset-8:checked  { top: 32px; right: 32px; bottom: 32px; left: 32px; }
+.checked_inset-9:checked  { top: 36px; right: 36px; bottom: 36px; left: 36px; }
+.checked_inset-10:checked  { top: 40px; right: 40px; bottom: 40px; left: 40px; }
+.checked_inset-11:checked  { top: 44px; right: 44px; bottom: 44px; left: 44px; }
+.checked_inset-12:checked  { top: 48px; right: 48px; bottom: 48px; left: 48px; }
+.checked_inset-14:checked  { top: 56px; right: 56px; bottom: 56px; left: 56px; }
+.checked_inset-16:checked  { top: 64px; right: 64px; bottom: 64px; left: 64px; }
+.checked_inset-20:checked  { top: 80px; right: 80px; bottom: 80px; left: 80px; }
+.checked_inset-24:checked  { top: 96px; right: 96px; bottom: 96px; left: 96px; }
+.checked_inset-28:checked  { top: 112px; right: 112px; bottom: 112px; left: 112px; }
+.checked_inset-32:checked  { top: 128px; right: 128px; bottom: 128px; left: 128px; }
+.checked_inset-36:checked  { top: 144px; right: 144px; bottom: 144px; left: 144px; }
+.checked_inset-40:checked  { top: 160px; right: 160px; bottom: 160px; left: 160px; }
+.checked_inset-44:checked  { top: 176px; right: 176px; bottom: 176px; left: 176px; }
+.checked_inset-48:checked  { top: 192px; right: 192px; bottom: 192px; left: 192px; }
+.checked_inset-52:checked  { top: 208px; right: 208px; bottom: 208px; left: 208px; }
+.checked_inset-56:checked  { top: 224px; right: 224px; bottom: 224px; left: 224px; }
+.checked_inset-60:checked  { top: 240px; right: 240px; bottom: 240px; left: 240px; }
+.checked_inset-64:checked  { top: 256px; right: 256px; bottom: 256px; left: 256px; }
+.checked_inset-72:checked  { top: 288px; right: 288px; bottom: 288px; left: 288px; }
+.checked_inset-80:checked  { top: 320px; right: 320px; bottom: 320px; left: 320px; }
+.checked_inset-96:checked  { top: 384px; right: 384px; bottom: 384px; left: 384px; }
+.checked_inset-px:checked  { top: 1px; right: 1px; bottom: 1px; left: 1px; }
+.checked_-inset-0:checked  { top: -0px; right: -0px; bottom: -0px; left: -0px; }
+.checked_-inset-0d5:checked  { top: -2px; right: -2px; bottom: -2px; left: -2px; }
+.checked_-inset-1:checked  { top: -4px; right: -4px; bottom: -4px; left: -4px; }
+.checked_-inset-1d5:checked  { top: -6px; right: -6px; bottom: -6px; left: -6px; }
+.checked_-inset-2:checked  { top: -8px; right: -8px; bottom: -8px; left: -8px; }
+.checked_-inset-2d5:checked  { top: -10px; right: -10px; bottom: -10px; left: -10px; }
+.checked_-inset-3:checked  { top: -12px; right: -12px; bottom: -12px; left: -12px; }
+.checked_-inset-3d5:checked  { top: -14px; right: -14px; bottom: -14px; left: -14px; }
+.checked_-inset-4:checked  { top: -16px; right: -16px; bottom: -16px; left: -16px; }
+.checked_-inset-5:checked  { top: -20px; right: -20px; bottom: -20px; left: -20px; }
+.checked_-inset-6:checked  { top: -24px; right: -24px; bottom: -24px; left: -24px; }
+.checked_-inset-7:checked  { top: -28px; right: -28px; bottom: -28px; left: -28px; }
+.checked_-inset-8:checked  { top: -32px; right: -32px; bottom: -32px; left: -32px; }
+.checked_-inset-9:checked  { top: -36px; right: -36px; bottom: -36px; left: -36px; }
+.checked_-inset-10:checked  { top: -40px; right: -40px; bottom: -40px; left: -40px; }
+.checked_-inset-11:checked  { top: -44px; right: -44px; bottom: -44px; left: -44px; }
+.checked_-inset-12:checked  { top: -48px; right: -48px; bottom: -48px; left: -48px; }
+.checked_-inset-14:checked  { top: -56px; right: -56px; bottom: -56px; left: -56px; }
+.checked_-inset-16:checked  { top: -64px; right: -64px; bottom: -64px; left: -64px; }
+.checked_-inset-20:checked  { top: -80px; right: -80px; bottom: -80px; left: -80px; }
+.checked_-inset-24:checked  { top: -96px; right: -96px; bottom: -96px; left: -96px; }
+.checked_-inset-28:checked  { top: -112px; right: -112px; bottom: -112px; left: -112px; }
+.checked_-inset-32:checked  { top: -128px; right: -128px; bottom: -128px; left: -128px; }
+.checked_-inset-36:checked  { top: -144px; right: -144px; bottom: -144px; left: -144px; }
+.checked_-inset-40:checked  { top: -160px; right: -160px; bottom: -160px; left: -160px; }
+.checked_-inset-44:checked  { top: -176px; right: -176px; bottom: -176px; left: -176px; }
+.checked_-inset-48:checked  { top: -192px; right: -192px; bottom: -192px; left: -192px; }
+.checked_-inset-52:checked  { top: -208px; right: -208px; bottom: -208px; left: -208px; }
+.checked_-inset-56:checked  { top: -224px; right: -224px; bottom: -224px; left: -224px; }
+.checked_-inset-60:checked  { top: -240px; right: -240px; bottom: -240px; left: -240px; }
+.checked_-inset-64:checked  { top: -256px; right: -256px; bottom: -256px; left: -256px; }
+.checked_-inset-72:checked  { top: -288px; right: -288px; bottom: -288px; left: -288px; }
+.checked_-inset-80:checked  { top: -320px; right: -320px; bottom: -320px; left: -320px; }
+.checked_-inset-96:checked  { top: -384px; right: -384px; bottom: -384px; left: -384px; }
+.checked_-inset-px:checked  { top: -1px; right: -1px; bottom: -1px; left: -1px; }
+.checked_inset-auto:checked  { top: auto; right: auto; bottom: auto; left: auto; }
+.checked_inset-1s2:checked  { top: 50%; right: 50%; bottom: 50%; left: 50%; }
+.checked_inset-1s3:checked  { top: 33.333333%; right: 33.333333%; bottom: 33.333333%; left: 33.333333%; }
+.checked_inset-2s3:checked  { top: 66.666667%; right: 66.666667%; bottom: 66.666667%; left: 66.666667%; }
+.checked_inset-1s4:checked  { top: 25%; right: 25%; bottom: 25%; left: 25%; }
+.checked_inset-2s4:checked  { top: 50%; right: 50%; bottom: 50%; left: 50%; }
+.checked_inset-3s4:checked  { top: 75%; right: 75%; bottom: 75%; left: 75%; }
+.checked_inset-full:checked  { top: 100%; right: 100%; bottom: 100%; left: 100%; }
+.checked_-inset-1s2:checked  { top: -50%; right: -50%; bottom: -50%; left: -50%; }
+.checked_-inset-1s3:checked  { top: -33.333333%; right: -33.333333%; bottom: -33.333333%; left: -33.333333%; }
+.checked_-inset-2s3:checked  { top: -66.666667%; right: -66.666667%; bottom: -66.666667%; left: -66.666667%; }
+.checked_-inset-1s4:checked  { top: -25%; right: -25%; bottom: -25%; left: -25%; }
+.checked_-inset-2s4:checked  { top: -50%; right: -50%; bottom: -50%; left: -50%; }
+.checked_-inset-3s4:checked  { top: -75%; right: -75%; bottom: -75%; left: -75%; }
+.checked_-inset-full:checked  { top: -100%; right: -100%; bottom: -100%; left: -100%; }
+.checked_inset-x-0:checked  { left: 0px; right: 0px; }
+.checked_inset-x-0d5:checked  { left: 2px; right: 2px; }
+.checked_inset-x-1:checked  { left: 4px; right: 4px; }
+.checked_inset-x-1d5:checked  { left: 6px; right: 6px; }
+.checked_inset-x-2:checked  { left: 8px; right: 8px; }
+.checked_inset-x-2d5:checked  { left: 10px; right: 10px; }
+.checked_inset-x-3:checked  { left: 12px; right: 12px; }
+.checked_inset-x-3d5:checked  { left: 14px; right: 14px; }
+.checked_inset-x-4:checked  { left: 16px; right: 16px; }
+.checked_inset-x-5:checked  { left: 20px; right: 20px; }
+.checked_inset-x-6:checked  { left: 24px; right: 24px; }
+.checked_inset-x-7:checked  { left: 28px; right: 28px; }
+.checked_inset-x-8:checked  { left: 32px; right: 32px; }
+.checked_inset-x-9:checked  { left: 36px; right: 36px; }
+.checked_inset-x-10:checked  { left: 40px; right: 40px; }
+.checked_inset-x-11:checked  { left: 44px; right: 44px; }
+.checked_inset-x-12:checked  { left: 48px; right: 48px; }
+.checked_inset-x-14:checked  { left: 56px; right: 56px; }
+.checked_inset-x-16:checked  { left: 64px; right: 64px; }
+.checked_inset-x-20:checked  { left: 80px; right: 80px; }
+.checked_inset-x-24:checked  { left: 96px; right: 96px; }
+.checked_inset-x-28:checked  { left: 112px; right: 112px; }
+.checked_inset-x-32:checked  { left: 128px; right: 128px; }
+.checked_inset-x-36:checked  { left: 144px; right: 144px; }
+.checked_inset-x-40:checked  { left: 160px; right: 160px; }
+.checked_inset-x-44:checked  { left: 176px; right: 176px; }
+.checked_inset-x-48:checked  { left: 192px; right: 192px; }
+.checked_inset-x-52:checked  { left: 208px; right: 208px; }
+.checked_inset-x-56:checked  { left: 224px; right: 224px; }
+.checked_inset-x-60:checked  { left: 240px; right: 240px; }
+.checked_inset-x-64:checked  { left: 256px; right: 256px; }
+.checked_inset-x-72:checked  { left: 288px; right: 288px; }
+.checked_inset-x-80:checked  { left: 320px; right: 320px; }
+.checked_inset-x-96:checked  { left: 384px; right: 384px; }
+.checked_inset-x-px:checked  { left: 1px; right: 1px; }
+.checked_-inset-x-0:checked  { left: -0px; right: -0px; }
+.checked_-inset-x-0d5:checked  { left: -2px; right: -2px; }
+.checked_-inset-x-1:checked  { left: -4px; right: -4px; }
+.checked_-inset-x-1d5:checked  { left: -6px; right: -6px; }
+.checked_-inset-x-2:checked  { left: -8px; right: -8px; }
+.checked_-inset-x-2d5:checked  { left: -10px; right: -10px; }
+.checked_-inset-x-3:checked  { left: -12px; right: -12px; }
+.checked_-inset-x-3d5:checked  { left: -14px; right: -14px; }
+.checked_-inset-x-4:checked  { left: -16px; right: -16px; }
+.checked_-inset-x-5:checked  { left: -20px; right: -20px; }
+.checked_-inset-x-6:checked  { left: -24px; right: -24px; }
+.checked_-inset-x-7:checked  { left: -28px; right: -28px; }
+.checked_-inset-x-8:checked  { left: -32px; right: -32px; }
+.checked_-inset-x-9:checked  { left: -36px; right: -36px; }
+.checked_-inset-x-10:checked  { left: -40px; right: -40px; }
+.checked_-inset-x-11:checked  { left: -44px; right: -44px; }
+.checked_-inset-x-12:checked  { left: -48px; right: -48px; }
+.checked_-inset-x-14:checked  { left: -56px; right: -56px; }
+.checked_-inset-x-16:checked  { left: -64px; right: -64px; }
+.checked_-inset-x-20:checked  { left: -80px; right: -80px; }
+.checked_-inset-x-24:checked  { left: -96px; right: -96px; }
+.checked_-inset-x-28:checked  { left: -112px; right: -112px; }
+.checked_-inset-x-32:checked  { left: -128px; right: -128px; }
+.checked_-inset-x-36:checked  { left: -144px; right: -144px; }
+.checked_-inset-x-40:checked  { left: -160px; right: -160px; }
+.checked_-inset-x-44:checked  { left: -176px; right: -176px; }
+.checked_-inset-x-48:checked  { left: -192px; right: -192px; }
+.checked_-inset-x-52:checked  { left: -208px; right: -208px; }
+.checked_-inset-x-56:checked  { left: -224px; right: -224px; }
+.checked_-inset-x-60:checked  { left: -240px; right: -240px; }
+.checked_-inset-x-64:checked  { left: -256px; right: -256px; }
+.checked_-inset-x-72:checked  { left: -288px; right: -288px; }
+.checked_-inset-x-80:checked  { left: -320px; right: -320px; }
+.checked_-inset-x-96:checked  { left: -384px; right: -384px; }
+.checked_-inset-x-px:checked  { left: -1px; right: -1px; }
+.checked_inset-x-auto:checked  { left: auto; right: auto; }
+.checked_inset-x-1s2:checked  { left: 50%; right: 50%; }
+.checked_inset-x-1s3:checked  { left: 33.333333%; right: 33.333333%; }
+.checked_inset-x-2s3:checked  { left: 66.666667%; right: 66.666667%; }
+.checked_inset-x-1s4:checked  { left: 25%; right: 25%; }
+.checked_inset-x-2s4:checked  { left: 50%; right: 50%; }
+.checked_inset-x-3s4:checked  { left: 75%; right: 75%; }
+.checked_inset-x-full:checked  { left: 100%; right: 100%; }
+.checked_-inset-x-1s2:checked  { left: -50%; right: -50%; }
+.checked_-inset-x-1s3:checked  { left: -33.333333%; right: -33.333333%; }
+.checked_-inset-x-2s3:checked  { left: -66.666667%; right: -66.666667%; }
+.checked_-inset-x-1s4:checked  { left: -25%; right: -25%; }
+.checked_-inset-x-2s4:checked  { left: -50%; right: -50%; }
+.checked_-inset-x-3s4:checked  { left: -75%; right: -75%; }
+.checked_-inset-x-full:checked  { left: -100%; right: -100%; }
+.checked_inset-y-0:checked  { top: 0px; bottom: 0px; }
+.checked_inset-y-0d5:checked  { top: 2px; bottom: 2px; }
+.checked_inset-y-1:checked  { top: 4px; bottom: 4px; }
+.checked_inset-y-1d5:checked  { top: 6px; bottom: 6px; }
+.checked_inset-y-2:checked  { top: 8px; bottom: 8px; }
+.checked_inset-y-2d5:checked  { top: 10px; bottom: 10px; }
+.checked_inset-y-3:checked  { top: 12px; bottom: 12px; }
+.checked_inset-y-3d5:checked  { top: 14px; bottom: 14px; }
+.checked_inset-y-4:checked  { top: 16px; bottom: 16px; }
+.checked_inset-y-5:checked  { top: 20px; bottom: 20px; }
+.checked_inset-y-6:checked  { top: 24px; bottom: 24px; }
+.checked_inset-y-7:checked  { top: 28px; bottom: 28px; }
+.checked_inset-y-8:checked  { top: 32px; bottom: 32px; }
+.checked_inset-y-9:checked  { top: 36px; bottom: 36px; }
+.checked_inset-y-10:checked  { top: 40px; bottom: 40px; }
+.checked_inset-y-11:checked  { top: 44px; bottom: 44px; }
+.checked_inset-y-12:checked  { top: 48px; bottom: 48px; }
+.checked_inset-y-14:checked  { top: 56px; bottom: 56px; }
+.checked_inset-y-16:checked  { top: 64px; bottom: 64px; }
+.checked_inset-y-20:checked  { top: 80px; bottom: 80px; }
+.checked_inset-y-24:checked  { top: 96px; bottom: 96px; }
+.checked_inset-y-28:checked  { top: 112px; bottom: 112px; }
+.checked_inset-y-32:checked  { top: 128px; bottom: 128px; }
+.checked_inset-y-36:checked  { top: 144px; bottom: 144px; }
+.checked_inset-y-40:checked  { top: 160px; bottom: 160px; }
+.checked_inset-y-44:checked  { top: 176px; bottom: 176px; }
+.checked_inset-y-48:checked  { top: 192px; bottom: 192px; }
+.checked_inset-y-52:checked  { top: 208px; bottom: 208px; }
+.checked_inset-y-56:checked  { top: 224px; bottom: 224px; }
+.checked_inset-y-60:checked  { top: 240px; bottom: 240px; }
+.checked_inset-y-64:checked  { top: 256px; bottom: 256px; }
+.checked_inset-y-72:checked  { top: 288px; bottom: 288px; }
+.checked_inset-y-80:checked  { top: 320px; bottom: 320px; }
+.checked_inset-y-96:checked  { top: 384px; bottom: 384px; }
+.checked_inset-y-px:checked  { top: 1px; bottom: 1px; }
+.checked_-inset-y-0:checked  { top: -0px; bottom: -0px; }
+.checked_-inset-y-0d5:checked  { top: -2px; bottom: -2px; }
+.checked_-inset-y-1:checked  { top: -4px; bottom: -4px; }
+.checked_-inset-y-1d5:checked  { top: -6px; bottom: -6px; }
+.checked_-inset-y-2:checked  { top: -8px; bottom: -8px; }
+.checked_-inset-y-2d5:checked  { top: -10px; bottom: -10px; }
+.checked_-inset-y-3:checked  { top: -12px; bottom: -12px; }
+.checked_-inset-y-3d5:checked  { top: -14px; bottom: -14px; }
+.checked_-inset-y-4:checked  { top: -16px; bottom: -16px; }
+.checked_-inset-y-5:checked  { top: -20px; bottom: -20px; }
+.checked_-inset-y-6:checked  { top: -24px; bottom: -24px; }
+.checked_-inset-y-7:checked  { top: -28px; bottom: -28px; }
+.checked_-inset-y-8:checked  { top: -32px; bottom: -32px; }
+.checked_-inset-y-9:checked  { top: -36px; bottom: -36px; }
+.checked_-inset-y-10:checked  { top: -40px; bottom: -40px; }
+.checked_-inset-y-11:checked  { top: -44px; bottom: -44px; }
+.checked_-inset-y-12:checked  { top: -48px; bottom: -48px; }
+.checked_-inset-y-14:checked  { top: -56px; bottom: -56px; }
+.checked_-inset-y-16:checked  { top: -64px; bottom: -64px; }
+.checked_-inset-y-20:checked  { top: -80px; bottom: -80px; }
+.checked_-inset-y-24:checked  { top: -96px; bottom: -96px; }
+.checked_-inset-y-28:checked  { top: -112px; bottom: -112px; }
+.checked_-inset-y-32:checked  { top: -128px; bottom: -128px; }
+.checked_-inset-y-36:checked  { top: -144px; bottom: -144px; }
+.checked_-inset-y-40:checked  { top: -160px; bottom: -160px; }
+.checked_-inset-y-44:checked  { top: -176px; bottom: -176px; }
+.checked_-inset-y-48:checked  { top: -192px; bottom: -192px; }
+.checked_-inset-y-52:checked  { top: -208px; bottom: -208px; }
+.checked_-inset-y-56:checked  { top: -224px; bottom: -224px; }
+.checked_-inset-y-60:checked  { top: -240px; bottom: -240px; }
+.checked_-inset-y-64:checked  { top: -256px; bottom: -256px; }
+.checked_-inset-y-72:checked  { top: -288px; bottom: -288px; }
+.checked_-inset-y-80:checked  { top: -320px; bottom: -320px; }
+.checked_-inset-y-96:checked  { top: -384px; bottom: -384px; }
+.checked_-inset-y-px:checked  { top: -1px; bottom: -1px; }
+.checked_inset-y-auto:checked  { top: auto; bottom: auto; }
+.checked_inset-y-1s2:checked  { top: 50%; bottom: 50%; }
+.checked_inset-y-1s3:checked  { top: 33.333333%; bottom: 33.333333%; }
+.checked_inset-y-2s3:checked  { top: 66.666667%; bottom: 66.666667%; }
+.checked_inset-y-1s4:checked  { top: 25%; bottom: 25%; }
+.checked_inset-y-2s4:checked  { top: 50%; bottom: 50%; }
+.checked_inset-y-3s4:checked  { top: 75%; bottom: 75%; }
+.checked_inset-y-full:checked  { top: 100%; bottom: 100%; }
+.checked_-inset-y-1s2:checked  { top: -50%; bottom: -50%; }
+.checked_-inset-y-1s3:checked  { top: -33.333333%; bottom: -33.333333%; }
+.checked_-inset-y-2s3:checked  { top: -66.666667%; bottom: -66.666667%; }
+.checked_-inset-y-1s4:checked  { top: -25%; bottom: -25%; }
+.checked_-inset-y-2s4:checked  { top: -50%; bottom: -50%; }
+.checked_-inset-y-3s4:checked  { top: -75%; bottom: -75%; }
+.checked_-inset-y-full:checked  { top: -100%; bottom: -100%; }
+.checked_top-0:checked  { top: 0px; }
+.checked_top-0d5:checked  { top: 2px; }
+.checked_top-1:checked  { top: 4px; }
+.checked_top-1d5:checked  { top: 6px; }
+.checked_top-2:checked  { top: 8px; }
+.checked_top-2d5:checked  { top: 10px; }
+.checked_top-3:checked  { top: 12px; }
+.checked_top-3d5:checked  { top: 14px; }
+.checked_top-4:checked  { top: 16px; }
+.checked_top-5:checked  { top: 20px; }
+.checked_top-6:checked  { top: 24px; }
+.checked_top-7:checked  { top: 28px; }
+.checked_top-8:checked  { top: 32px; }
+.checked_top-9:checked  { top: 36px; }
+.checked_top-10:checked  { top: 40px; }
+.checked_top-11:checked  { top: 44px; }
+.checked_top-12:checked  { top: 48px; }
+.checked_top-14:checked  { top: 56px; }
+.checked_top-16:checked  { top: 64px; }
+.checked_top-20:checked  { top: 80px; }
+.checked_top-24:checked  { top: 96px; }
+.checked_top-28:checked  { top: 112px; }
+.checked_top-32:checked  { top: 128px; }
+.checked_top-36:checked  { top: 144px; }
+.checked_top-40:checked  { top: 160px; }
+.checked_top-44:checked  { top: 176px; }
+.checked_top-48:checked  { top: 192px; }
+.checked_top-52:checked  { top: 208px; }
+.checked_top-56:checked  { top: 224px; }
+.checked_top-60:checked  { top: 240px; }
+.checked_top-64:checked  { top: 256px; }
+.checked_top-72:checked  { top: 288px; }
+.checked_top-80:checked  { top: 320px; }
+.checked_top-96:checked  { top: 384px; }
+.checked_top-px:checked  { top: 1px; }
+.checked_-top-0:checked  { top: -0px; }
+.checked_-top-0d5:checked  { top: -2px; }
+.checked_-top-1:checked  { top: -4px; }
+.checked_-top-1d5:checked  { top: -6px; }
+.checked_-top-2:checked  { top: -8px; }
+.checked_-top-2d5:checked  { top: -10px; }
+.checked_-top-3:checked  { top: -12px; }
+.checked_-top-3d5:checked  { top: -14px; }
+.checked_-top-4:checked  { top: -16px; }
+.checked_-top-5:checked  { top: -20px; }
+.checked_-top-6:checked  { top: -24px; }
+.checked_-top-7:checked  { top: -28px; }
+.checked_-top-8:checked  { top: -32px; }
+.checked_-top-9:checked  { top: -36px; }
+.checked_-top-10:checked  { top: -40px; }
+.checked_-top-11:checked  { top: -44px; }
+.checked_-top-12:checked  { top: -48px; }
+.checked_-top-14:checked  { top: -56px; }
+.checked_-top-16:checked  { top: -64px; }
+.checked_-top-20:checked  { top: -80px; }
+.checked_-top-24:checked  { top: -96px; }
+.checked_-top-28:checked  { top: -112px; }
+.checked_-top-32:checked  { top: -128px; }
+.checked_-top-36:checked  { top: -144px; }
+.checked_-top-40:checked  { top: -160px; }
+.checked_-top-44:checked  { top: -176px; }
+.checked_-top-48:checked  { top: -192px; }
+.checked_-top-52:checked  { top: -208px; }
+.checked_-top-56:checked  { top: -224px; }
+.checked_-top-60:checked  { top: -240px; }
+.checked_-top-64:checked  { top: -256px; }
+.checked_-top-72:checked  { top: -288px; }
+.checked_-top-80:checked  { top: -320px; }
+.checked_-top-96:checked  { top: -384px; }
+.checked_-top-px:checked  { top: -1px; }
+.checked_top-auto:checked  { top: auto; }
+.checked_top-1s2:checked  { top: 50%; }
+.checked_top-1s3:checked  { top: 33.333333%; }
+.checked_top-2s3:checked  { top: 66.666667%; }
+.checked_top-1s4:checked  { top: 25%; }
+.checked_top-2s4:checked  { top: 50%; }
+.checked_top-3s4:checked  { top: 75%; }
+.checked_top-full:checked  { top: 100%; }
+.checked_-top-1s2:checked  { top: -50%; }
+.checked_-top-1s3:checked  { top: -33.333333%; }
+.checked_-top-2s3:checked  { top: -66.666667%; }
+.checked_-top-1s4:checked  { top: -25%; }
+.checked_-top-2s4:checked  { top: -50%; }
+.checked_-top-3s4:checked  { top: -75%; }
+.checked_-top-full:checked  { top: -100%; }
+.checked_right-0:checked  { right: 0px; }
+.checked_right-0d5:checked  { right: 2px; }
+.checked_right-1:checked  { right: 4px; }
+.checked_right-1d5:checked  { right: 6px; }
+.checked_right-2:checked  { right: 8px; }
+.checked_right-2d5:checked  { right: 10px; }
+.checked_right-3:checked  { right: 12px; }
+.checked_right-3d5:checked  { right: 14px; }
+.checked_right-4:checked  { right: 16px; }
+.checked_right-5:checked  { right: 20px; }
+.checked_right-6:checked  { right: 24px; }
+.checked_right-7:checked  { right: 28px; }
+.checked_right-8:checked  { right: 32px; }
+.checked_right-9:checked  { right: 36px; }
+.checked_right-10:checked  { right: 40px; }
+.checked_right-11:checked  { right: 44px; }
+.checked_right-12:checked  { right: 48px; }
+.checked_right-14:checked  { right: 56px; }
+.checked_right-16:checked  { right: 64px; }
+.checked_right-20:checked  { right: 80px; }
+.checked_right-24:checked  { right: 96px; }
+.checked_right-28:checked  { right: 112px; }
+.checked_right-32:checked  { right: 128px; }
+.checked_right-36:checked  { right: 144px; }
+.checked_right-40:checked  { right: 160px; }
+.checked_right-44:checked  { right: 176px; }
+.checked_right-48:checked  { right: 192px; }
+.checked_right-52:checked  { right: 208px; }
+.checked_right-56:checked  { right: 224px; }
+.checked_right-60:checked  { right: 240px; }
+.checked_right-64:checked  { right: 256px; }
+.checked_right-72:checked  { right: 288px; }
+.checked_right-80:checked  { right: 320px; }
+.checked_right-96:checked  { right: 384px; }
+.checked_right-px:checked  { right: 1px; }
+.checked_-right-0:checked  { right: -0px; }
+.checked_-right-0d5:checked  { right: -2px; }
+.checked_-right-1:checked  { right: -4px; }
+.checked_-right-1d5:checked  { right: -6px; }
+.checked_-right-2:checked  { right: -8px; }
+.checked_-right-2d5:checked  { right: -10px; }
+.checked_-right-3:checked  { right: -12px; }
+.checked_-right-3d5:checked  { right: -14px; }
+.checked_-right-4:checked  { right: -16px; }
+.checked_-right-5:checked  { right: -20px; }
+.checked_-right-6:checked  { right: -24px; }
+.checked_-right-7:checked  { right: -28px; }
+.checked_-right-8:checked  { right: -32px; }
+.checked_-right-9:checked  { right: -36px; }
+.checked_-right-10:checked  { right: -40px; }
+.checked_-right-11:checked  { right: -44px; }
+.checked_-right-12:checked  { right: -48px; }
+.checked_-right-14:checked  { right: -56px; }
+.checked_-right-16:checked  { right: -64px; }
+.checked_-right-20:checked  { right: -80px; }
+.checked_-right-24:checked  { right: -96px; }
+.checked_-right-28:checked  { right: -112px; }
+.checked_-right-32:checked  { right: -128px; }
+.checked_-right-36:checked  { right: -144px; }
+.checked_-right-40:checked  { right: -160px; }
+.checked_-right-44:checked  { right: -176px; }
+.checked_-right-48:checked  { right: -192px; }
+.checked_-right-52:checked  { right: -208px; }
+.checked_-right-56:checked  { right: -224px; }
+.checked_-right-60:checked  { right: -240px; }
+.checked_-right-64:checked  { right: -256px; }
+.checked_-right-72:checked  { right: -288px; }
+.checked_-right-80:checked  { right: -320px; }
+.checked_-right-96:checked  { right: -384px; }
+.checked_-right-px:checked  { right: -1px; }
+.checked_right-auto:checked  { right: auto; }
+.checked_right-1s2:checked  { right: 50%; }
+.checked_right-1s3:checked  { right: 33.333333%; }
+.checked_right-2s3:checked  { right: 66.666667%; }
+.checked_right-1s4:checked  { right: 25%; }
+.checked_right-2s4:checked  { right: 50%; }
+.checked_right-3s4:checked  { right: 75%; }
+.checked_right-full:checked  { right: 100%; }
+.checked_-right-1s2:checked  { right: -50%; }
+.checked_-right-1s3:checked  { right: -33.333333%; }
+.checked_-right-2s3:checked  { right: -66.666667%; }
+.checked_-right-1s4:checked  { right: -25%; }
+.checked_-right-2s4:checked  { right: -50%; }
+.checked_-right-3s4:checked  { right: -75%; }
+.checked_-right-full:checked  { right: -100%; }
+.checked_bottom-0:checked  { bottom: 0px; }
+.checked_bottom-0d5:checked  { bottom: 2px; }
+.checked_bottom-1:checked  { bottom: 4px; }
+.checked_bottom-1d5:checked  { bottom: 6px; }
+.checked_bottom-2:checked  { bottom: 8px; }
+.checked_bottom-2d5:checked  { bottom: 10px; }
+.checked_bottom-3:checked  { bottom: 12px; }
+.checked_bottom-3d5:checked  { bottom: 14px; }
+.checked_bottom-4:checked  { bottom: 16px; }
+.checked_bottom-5:checked  { bottom: 20px; }
+.checked_bottom-6:checked  { bottom: 24px; }
+.checked_bottom-7:checked  { bottom: 28px; }
+.checked_bottom-8:checked  { bottom: 32px; }
+.checked_bottom-9:checked  { bottom: 36px; }
+.checked_bottom-10:checked  { bottom: 40px; }
+.checked_bottom-11:checked  { bottom: 44px; }
+.checked_bottom-12:checked  { bottom: 48px; }
+.checked_bottom-14:checked  { bottom: 56px; }
+.checked_bottom-16:checked  { bottom: 64px; }
+.checked_bottom-20:checked  { bottom: 80px; }
+.checked_bottom-24:checked  { bottom: 96px; }
+.checked_bottom-28:checked  { bottom: 112px; }
+.checked_bottom-32:checked  { bottom: 128px; }
+.checked_bottom-36:checked  { bottom: 144px; }
+.checked_bottom-40:checked  { bottom: 160px; }
+.checked_bottom-44:checked  { bottom: 176px; }
+.checked_bottom-48:checked  { bottom: 192px; }
+.checked_bottom-52:checked  { bottom: 208px; }
+.checked_bottom-56:checked  { bottom: 224px; }
+.checked_bottom-60:checked  { bottom: 240px; }
+.checked_bottom-64:checked  { bottom: 256px; }
+.checked_bottom-72:checked  { bottom: 288px; }
+.checked_bottom-80:checked  { bottom: 320px; }
+.checked_bottom-96:checked  { bottom: 384px; }
+.checked_bottom-px:checked  { bottom: 1px; }
+.checked_-bottom-0:checked  { bottom: -0px; }
+.checked_-bottom-0d5:checked  { bottom: -2px; }
+.checked_-bottom-1:checked  { bottom: -4px; }
+.checked_-bottom-1d5:checked  { bottom: -6px; }
+.checked_-bottom-2:checked  { bottom: -8px; }
+.checked_-bottom-2d5:checked  { bottom: -10px; }
+.checked_-bottom-3:checked  { bottom: -12px; }
+.checked_-bottom-3d5:checked  { bottom: -14px; }
+.checked_-bottom-4:checked  { bottom: -16px; }
+.checked_-bottom-5:checked  { bottom: -20px; }
+.checked_-bottom-6:checked  { bottom: -24px; }
+.checked_-bottom-7:checked  { bottom: -28px; }
+.checked_-bottom-8:checked  { bottom: -32px; }
+.checked_-bottom-9:checked  { bottom: -36px; }
+.checked_-bottom-10:checked  { bottom: -40px; }
+.checked_-bottom-11:checked  { bottom: -44px; }
+.checked_-bottom-12:checked  { bottom: -48px; }
+.checked_-bottom-14:checked  { bottom: -56px; }
+.checked_-bottom-16:checked  { bottom: -64px; }
+.checked_-bottom-20:checked  { bottom: -80px; }
+.checked_-bottom-24:checked  { bottom: -96px; }
+.checked_-bottom-28:checked  { bottom: -112px; }
+.checked_-bottom-32:checked  { bottom: -128px; }
+.checked_-bottom-36:checked  { bottom: -144px; }
+.checked_-bottom-40:checked  { bottom: -160px; }
+.checked_-bottom-44:checked  { bottom: -176px; }
+.checked_-bottom-48:checked  { bottom: -192px; }
+.checked_-bottom-52:checked  { bottom: -208px; }
+.checked_-bottom-56:checked  { bottom: -224px; }
+.checked_-bottom-60:checked  { bottom: -240px; }
+.checked_-bottom-64:checked  { bottom: -256px; }
+.checked_-bottom-72:checked  { bottom: -288px; }
+.checked_-bottom-80:checked  { bottom: -320px; }
+.checked_-bottom-96:checked  { bottom: -384px; }
+.checked_-bottom-px:checked  { bottom: -1px; }
+.checked_bottom-auto:checked  { bottom: auto; }
+.checked_bottom-1s2:checked  { bottom: 50%; }
+.checked_bottom-1s3:checked  { bottom: 33.333333%; }
+.checked_bottom-2s3:checked  { bottom: 66.666667%; }
+.checked_bottom-1s4:checked  { bottom: 25%; }
+.checked_bottom-2s4:checked  { bottom: 50%; }
+.checked_bottom-3s4:checked  { bottom: 75%; }
+.checked_bottom-full:checked  { bottom: 100%; }
+.checked_-bottom-1s2:checked  { bottom: -50%; }
+.checked_-bottom-1s3:checked  { bottom: -33.333333%; }
+.checked_-bottom-2s3:checked  { bottom: -66.666667%; }
+.checked_-bottom-1s4:checked  { bottom: -25%; }
+.checked_-bottom-2s4:checked  { bottom: -50%; }
+.checked_-bottom-3s4:checked  { bottom: -75%; }
+.checked_-bottom-full:checked  { bottom: -100%; }
+.checked_left-0:checked  { left: 0px; }
+.checked_left-0d5:checked  { left: 2px; }
+.checked_left-1:checked  { left: 4px; }
+.checked_left-1d5:checked  { left: 6px; }
+.checked_left-2:checked  { left: 8px; }
+.checked_left-2d5:checked  { left: 10px; }
+.checked_left-3:checked  { left: 12px; }
+.checked_left-3d5:checked  { left: 14px; }
+.checked_left-4:checked  { left: 16px; }
+.checked_left-5:checked  { left: 20px; }
+.checked_left-6:checked  { left: 24px; }
+.checked_left-7:checked  { left: 28px; }
+.checked_left-8:checked  { left: 32px; }
+.checked_left-9:checked  { left: 36px; }
+.checked_left-10:checked  { left: 40px; }
+.checked_left-11:checked  { left: 44px; }
+.checked_left-12:checked  { left: 48px; }
+.checked_left-14:checked  { left: 56px; }
+.checked_left-16:checked  { left: 64px; }
+.checked_left-20:checked  { left: 80px; }
+.checked_left-24:checked  { left: 96px; }
+.checked_left-28:checked  { left: 112px; }
+.checked_left-32:checked  { left: 128px; }
+.checked_left-36:checked  { left: 144px; }
+.checked_left-40:checked  { left: 160px; }
+.checked_left-44:checked  { left: 176px; }
+.checked_left-48:checked  { left: 192px; }
+.checked_left-52:checked  { left: 208px; }
+.checked_left-56:checked  { left: 224px; }
+.checked_left-60:checked  { left: 240px; }
+.checked_left-64:checked  { left: 256px; }
+.checked_left-72:checked  { left: 288px; }
+.checked_left-80:checked  { left: 320px; }
+.checked_left-96:checked  { left: 384px; }
+.checked_left-px:checked  { left: 1px; }
+.checked_-left-0:checked  { left: -0px; }
+.checked_-left-0d5:checked  { left: -2px; }
+.checked_-left-1:checked  { left: -4px; }
+.checked_-left-1d5:checked  { left: -6px; }
+.checked_-left-2:checked  { left: -8px; }
+.checked_-left-2d5:checked  { left: -10px; }
+.checked_-left-3:checked  { left: -12px; }
+.checked_-left-3d5:checked  { left: -14px; }
+.checked_-left-4:checked  { left: -16px; }
+.checked_-left-5:checked  { left: -20px; }
+.checked_-left-6:checked  { left: -24px; }
+.checked_-left-7:checked  { left: -28px; }
+.checked_-left-8:checked  { left: -32px; }
+.checked_-left-9:checked  { left: -36px; }
+.checked_-left-10:checked  { left: -40px; }
+.checked_-left-11:checked  { left: -44px; }
+.checked_-left-12:checked  { left: -48px; }
+.checked_-left-14:checked  { left: -56px; }
+.checked_-left-16:checked  { left: -64px; }
+.checked_-left-20:checked  { left: -80px; }
+.checked_-left-24:checked  { left: -96px; }
+.checked_-left-28:checked  { left: -112px; }
+.checked_-left-32:checked  { left: -128px; }
+.checked_-left-36:checked  { left: -144px; }
+.checked_-left-40:checked  { left: -160px; }
+.checked_-left-44:checked  { left: -176px; }
+.checked_-left-48:checked  { left: -192px; }
+.checked_-left-52:checked  { left: -208px; }
+.checked_-left-56:checked  { left: -224px; }
+.checked_-left-60:checked  { left: -240px; }
+.checked_-left-64:checked  { left: -256px; }
+.checked_-left-72:checked  { left: -288px; }
+.checked_-left-80:checked  { left: -320px; }
+.checked_-left-96:checked  { left: -384px; }
+.checked_-left-px:checked  { left: -1px; }
+.checked_left-auto:checked  { left: auto; }
+.checked_left-1s2:checked  { left: 50%; }
+.checked_left-1s3:checked  { left: 33.333333%; }
+.checked_left-2s3:checked  { left: 66.666667%; }
+.checked_left-1s4:checked  { left: 25%; }
+.checked_left-2s4:checked  { left: 50%; }
+.checked_left-3s4:checked  { left: 75%; }
+.checked_left-full:checked  { left: 100%; }
+.checked_-left-1s2:checked  { left: -50%; }
+.checked_-left-1s3:checked  { left: -33.333333%; }
+.checked_-left-2s3:checked  { left: -66.666667%; }
+.checked_-left-1s4:checked  { left: -25%; }
+.checked_-left-2s4:checked  { left: -50%; }
+.checked_-left-3s4:checked  { left: -75%; }
+.checked_-left-full:checked  { left: -100%; }
+.checked_visible:checked  { visibility: visible; }
+.checked_invisible:checked  { visibility: hidden; }
+.checked_p-0:checked  { padding: 0px; }
+.checked_p-0d5:checked  { padding: 2px; }
+.checked_p-1:checked  { padding: 4px; }
+.checked_p-1d5:checked  { padding: 6px; }
+.checked_p-2:checked  { padding: 8px; }
+.checked_p-2d5:checked  { padding: 10px; }
+.checked_p-3:checked  { padding: 12px; }
+.checked_p-3d5:checked  { padding: 14px; }
+.checked_p-4:checked  { padding: 16px; }
+.checked_p-5:checked  { padding: 20px; }
+.checked_p-6:checked  { padding: 24px; }
+.checked_p-7:checked  { padding: 28px; }
+.checked_p-8:checked  { padding: 32px; }
+.checked_p-9:checked  { padding: 36px; }
+.checked_p-10:checked  { padding: 40px; }
+.checked_p-11:checked  { padding: 44px; }
+.checked_p-12:checked  { padding: 48px; }
+.checked_p-14:checked  { padding: 56px; }
+.checked_p-16:checked  { padding: 64px; }
+.checked_p-20:checked  { padding: 80px; }
+.checked_p-24:checked  { padding: 96px; }
+.checked_p-28:checked  { padding: 112px; }
+.checked_p-32:checked  { padding: 128px; }
+.checked_p-36:checked  { padding: 144px; }
+.checked_p-40:checked  { padding: 160px; }
+.checked_p-44:checked  { padding: 176px; }
+.checked_p-48:checked  { padding: 192px; }
+.checked_p-52:checked  { padding: 208px; }
+.checked_p-56:checked  { padding: 224px; }
+.checked_p-60:checked  { padding: 240px; }
+.checked_p-64:checked  { padding: 256px; }
+.checked_p-72:checked  { padding: 288px; }
+.checked_p-80:checked  { padding: 320px; }
+.checked_p-96:checked  { padding: 384px; }
+.checked_p-px:checked  { padding: 1px; }
+.checked_px-0:checked  { padding-left: 0px; padding-right: 0px; }
+.checked_px-0d5:checked  { padding-left: 2px; padding-right: 2px; }
+.checked_px-1:checked  { padding-left: 4px; padding-right: 4px; }
+.checked_px-1d5:checked  { padding-left: 6px; padding-right: 6px; }
+.checked_px-2:checked  { padding-left: 8px; padding-right: 8px; }
+.checked_px-2d5:checked  { padding-left: 10px; padding-right: 10px; }
+.checked_px-3:checked  { padding-left: 12px; padding-right: 12px; }
+.checked_px-3d5:checked  { padding-left: 14px; padding-right: 14px; }
+.checked_px-4:checked  { padding-left: 16px; padding-right: 16px; }
+.checked_px-5:checked  { padding-left: 20px; padding-right: 20px; }
+.checked_px-6:checked  { padding-left: 24px; padding-right: 24px; }
+.checked_px-7:checked  { padding-left: 28px; padding-right: 28px; }
+.checked_px-8:checked  { padding-left: 32px; padding-right: 32px; }
+.checked_px-9:checked  { padding-left: 36px; padding-right: 36px; }
+.checked_px-10:checked  { padding-left: 40px; padding-right: 40px; }
+.checked_px-11:checked  { padding-left: 44px; padding-right: 44px; }
+.checked_px-12:checked  { padding-left: 48px; padding-right: 48px; }
+.checked_px-14:checked  { padding-left: 56px; padding-right: 56px; }
+.checked_px-16:checked  { padding-left: 64px; padding-right: 64px; }
+.checked_px-20:checked  { padding-left: 80px; padding-right: 80px; }
+.checked_px-24:checked  { padding-left: 96px; padding-right: 96px; }
+.checked_px-28:checked  { padding-left: 112px; padding-right: 112px; }
+.checked_px-32:checked  { padding-left: 128px; padding-right: 128px; }
+.checked_px-36:checked  { padding-left: 144px; padding-right: 144px; }
+.checked_px-40:checked  { padding-left: 160px; padding-right: 160px; }
+.checked_px-44:checked  { padding-left: 176px; padding-right: 176px; }
+.checked_px-48:checked  { padding-left: 192px; padding-right: 192px; }
+.checked_px-52:checked  { padding-left: 208px; padding-right: 208px; }
+.checked_px-56:checked  { padding-left: 224px; padding-right: 224px; }
+.checked_px-60:checked  { padding-left: 240px; padding-right: 240px; }
+.checked_px-64:checked  { padding-left: 256px; padding-right: 256px; }
+.checked_px-72:checked  { padding-left: 288px; padding-right: 288px; }
+.checked_px-80:checked  { padding-left: 320px; padding-right: 320px; }
+.checked_px-96:checked  { padding-left: 384px; padding-right: 384px; }
+.checked_px-px:checked  { padding-left: 1px; padding-right: 1px; }
+.checked_py-0:checked  { padding-top: 0px; padding-bottom: 0px; }
+.checked_py-0d5:checked  { padding-top: 2px; padding-bottom: 2px; }
+.checked_py-1:checked  { padding-top: 4px; padding-bottom: 4px; }
+.checked_py-1d5:checked  { padding-top: 6px; padding-bottom: 6px; }
+.checked_py-2:checked  { padding-top: 8px; padding-bottom: 8px; }
+.checked_py-2d5:checked  { padding-top: 10px; padding-bottom: 10px; }
+.checked_py-3:checked  { padding-top: 12px; padding-bottom: 12px; }
+.checked_py-3d5:checked  { padding-top: 14px; padding-bottom: 14px; }
+.checked_py-4:checked  { padding-top: 16px; padding-bottom: 16px; }
+.checked_py-5:checked  { padding-top: 20px; padding-bottom: 20px; }
+.checked_py-6:checked  { padding-top: 24px; padding-bottom: 24px; }
+.checked_py-7:checked  { padding-top: 28px; padding-bottom: 28px; }
+.checked_py-8:checked  { padding-top: 32px; padding-bottom: 32px; }
+.checked_py-9:checked  { padding-top: 36px; padding-bottom: 36px; }
+.checked_py-10:checked  { padding-top: 40px; padding-bottom: 40px; }
+.checked_py-11:checked  { padding-top: 44px; padding-bottom: 44px; }
+.checked_py-12:checked  { padding-top: 48px; padding-bottom: 48px; }
+.checked_py-14:checked  { padding-top: 56px; padding-bottom: 56px; }
+.checked_py-16:checked  { padding-top: 64px; padding-bottom: 64px; }
+.checked_py-20:checked  { padding-top: 80px; padding-bottom: 80px; }
+.checked_py-24:checked  { padding-top: 96px; padding-bottom: 96px; }
+.checked_py-28:checked  { padding-top: 112px; padding-bottom: 112px; }
+.checked_py-32:checked  { padding-top: 128px; padding-bottom: 128px; }
+.checked_py-36:checked  { padding-top: 144px; padding-bottom: 144px; }
+.checked_py-40:checked  { padding-top: 160px; padding-bottom: 160px; }
+.checked_py-44:checked  { padding-top: 176px; padding-bottom: 176px; }
+.checked_py-48:checked  { padding-top: 192px; padding-bottom: 192px; }
+.checked_py-52:checked  { padding-top: 208px; padding-bottom: 208px; }
+.checked_py-56:checked  { padding-top: 224px; padding-bottom: 224px; }
+.checked_py-60:checked  { padding-top: 240px; padding-bottom: 240px; }
+.checked_py-64:checked  { padding-top: 256px; padding-bottom: 256px; }
+.checked_py-72:checked  { padding-top: 288px; padding-bottom: 288px; }
+.checked_py-80:checked  { padding-top: 320px; padding-bottom: 320px; }
+.checked_py-96:checked  { padding-top: 384px; padding-bottom: 384px; }
+.checked_py-px:checked  { padding-top: 1px; padding-bottom: 1px; }
+.checked_pt-0:checked  { padding-top: 0px; }
+.checked_pt-0d5:checked  { padding-top: 2px; }
+.checked_pt-1:checked  { padding-top: 4px; }
+.checked_pt-1d5:checked  { padding-top: 6px; }
+.checked_pt-2:checked  { padding-top: 8px; }
+.checked_pt-2d5:checked  { padding-top: 10px; }
+.checked_pt-3:checked  { padding-top: 12px; }
+.checked_pt-3d5:checked  { padding-top: 14px; }
+.checked_pt-4:checked  { padding-top: 16px; }
+.checked_pt-5:checked  { padding-top: 20px; }
+.checked_pt-6:checked  { padding-top: 24px; }
+.checked_pt-7:checked  { padding-top: 28px; }
+.checked_pt-8:checked  { padding-top: 32px; }
+.checked_pt-9:checked  { padding-top: 36px; }
+.checked_pt-10:checked  { padding-top: 40px; }
+.checked_pt-11:checked  { padding-top: 44px; }
+.checked_pt-12:checked  { padding-top: 48px; }
+.checked_pt-14:checked  { padding-top: 56px; }
+.checked_pt-16:checked  { padding-top: 64px; }
+.checked_pt-20:checked  { padding-top: 80px; }
+.checked_pt-24:checked  { padding-top: 96px; }
+.checked_pt-28:checked  { padding-top: 112px; }
+.checked_pt-32:checked  { padding-top: 128px; }
+.checked_pt-36:checked  { padding-top: 144px; }
+.checked_pt-40:checked  { padding-top: 160px; }
+.checked_pt-44:checked  { padding-top: 176px; }
+.checked_pt-48:checked  { padding-top: 192px; }
+.checked_pt-52:checked  { padding-top: 208px; }
+.checked_pt-56:checked  { padding-top: 224px; }
+.checked_pt-60:checked  { padding-top: 240px; }
+.checked_pt-64:checked  { padding-top: 256px; }
+.checked_pt-72:checked  { padding-top: 288px; }
+.checked_pt-80:checked  { padding-top: 320px; }
+.checked_pt-96:checked  { padding-top: 384px; }
+.checked_pt-px:checked  { padding-top: 1px; }
+.checked_pr-0:checked  { padding-right: 0px; }
+.checked_pr-0d5:checked  { padding-right: 2px; }
+.checked_pr-1:checked  { padding-right: 4px; }
+.checked_pr-1d5:checked  { padding-right: 6px; }
+.checked_pr-2:checked  { padding-right: 8px; }
+.checked_pr-2d5:checked  { padding-right: 10px; }
+.checked_pr-3:checked  { padding-right: 12px; }
+.checked_pr-3d5:checked  { padding-right: 14px; }
+.checked_pr-4:checked  { padding-right: 16px; }
+.checked_pr-5:checked  { padding-right: 20px; }
+.checked_pr-6:checked  { padding-right: 24px; }
+.checked_pr-7:checked  { padding-right: 28px; }
+.checked_pr-8:checked  { padding-right: 32px; }
+.checked_pr-9:checked  { padding-right: 36px; }
+.checked_pr-10:checked  { padding-right: 40px; }
+.checked_pr-11:checked  { padding-right: 44px; }
+.checked_pr-12:checked  { padding-right: 48px; }
+.checked_pr-14:checked  { padding-right: 56px; }
+.checked_pr-16:checked  { padding-right: 64px; }
+.checked_pr-20:checked  { padding-right: 80px; }
+.checked_pr-24:checked  { padding-right: 96px; }
+.checked_pr-28:checked  { padding-right: 112px; }
+.checked_pr-32:checked  { padding-right: 128px; }
+.checked_pr-36:checked  { padding-right: 144px; }
+.checked_pr-40:checked  { padding-right: 160px; }
+.checked_pr-44:checked  { padding-right: 176px; }
+.checked_pr-48:checked  { padding-right: 192px; }
+.checked_pr-52:checked  { padding-right: 208px; }
+.checked_pr-56:checked  { padding-right: 224px; }
+.checked_pr-60:checked  { padding-right: 240px; }
+.checked_pr-64:checked  { padding-right: 256px; }
+.checked_pr-72:checked  { padding-right: 288px; }
+.checked_pr-80:checked  { padding-right: 320px; }
+.checked_pr-96:checked  { padding-right: 384px; }
+.checked_pr-px:checked  { padding-right: 1px; }
+.checked_pb-0:checked  { padding-bottom: 0px; }
+.checked_pb-0d5:checked  { padding-bottom: 2px; }
+.checked_pb-1:checked  { padding-bottom: 4px; }
+.checked_pb-1d5:checked  { padding-bottom: 6px; }
+.checked_pb-2:checked  { padding-bottom: 8px; }
+.checked_pb-2d5:checked  { padding-bottom: 10px; }
+.checked_pb-3:checked  { padding-bottom: 12px; }
+.checked_pb-3d5:checked  { padding-bottom: 14px; }
+.checked_pb-4:checked  { padding-bottom: 16px; }
+.checked_pb-5:checked  { padding-bottom: 20px; }
+.checked_pb-6:checked  { padding-bottom: 24px; }
+.checked_pb-7:checked  { padding-bottom: 28px; }
+.checked_pb-8:checked  { padding-bottom: 32px; }
+.checked_pb-9:checked  { padding-bottom: 36px; }
+.checked_pb-10:checked  { padding-bottom: 40px; }
+.checked_pb-11:checked  { padding-bottom: 44px; }
+.checked_pb-12:checked  { padding-bottom: 48px; }
+.checked_pb-14:checked  { padding-bottom: 56px; }
+.checked_pb-16:checked  { padding-bottom: 64px; }
+.checked_pb-20:checked  { padding-bottom: 80px; }
+.checked_pb-24:checked  { padding-bottom: 96px; }
+.checked_pb-28:checked  { padding-bottom: 112px; }
+.checked_pb-32:checked  { padding-bottom: 128px; }
+.checked_pb-36:checked  { padding-bottom: 144px; }
+.checked_pb-40:checked  { padding-bottom: 160px; }
+.checked_pb-44:checked  { padding-bottom: 176px; }
+.checked_pb-48:checked  { padding-bottom: 192px; }
+.checked_pb-52:checked  { padding-bottom: 208px; }
+.checked_pb-56:checked  { padding-bottom: 224px; }
+.checked_pb-60:checked  { padding-bottom: 240px; }
+.checked_pb-64:checked  { padding-bottom: 256px; }
+.checked_pb-72:checked  { padding-bottom: 288px; }
+.checked_pb-80:checked  { padding-bottom: 320px; }
+.checked_pb-96:checked  { padding-bottom: 384px; }
+.checked_pb-px:checked  { padding-bottom: 1px; }
+.checked_pl-0:checked  { padding-left: 0px; }
+.checked_pl-0d5:checked  { padding-left: 2px; }
+.checked_pl-1:checked  { padding-left: 4px; }
+.checked_pl-1d5:checked  { padding-left: 6px; }
+.checked_pl-2:checked  { padding-left: 8px; }
+.checked_pl-2d5:checked  { padding-left: 10px; }
+.checked_pl-3:checked  { padding-left: 12px; }
+.checked_pl-3d5:checked  { padding-left: 14px; }
+.checked_pl-4:checked  { padding-left: 16px; }
+.checked_pl-5:checked  { padding-left: 20px; }
+.checked_pl-6:checked  { padding-left: 24px; }
+.checked_pl-7:checked  { padding-left: 28px; }
+.checked_pl-8:checked  { padding-left: 32px; }
+.checked_pl-9:checked  { padding-left: 36px; }
+.checked_pl-10:checked  { padding-left: 40px; }
+.checked_pl-11:checked  { padding-left: 44px; }
+.checked_pl-12:checked  { padding-left: 48px; }
+.checked_pl-14:checked  { padding-left: 56px; }
+.checked_pl-16:checked  { padding-left: 64px; }
+.checked_pl-20:checked  { padding-left: 80px; }
+.checked_pl-24:checked  { padding-left: 96px; }
+.checked_pl-28:checked  { padding-left: 112px; }
+.checked_pl-32:checked  { padding-left: 128px; }
+.checked_pl-36:checked  { padding-left: 144px; }
+.checked_pl-40:checked  { padding-left: 160px; }
+.checked_pl-44:checked  { padding-left: 176px; }
+.checked_pl-48:checked  { padding-left: 192px; }
+.checked_pl-52:checked  { padding-left: 208px; }
+.checked_pl-56:checked  { padding-left: 224px; }
+.checked_pl-60:checked  { padding-left: 240px; }
+.checked_pl-64:checked  { padding-left: 256px; }
+.checked_pl-72:checked  { padding-left: 288px; }
+.checked_pl-80:checked  { padding-left: 320px; }
+.checked_pl-96:checked  { padding-left: 384px; }
+.checked_pl-px:checked  { padding-left: 1px; }
+.checked_m-0:checked  { margin: 0px; }
+.checked_m-0d5:checked  { margin: 2px; }
+.checked_m-1:checked  { margin: 4px; }
+.checked_m-1d5:checked  { margin: 6px; }
+.checked_m-2:checked  { margin: 8px; }
+.checked_m-2d5:checked  { margin: 10px; }
+.checked_m-3:checked  { margin: 12px; }
+.checked_m-3d5:checked  { margin: 14px; }
+.checked_m-4:checked  { margin: 16px; }
+.checked_m-5:checked  { margin: 20px; }
+.checked_m-6:checked  { margin: 24px; }
+.checked_m-7:checked  { margin: 28px; }
+.checked_m-8:checked  { margin: 32px; }
+.checked_m-9:checked  { margin: 36px; }
+.checked_m-10:checked  { margin: 40px; }
+.checked_m-11:checked  { margin: 44px; }
+.checked_m-12:checked  { margin: 48px; }
+.checked_m-14:checked  { margin: 56px; }
+.checked_m-16:checked  { margin: 64px; }
+.checked_m-20:checked  { margin: 80px; }
+.checked_m-24:checked  { margin: 96px; }
+.checked_m-28:checked  { margin: 112px; }
+.checked_m-32:checked  { margin: 128px; }
+.checked_m-36:checked  { margin: 144px; }
+.checked_m-40:checked  { margin: 160px; }
+.checked_m-44:checked  { margin: 176px; }
+.checked_m-48:checked  { margin: 192px; }
+.checked_m-52:checked  { margin: 208px; }
+.checked_m-56:checked  { margin: 224px; }
+.checked_m-60:checked  { margin: 240px; }
+.checked_m-64:checked  { margin: 256px; }
+.checked_m-72:checked  { margin: 288px; }
+.checked_m-80:checked  { margin: 320px; }
+.checked_m-96:checked  { margin: 384px; }
+.checked_m-px:checked  { margin: 1px; }
+.checked_-m-0:checked  { margin: -0px; }
+.checked_-m-0d5:checked  { margin: -2px; }
+.checked_-m-1:checked  { margin: -4px; }
+.checked_-m-1d5:checked  { margin: -6px; }
+.checked_-m-2:checked  { margin: -8px; }
+.checked_-m-2d5:checked  { margin: -10px; }
+.checked_-m-3:checked  { margin: -12px; }
+.checked_-m-3d5:checked  { margin: -14px; }
+.checked_-m-4:checked  { margin: -16px; }
+.checked_-m-5:checked  { margin: -20px; }
+.checked_-m-6:checked  { margin: -24px; }
+.checked_-m-7:checked  { margin: -28px; }
+.checked_-m-8:checked  { margin: -32px; }
+.checked_-m-9:checked  { margin: -36px; }
+.checked_-m-10:checked  { margin: -40px; }
+.checked_-m-11:checked  { margin: -44px; }
+.checked_-m-12:checked  { margin: -48px; }
+.checked_-m-14:checked  { margin: -56px; }
+.checked_-m-16:checked  { margin: -64px; }
+.checked_-m-20:checked  { margin: -80px; }
+.checked_-m-24:checked  { margin: -96px; }
+.checked_-m-28:checked  { margin: -112px; }
+.checked_-m-32:checked  { margin: -128px; }
+.checked_-m-36:checked  { margin: -144px; }
+.checked_-m-40:checked  { margin: -160px; }
+.checked_-m-44:checked  { margin: -176px; }
+.checked_-m-48:checked  { margin: -192px; }
+.checked_-m-52:checked  { margin: -208px; }
+.checked_-m-56:checked  { margin: -224px; }
+.checked_-m-60:checked  { margin: -240px; }
+.checked_-m-64:checked  { margin: -256px; }
+.checked_-m-72:checked  { margin: -288px; }
+.checked_-m-80:checked  { margin: -320px; }
+.checked_-m-96:checked  { margin: -384px; }
+.checked_-m-px:checked  { margin: -1px; }
+.checked_m-auto:checked  { margin: auto; }
+.checked_mx-0:checked  { margin-left: 0px; margin-right: 0px; }
+.checked_mx-0d5:checked  { margin-left: 2px; margin-right: 2px; }
+.checked_mx-1:checked  { margin-left: 4px; margin-right: 4px; }
+.checked_mx-1d5:checked  { margin-left: 6px; margin-right: 6px; }
+.checked_mx-2:checked  { margin-left: 8px; margin-right: 8px; }
+.checked_mx-2d5:checked  { margin-left: 10px; margin-right: 10px; }
+.checked_mx-3:checked  { margin-left: 12px; margin-right: 12px; }
+.checked_mx-3d5:checked  { margin-left: 14px; margin-right: 14px; }
+.checked_mx-4:checked  { margin-left: 16px; margin-right: 16px; }
+.checked_mx-5:checked  { margin-left: 20px; margin-right: 20px; }
+.checked_mx-6:checked  { margin-left: 24px; margin-right: 24px; }
+.checked_mx-7:checked  { margin-left: 28px; margin-right: 28px; }
+.checked_mx-8:checked  { margin-left: 32px; margin-right: 32px; }
+.checked_mx-9:checked  { margin-left: 36px; margin-right: 36px; }
+.checked_mx-10:checked  { margin-left: 40px; margin-right: 40px; }
+.checked_mx-11:checked  { margin-left: 44px; margin-right: 44px; }
+.checked_mx-12:checked  { margin-left: 48px; margin-right: 48px; }
+.checked_mx-14:checked  { margin-left: 56px; margin-right: 56px; }
+.checked_mx-16:checked  { margin-left: 64px; margin-right: 64px; }
+.checked_mx-20:checked  { margin-left: 80px; margin-right: 80px; }
+.checked_mx-24:checked  { margin-left: 96px; margin-right: 96px; }
+.checked_mx-28:checked  { margin-left: 112px; margin-right: 112px; }
+.checked_mx-32:checked  { margin-left: 128px; margin-right: 128px; }
+.checked_mx-36:checked  { margin-left: 144px; margin-right: 144px; }
+.checked_mx-40:checked  { margin-left: 160px; margin-right: 160px; }
+.checked_mx-44:checked  { margin-left: 176px; margin-right: 176px; }
+.checked_mx-48:checked  { margin-left: 192px; margin-right: 192px; }
+.checked_mx-52:checked  { margin-left: 208px; margin-right: 208px; }
+.checked_mx-56:checked  { margin-left: 224px; margin-right: 224px; }
+.checked_mx-60:checked  { margin-left: 240px; margin-right: 240px; }
+.checked_mx-64:checked  { margin-left: 256px; margin-right: 256px; }
+.checked_mx-72:checked  { margin-left: 288px; margin-right: 288px; }
+.checked_mx-80:checked  { margin-left: 320px; margin-right: 320px; }
+.checked_mx-96:checked  { margin-left: 384px; margin-right: 384px; }
+.checked_mx-px:checked  { margin-left: 1px; margin-right: 1px; }
+.checked_-mx-0:checked  { margin-left: -0px; margin-right: -0px; }
+.checked_-mx-0d5:checked  { margin-left: -2px; margin-right: -2px; }
+.checked_-mx-1:checked  { margin-left: -4px; margin-right: -4px; }
+.checked_-mx-1d5:checked  { margin-left: -6px; margin-right: -6px; }
+.checked_-mx-2:checked  { margin-left: -8px; margin-right: -8px; }
+.checked_-mx-2d5:checked  { margin-left: -10px; margin-right: -10px; }
+.checked_-mx-3:checked  { margin-left: -12px; margin-right: -12px; }
+.checked_-mx-3d5:checked  { margin-left: -14px; margin-right: -14px; }
+.checked_-mx-4:checked  { margin-left: -16px; margin-right: -16px; }
+.checked_-mx-5:checked  { margin-left: -20px; margin-right: -20px; }
+.checked_-mx-6:checked  { margin-left: -24px; margin-right: -24px; }
+.checked_-mx-7:checked  { margin-left: -28px; margin-right: -28px; }
+.checked_-mx-8:checked  { margin-left: -32px; margin-right: -32px; }
+.checked_-mx-9:checked  { margin-left: -36px; margin-right: -36px; }
+.checked_-mx-10:checked  { margin-left: -40px; margin-right: -40px; }
+.checked_-mx-11:checked  { margin-left: -44px; margin-right: -44px; }
+.checked_-mx-12:checked  { margin-left: -48px; margin-right: -48px; }
+.checked_-mx-14:checked  { margin-left: -56px; margin-right: -56px; }
+.checked_-mx-16:checked  { margin-left: -64px; margin-right: -64px; }
+.checked_-mx-20:checked  { margin-left: -80px; margin-right: -80px; }
+.checked_-mx-24:checked  { margin-left: -96px; margin-right: -96px; }
+.checked_-mx-28:checked  { margin-left: -112px; margin-right: -112px; }
+.checked_-mx-32:checked  { margin-left: -128px; margin-right: -128px; }
+.checked_-mx-36:checked  { margin-left: -144px; margin-right: -144px; }
+.checked_-mx-40:checked  { margin-left: -160px; margin-right: -160px; }
+.checked_-mx-44:checked  { margin-left: -176px; margin-right: -176px; }
+.checked_-mx-48:checked  { margin-left: -192px; margin-right: -192px; }
+.checked_-mx-52:checked  { margin-left: -208px; margin-right: -208px; }
+.checked_-mx-56:checked  { margin-left: -224px; margin-right: -224px; }
+.checked_-mx-60:checked  { margin-left: -240px; margin-right: -240px; }
+.checked_-mx-64:checked  { margin-left: -256px; margin-right: -256px; }
+.checked_-mx-72:checked  { margin-left: -288px; margin-right: -288px; }
+.checked_-mx-80:checked  { margin-left: -320px; margin-right: -320px; }
+.checked_-mx-96:checked  { margin-left: -384px; margin-right: -384px; }
+.checked_-mx-px:checked  { margin-left: -1px; margin-right: -1px; }
+.checked_mx-auto:checked  { margin-left: auto; margin-right: auto; }
+.checked_my-0:checked  { margin-top: 0px; margin-bottom: 0px; }
+.checked_my-0d5:checked  { margin-top: 2px; margin-bottom: 2px; }
+.checked_my-1:checked  { margin-top: 4px; margin-bottom: 4px; }
+.checked_my-1d5:checked  { margin-top: 6px; margin-bottom: 6px; }
+.checked_my-2:checked  { margin-top: 8px; margin-bottom: 8px; }
+.checked_my-2d5:checked  { margin-top: 10px; margin-bottom: 10px; }
+.checked_my-3:checked  { margin-top: 12px; margin-bottom: 12px; }
+.checked_my-3d5:checked  { margin-top: 14px; margin-bottom: 14px; }
+.checked_my-4:checked  { margin-top: 16px; margin-bottom: 16px; }
+.checked_my-5:checked  { margin-top: 20px; margin-bottom: 20px; }
+.checked_my-6:checked  { margin-top: 24px; margin-bottom: 24px; }
+.checked_my-7:checked  { margin-top: 28px; margin-bottom: 28px; }
+.checked_my-8:checked  { margin-top: 32px; margin-bottom: 32px; }
+.checked_my-9:checked  { margin-top: 36px; margin-bottom: 36px; }
+.checked_my-10:checked  { margin-top: 40px; margin-bottom: 40px; }
+.checked_my-11:checked  { margin-top: 44px; margin-bottom: 44px; }
+.checked_my-12:checked  { margin-top: 48px; margin-bottom: 48px; }
+.checked_my-14:checked  { margin-top: 56px; margin-bottom: 56px; }
+.checked_my-16:checked  { margin-top: 64px; margin-bottom: 64px; }
+.checked_my-20:checked  { margin-top: 80px; margin-bottom: 80px; }
+.checked_my-24:checked  { margin-top: 96px; margin-bottom: 96px; }
+.checked_my-28:checked  { margin-top: 112px; margin-bottom: 112px; }
+.checked_my-32:checked  { margin-top: 128px; margin-bottom: 128px; }
+.checked_my-36:checked  { margin-top: 144px; margin-bottom: 144px; }
+.checked_my-40:checked  { margin-top: 160px; margin-bottom: 160px; }
+.checked_my-44:checked  { margin-top: 176px; margin-bottom: 176px; }
+.checked_my-48:checked  { margin-top: 192px; margin-bottom: 192px; }
+.checked_my-52:checked  { margin-top: 208px; margin-bottom: 208px; }
+.checked_my-56:checked  { margin-top: 224px; margin-bottom: 224px; }
+.checked_my-60:checked  { margin-top: 240px; margin-bottom: 240px; }
+.checked_my-64:checked  { margin-top: 256px; margin-bottom: 256px; }
+.checked_my-72:checked  { margin-top: 288px; margin-bottom: 288px; }
+.checked_my-80:checked  { margin-top: 320px; margin-bottom: 320px; }
+.checked_my-96:checked  { margin-top: 384px; margin-bottom: 384px; }
+.checked_my-px:checked  { margin-top: 1px; margin-bottom: 1px; }
+.checked_-my-0:checked  { margin-top: -0px; margin-bottom: -0px; }
+.checked_-my-0d5:checked  { margin-top: -2px; margin-bottom: -2px; }
+.checked_-my-1:checked  { margin-top: -4px; margin-bottom: -4px; }
+.checked_-my-1d5:checked  { margin-top: -6px; margin-bottom: -6px; }
+.checked_-my-2:checked  { margin-top: -8px; margin-bottom: -8px; }
+.checked_-my-2d5:checked  { margin-top: -10px; margin-bottom: -10px; }
+.checked_-my-3:checked  { margin-top: -12px; margin-bottom: -12px; }
+.checked_-my-3d5:checked  { margin-top: -14px; margin-bottom: -14px; }
+.checked_-my-4:checked  { margin-top: -16px; margin-bottom: -16px; }
+.checked_-my-5:checked  { margin-top: -20px; margin-bottom: -20px; }
+.checked_-my-6:checked  { margin-top: -24px; margin-bottom: -24px; }
+.checked_-my-7:checked  { margin-top: -28px; margin-bottom: -28px; }
+.checked_-my-8:checked  { margin-top: -32px; margin-bottom: -32px; }
+.checked_-my-9:checked  { margin-top: -36px; margin-bottom: -36px; }
+.checked_-my-10:checked  { margin-top: -40px; margin-bottom: -40px; }
+.checked_-my-11:checked  { margin-top: -44px; margin-bottom: -44px; }
+.checked_-my-12:checked  { margin-top: -48px; margin-bottom: -48px; }
+.checked_-my-14:checked  { margin-top: -56px; margin-bottom: -56px; }
+.checked_-my-16:checked  { margin-top: -64px; margin-bottom: -64px; }
+.checked_-my-20:checked  { margin-top: -80px; margin-bottom: -80px; }
+.checked_-my-24:checked  { margin-top: -96px; margin-bottom: -96px; }
+.checked_-my-28:checked  { margin-top: -112px; margin-bottom: -112px; }
+.checked_-my-32:checked  { margin-top: -128px; margin-bottom: -128px; }
+.checked_-my-36:checked  { margin-top: -144px; margin-bottom: -144px; }
+.checked_-my-40:checked  { margin-top: -160px; margin-bottom: -160px; }
+.checked_-my-44:checked  { margin-top: -176px; margin-bottom: -176px; }
+.checked_-my-48:checked  { margin-top: -192px; margin-bottom: -192px; }
+.checked_-my-52:checked  { margin-top: -208px; margin-bottom: -208px; }
+.checked_-my-56:checked  { margin-top: -224px; margin-bottom: -224px; }
+.checked_-my-60:checked  { margin-top: -240px; margin-bottom: -240px; }
+.checked_-my-64:checked  { margin-top: -256px; margin-bottom: -256px; }
+.checked_-my-72:checked  { margin-top: -288px; margin-bottom: -288px; }
+.checked_-my-80:checked  { margin-top: -320px; margin-bottom: -320px; }
+.checked_-my-96:checked  { margin-top: -384px; margin-bottom: -384px; }
+.checked_-my-px:checked  { margin-top: -1px; margin-bottom: -1px; }
+.checked_my-auto:checked  { margin-top: auto; margin-bottom: auto; }
+.checked_mt-0:checked  { margin-top: 0px; }
+.checked_mt-0d5:checked  { margin-top: 2px; }
+.checked_mt-1:checked  { margin-top: 4px; }
+.checked_mt-1d5:checked  { margin-top: 6px; }
+.checked_mt-2:checked  { margin-top: 8px; }
+.checked_mt-2d5:checked  { margin-top: 10px; }
+.checked_mt-3:checked  { margin-top: 12px; }
+.checked_mt-3d5:checked  { margin-top: 14px; }
+.checked_mt-4:checked  { margin-top: 16px; }
+.checked_mt-5:checked  { margin-top: 20px; }
+.checked_mt-6:checked  { margin-top: 24px; }
+.checked_mt-7:checked  { margin-top: 28px; }
+.checked_mt-8:checked  { margin-top: 32px; }
+.checked_mt-9:checked  { margin-top: 36px; }
+.checked_mt-10:checked  { margin-top: 40px; }
+.checked_mt-11:checked  { margin-top: 44px; }
+.checked_mt-12:checked  { margin-top: 48px; }
+.checked_mt-14:checked  { margin-top: 56px; }
+.checked_mt-16:checked  { margin-top: 64px; }
+.checked_mt-20:checked  { margin-top: 80px; }
+.checked_mt-24:checked  { margin-top: 96px; }
+.checked_mt-28:checked  { margin-top: 112px; }
+.checked_mt-32:checked  { margin-top: 128px; }
+.checked_mt-36:checked  { margin-top: 144px; }
+.checked_mt-40:checked  { margin-top: 160px; }
+.checked_mt-44:checked  { margin-top: 176px; }
+.checked_mt-48:checked  { margin-top: 192px; }
+.checked_mt-52:checked  { margin-top: 208px; }
+.checked_mt-56:checked  { margin-top: 224px; }
+.checked_mt-60:checked  { margin-top: 240px; }
+.checked_mt-64:checked  { margin-top: 256px; }
+.checked_mt-72:checked  { margin-top: 288px; }
+.checked_mt-80:checked  { margin-top: 320px; }
+.checked_mt-96:checked  { margin-top: 384px; }
+.checked_mt-px:checked  { margin-top: 1px; }
+.checked_-mt-0:checked  { margin-top: -0px; }
+.checked_-mt-0d5:checked  { margin-top: -2px; }
+.checked_-mt-1:checked  { margin-top: -4px; }
+.checked_-mt-1d5:checked  { margin-top: -6px; }
+.checked_-mt-2:checked  { margin-top: -8px; }
+.checked_-mt-2d5:checked  { margin-top: -10px; }
+.checked_-mt-3:checked  { margin-top: -12px; }
+.checked_-mt-3d5:checked  { margin-top: -14px; }
+.checked_-mt-4:checked  { margin-top: -16px; }
+.checked_-mt-5:checked  { margin-top: -20px; }
+.checked_-mt-6:checked  { margin-top: -24px; }
+.checked_-mt-7:checked  { margin-top: -28px; }
+.checked_-mt-8:checked  { margin-top: -32px; }
+.checked_-mt-9:checked  { margin-top: -36px; }
+.checked_-mt-10:checked  { margin-top: -40px; }
+.checked_-mt-11:checked  { margin-top: -44px; }
+.checked_-mt-12:checked  { margin-top: -48px; }
+.checked_-mt-14:checked  { margin-top: -56px; }
+.checked_-mt-16:checked  { margin-top: -64px; }
+.checked_-mt-20:checked  { margin-top: -80px; }
+.checked_-mt-24:checked  { margin-top: -96px; }
+.checked_-mt-28:checked  { margin-top: -112px; }
+.checked_-mt-32:checked  { margin-top: -128px; }
+.checked_-mt-36:checked  { margin-top: -144px; }
+.checked_-mt-40:checked  { margin-top: -160px; }
+.checked_-mt-44:checked  { margin-top: -176px; }
+.checked_-mt-48:checked  { margin-top: -192px; }
+.checked_-mt-52:checked  { margin-top: -208px; }
+.checked_-mt-56:checked  { margin-top: -224px; }
+.checked_-mt-60:checked  { margin-top: -240px; }
+.checked_-mt-64:checked  { margin-top: -256px; }
+.checked_-mt-72:checked  { margin-top: -288px; }
+.checked_-mt-80:checked  { margin-top: -320px; }
+.checked_-mt-96:checked  { margin-top: -384px; }
+.checked_-mt-px:checked  { margin-top: -1px; }
+.checked_mt-auto:checked  { margin-top: auto; }
+.checked_mr-0:checked  { margin-right: 0px; }
+.checked_mr-0d5:checked  { margin-right: 2px; }
+.checked_mr-1:checked  { margin-right: 4px; }
+.checked_mr-1d5:checked  { margin-right: 6px; }
+.checked_mr-2:checked  { margin-right: 8px; }
+.checked_mr-2d5:checked  { margin-right: 10px; }
+.checked_mr-3:checked  { margin-right: 12px; }
+.checked_mr-3d5:checked  { margin-right: 14px; }
+.checked_mr-4:checked  { margin-right: 16px; }
+.checked_mr-5:checked  { margin-right: 20px; }
+.checked_mr-6:checked  { margin-right: 24px; }
+.checked_mr-7:checked  { margin-right: 28px; }
+.checked_mr-8:checked  { margin-right: 32px; }
+.checked_mr-9:checked  { margin-right: 36px; }
+.checked_mr-10:checked  { margin-right: 40px; }
+.checked_mr-11:checked  { margin-right: 44px; }
+.checked_mr-12:checked  { margin-right: 48px; }
+.checked_mr-14:checked  { margin-right: 56px; }
+.checked_mr-16:checked  { margin-right: 64px; }
+.checked_mr-20:checked  { margin-right: 80px; }
+.checked_mr-24:checked  { margin-right: 96px; }
+.checked_mr-28:checked  { margin-right: 112px; }
+.checked_mr-32:checked  { margin-right: 128px; }
+.checked_mr-36:checked  { margin-right: 144px; }
+.checked_mr-40:checked  { margin-right: 160px; }
+.checked_mr-44:checked  { margin-right: 176px; }
+.checked_mr-48:checked  { margin-right: 192px; }
+.checked_mr-52:checked  { margin-right: 208px; }
+.checked_mr-56:checked  { margin-right: 224px; }
+.checked_mr-60:checked  { margin-right: 240px; }
+.checked_mr-64:checked  { margin-right: 256px; }
+.checked_mr-72:checked  { margin-right: 288px; }
+.checked_mr-80:checked  { margin-right: 320px; }
+.checked_mr-96:checked  { margin-right: 384px; }
+.checked_mr-px:checked  { margin-right: 1px; }
+.checked_-mr-0:checked  { margin-right: -0px; }
+.checked_-mr-0d5:checked  { margin-right: -2px; }
+.checked_-mr-1:checked  { margin-right: -4px; }
+.checked_-mr-1d5:checked  { margin-right: -6px; }
+.checked_-mr-2:checked  { margin-right: -8px; }
+.checked_-mr-2d5:checked  { margin-right: -10px; }
+.checked_-mr-3:checked  { margin-right: -12px; }
+.checked_-mr-3d5:checked  { margin-right: -14px; }
+.checked_-mr-4:checked  { margin-right: -16px; }
+.checked_-mr-5:checked  { margin-right: -20px; }
+.checked_-mr-6:checked  { margin-right: -24px; }
+.checked_-mr-7:checked  { margin-right: -28px; }
+.checked_-mr-8:checked  { margin-right: -32px; }
+.checked_-mr-9:checked  { margin-right: -36px; }
+.checked_-mr-10:checked  { margin-right: -40px; }
+.checked_-mr-11:checked  { margin-right: -44px; }
+.checked_-mr-12:checked  { margin-right: -48px; }
+.checked_-mr-14:checked  { margin-right: -56px; }
+.checked_-mr-16:checked  { margin-right: -64px; }
+.checked_-mr-20:checked  { margin-right: -80px; }
+.checked_-mr-24:checked  { margin-right: -96px; }
+.checked_-mr-28:checked  { margin-right: -112px; }
+.checked_-mr-32:checked  { margin-right: -128px; }
+.checked_-mr-36:checked  { margin-right: -144px; }
+.checked_-mr-40:checked  { margin-right: -160px; }
+.checked_-mr-44:checked  { margin-right: -176px; }
+.checked_-mr-48:checked  { margin-right: -192px; }
+.checked_-mr-52:checked  { margin-right: -208px; }
+.checked_-mr-56:checked  { margin-right: -224px; }
+.checked_-mr-60:checked  { margin-right: -240px; }
+.checked_-mr-64:checked  { margin-right: -256px; }
+.checked_-mr-72:checked  { margin-right: -288px; }
+.checked_-mr-80:checked  { margin-right: -320px; }
+.checked_-mr-96:checked  { margin-right: -384px; }
+.checked_-mr-px:checked  { margin-right: -1px; }
+.checked_mr-auto:checked  { margin-right: auto; }
+.checked_mb-0:checked  { margin-bottom: 0px; }
+.checked_mb-0d5:checked  { margin-bottom: 2px; }
+.checked_mb-1:checked  { margin-bottom: 4px; }
+.checked_mb-1d5:checked  { margin-bottom: 6px; }
+.checked_mb-2:checked  { margin-bottom: 8px; }
+.checked_mb-2d5:checked  { margin-bottom: 10px; }
+.checked_mb-3:checked  { margin-bottom: 12px; }
+.checked_mb-3d5:checked  { margin-bottom: 14px; }
+.checked_mb-4:checked  { margin-bottom: 16px; }
+.checked_mb-5:checked  { margin-bottom: 20px; }
+.checked_mb-6:checked  { margin-bottom: 24px; }
+.checked_mb-7:checked  { margin-bottom: 28px; }
+.checked_mb-8:checked  { margin-bottom: 32px; }
+.checked_mb-9:checked  { margin-bottom: 36px; }
+.checked_mb-10:checked  { margin-bottom: 40px; }
+.checked_mb-11:checked  { margin-bottom: 44px; }
+.checked_mb-12:checked  { margin-bottom: 48px; }
+.checked_mb-14:checked  { margin-bottom: 56px; }
+.checked_mb-16:checked  { margin-bottom: 64px; }
+.checked_mb-20:checked  { margin-bottom: 80px; }
+.checked_mb-24:checked  { margin-bottom: 96px; }
+.checked_mb-28:checked  { margin-bottom: 112px; }
+.checked_mb-32:checked  { margin-bottom: 128px; }
+.checked_mb-36:checked  { margin-bottom: 144px; }
+.checked_mb-40:checked  { margin-bottom: 160px; }
+.checked_mb-44:checked  { margin-bottom: 176px; }
+.checked_mb-48:checked  { margin-bottom: 192px; }
+.checked_mb-52:checked  { margin-bottom: 208px; }
+.checked_mb-56:checked  { margin-bottom: 224px; }
+.checked_mb-60:checked  { margin-bottom: 240px; }
+.checked_mb-64:checked  { margin-bottom: 256px; }
+.checked_mb-72:checked  { margin-bottom: 288px; }
+.checked_mb-80:checked  { margin-bottom: 320px; }
+.checked_mb-96:checked  { margin-bottom: 384px; }
+.checked_mb-px:checked  { margin-bottom: 1px; }
+.checked_-mb-0:checked  { margin-bottom: -0px; }
+.checked_-mb-0d5:checked  { margin-bottom: -2px; }
+.checked_-mb-1:checked  { margin-bottom: -4px; }
+.checked_-mb-1d5:checked  { margin-bottom: -6px; }
+.checked_-mb-2:checked  { margin-bottom: -8px; }
+.checked_-mb-2d5:checked  { margin-bottom: -10px; }
+.checked_-mb-3:checked  { margin-bottom: -12px; }
+.checked_-mb-3d5:checked  { margin-bottom: -14px; }
+.checked_-mb-4:checked  { margin-bottom: -16px; }
+.checked_-mb-5:checked  { margin-bottom: -20px; }
+.checked_-mb-6:checked  { margin-bottom: -24px; }
+.checked_-mb-7:checked  { margin-bottom: -28px; }
+.checked_-mb-8:checked  { margin-bottom: -32px; }
+.checked_-mb-9:checked  { margin-bottom: -36px; }
+.checked_-mb-10:checked  { margin-bottom: -40px; }
+.checked_-mb-11:checked  { margin-bottom: -44px; }
+.checked_-mb-12:checked  { margin-bottom: -48px; }
+.checked_-mb-14:checked  { margin-bottom: -56px; }
+.checked_-mb-16:checked  { margin-bottom: -64px; }
+.checked_-mb-20:checked  { margin-bottom: -80px; }
+.checked_-mb-24:checked  { margin-bottom: -96px; }
+.checked_-mb-28:checked  { margin-bottom: -112px; }
+.checked_-mb-32:checked  { margin-bottom: -128px; }
+.checked_-mb-36:checked  { margin-bottom: -144px; }
+.checked_-mb-40:checked  { margin-bottom: -160px; }
+.checked_-mb-44:checked  { margin-bottom: -176px; }
+.checked_-mb-48:checked  { margin-bottom: -192px; }
+.checked_-mb-52:checked  { margin-bottom: -208px; }
+.checked_-mb-56:checked  { margin-bottom: -224px; }
+.checked_-mb-60:checked  { margin-bottom: -240px; }
+.checked_-mb-64:checked  { margin-bottom: -256px; }
+.checked_-mb-72:checked  { margin-bottom: -288px; }
+.checked_-mb-80:checked  { margin-bottom: -320px; }
+.checked_-mb-96:checked  { margin-bottom: -384px; }
+.checked_-mb-px:checked  { margin-bottom: -1px; }
+.checked_mb-auto:checked  { margin-bottom: auto; }
+.checked_ml-0:checked  { margin-left: 0px; }
+.checked_ml-0d5:checked  { margin-left: 2px; }
+.checked_ml-1:checked  { margin-left: 4px; }
+.checked_ml-1d5:checked  { margin-left: 6px; }
+.checked_ml-2:checked  { margin-left: 8px; }
+.checked_ml-2d5:checked  { margin-left: 10px; }
+.checked_ml-3:checked  { margin-left: 12px; }
+.checked_ml-3d5:checked  { margin-left: 14px; }
+.checked_ml-4:checked  { margin-left: 16px; }
+.checked_ml-5:checked  { margin-left: 20px; }
+.checked_ml-6:checked  { margin-left: 24px; }
+.checked_ml-7:checked  { margin-left: 28px; }
+.checked_ml-8:checked  { margin-left: 32px; }
+.checked_ml-9:checked  { margin-left: 36px; }
+.checked_ml-10:checked  { margin-left: 40px; }
+.checked_ml-11:checked  { margin-left: 44px; }
+.checked_ml-12:checked  { margin-left: 48px; }
+.checked_ml-14:checked  { margin-left: 56px; }
+.checked_ml-16:checked  { margin-left: 64px; }
+.checked_ml-20:checked  { margin-left: 80px; }
+.checked_ml-24:checked  { margin-left: 96px; }
+.checked_ml-28:checked  { margin-left: 112px; }
+.checked_ml-32:checked  { margin-left: 128px; }
+.checked_ml-36:checked  { margin-left: 144px; }
+.checked_ml-40:checked  { margin-left: 160px; }
+.checked_ml-44:checked  { margin-left: 176px; }
+.checked_ml-48:checked  { margin-left: 192px; }
+.checked_ml-52:checked  { margin-left: 208px; }
+.checked_ml-56:checked  { margin-left: 224px; }
+.checked_ml-60:checked  { margin-left: 240px; }
+.checked_ml-64:checked  { margin-left: 256px; }
+.checked_ml-72:checked  { margin-left: 288px; }
+.checked_ml-80:checked  { margin-left: 320px; }
+.checked_ml-96:checked  { margin-left: 384px; }
+.checked_ml-px:checked  { margin-left: 1px; }
+.checked_-ml-0:checked  { margin-left: -0px; }
+.checked_-ml-0d5:checked  { margin-left: -2px; }
+.checked_-ml-1:checked  { margin-left: -4px; }
+.checked_-ml-1d5:checked  { margin-left: -6px; }
+.checked_-ml-2:checked  { margin-left: -8px; }
+.checked_-ml-2d5:checked  { margin-left: -10px; }
+.checked_-ml-3:checked  { margin-left: -12px; }
+.checked_-ml-3d5:checked  { margin-left: -14px; }
+.checked_-ml-4:checked  { margin-left: -16px; }
+.checked_-ml-5:checked  { margin-left: -20px; }
+.checked_-ml-6:checked  { margin-left: -24px; }
+.checked_-ml-7:checked  { margin-left: -28px; }
+.checked_-ml-8:checked  { margin-left: -32px; }
+.checked_-ml-9:checked  { margin-left: -36px; }
+.checked_-ml-10:checked  { margin-left: -40px; }
+.checked_-ml-11:checked  { margin-left: -44px; }
+.checked_-ml-12:checked  { margin-left: -48px; }
+.checked_-ml-14:checked  { margin-left: -56px; }
+.checked_-ml-16:checked  { margin-left: -64px; }
+.checked_-ml-20:checked  { margin-left: -80px; }
+.checked_-ml-24:checked  { margin-left: -96px; }
+.checked_-ml-28:checked  { margin-left: -112px; }
+.checked_-ml-32:checked  { margin-left: -128px; }
+.checked_-ml-36:checked  { margin-left: -144px; }
+.checked_-ml-40:checked  { margin-left: -160px; }
+.checked_-ml-44:checked  { margin-left: -176px; }
+.checked_-ml-48:checked  { margin-left: -192px; }
+.checked_-ml-52:checked  { margin-left: -208px; }
+.checked_-ml-56:checked  { margin-left: -224px; }
+.checked_-ml-60:checked  { margin-left: -240px; }
+.checked_-ml-64:checked  { margin-left: -256px; }
+.checked_-ml-72:checked  { margin-left: -288px; }
+.checked_-ml-80:checked  { margin-left: -320px; }
+.checked_-ml-96:checked  { margin-left: -384px; }
+.checked_-ml-px:checked  { margin-left: -1px; }
+.checked_ml-auto:checked  { margin-left: auto; }
+.checked_space-x-0:checked > * { margin-right: 0px; }
+.checked_space-x-0d5:checked > * { margin-right: 2px; }
+.checked_space-x-1:checked > * { margin-right: 4px; }
+.checked_space-x-1d5:checked > * { margin-right: 6px; }
+.checked_space-x-2:checked > * { margin-right: 8px; }
+.checked_space-x-2d5:checked > * { margin-right: 10px; }
+.checked_space-x-3:checked > * { margin-right: 12px; }
+.checked_space-x-3d5:checked > * { margin-right: 14px; }
+.checked_space-x-4:checked > * { margin-right: 16px; }
+.checked_space-x-5:checked > * { margin-right: 20px; }
+.checked_space-x-6:checked > * { margin-right: 24px; }
+.checked_space-x-7:checked > * { margin-right: 28px; }
+.checked_space-x-8:checked > * { margin-right: 32px; }
+.checked_space-x-9:checked > * { margin-right: 36px; }
+.checked_space-x-10:checked > * { margin-right: 40px; }
+.checked_space-x-11:checked > * { margin-right: 44px; }
+.checked_space-x-12:checked > * { margin-right: 48px; }
+.checked_space-x-14:checked > * { margin-right: 56px; }
+.checked_space-x-16:checked > * { margin-right: 64px; }
+.checked_space-x-20:checked > * { margin-right: 80px; }
+.checked_space-x-24:checked > * { margin-right: 96px; }
+.checked_space-x-28:checked > * { margin-right: 112px; }
+.checked_space-x-32:checked > * { margin-right: 128px; }
+.checked_space-x-36:checked > * { margin-right: 144px; }
+.checked_space-x-40:checked > * { margin-right: 160px; }
+.checked_space-x-44:checked > * { margin-right: 176px; }
+.checked_space-x-48:checked > * { margin-right: 192px; }
+.checked_space-x-52:checked > * { margin-right: 208px; }
+.checked_space-x-56:checked > * { margin-right: 224px; }
+.checked_space-x-60:checked > * { margin-right: 240px; }
+.checked_space-x-64:checked > * { margin-right: 256px; }
+.checked_space-x-72:checked > * { margin-right: 288px; }
+.checked_space-x-80:checked > * { margin-right: 320px; }
+.checked_space-x-96:checked > * { margin-right: 384px; }
+.checked_space-x-px:checked > * { margin-right: 1px; }
+.checked_-space-x-0:checked > * { margin-right: -0px; }
+.checked_-space-x-0d5:checked > * { margin-right: -2px; }
+.checked_-space-x-1:checked > * { margin-right: -4px; }
+.checked_-space-x-1d5:checked > * { margin-right: -6px; }
+.checked_-space-x-2:checked > * { margin-right: -8px; }
+.checked_-space-x-2d5:checked > * { margin-right: -10px; }
+.checked_-space-x-3:checked > * { margin-right: -12px; }
+.checked_-space-x-3d5:checked > * { margin-right: -14px; }
+.checked_-space-x-4:checked > * { margin-right: -16px; }
+.checked_-space-x-5:checked > * { margin-right: -20px; }
+.checked_-space-x-6:checked > * { margin-right: -24px; }
+.checked_-space-x-7:checked > * { margin-right: -28px; }
+.checked_-space-x-8:checked > * { margin-right: -32px; }
+.checked_-space-x-9:checked > * { margin-right: -36px; }
+.checked_-space-x-10:checked > * { margin-right: -40px; }
+.checked_-space-x-11:checked > * { margin-right: -44px; }
+.checked_-space-x-12:checked > * { margin-right: -48px; }
+.checked_-space-x-14:checked > * { margin-right: -56px; }
+.checked_-space-x-16:checked > * { margin-right: -64px; }
+.checked_-space-x-20:checked > * { margin-right: -80px; }
+.checked_-space-x-24:checked > * { margin-right: -96px; }
+.checked_-space-x-28:checked > * { margin-right: -112px; }
+.checked_-space-x-32:checked > * { margin-right: -128px; }
+.checked_-space-x-36:checked > * { margin-right: -144px; }
+.checked_-space-x-40:checked > * { margin-right: -160px; }
+.checked_-space-x-44:checked > * { margin-right: -176px; }
+.checked_-space-x-48:checked > * { margin-right: -192px; }
+.checked_-space-x-52:checked > * { margin-right: -208px; }
+.checked_-space-x-56:checked > * { margin-right: -224px; }
+.checked_-space-x-60:checked > * { margin-right: -240px; }
+.checked_-space-x-64:checked > * { margin-right: -256px; }
+.checked_-space-x-72:checked > * { margin-right: -288px; }
+.checked_-space-x-80:checked > * { margin-right: -320px; }
+.checked_-space-x-96:checked > * { margin-right: -384px; }
+.checked_-space-x-px:checked > * { margin-right: -1px; }
+.checked_space-y-0:checked > * { margin-bottom: 0px; }
+.checked_space-y-0d5:checked > * { margin-bottom: 2px; }
+.checked_space-y-1:checked > * { margin-bottom: 4px; }
+.checked_space-y-1d5:checked > * { margin-bottom: 6px; }
+.checked_space-y-2:checked > * { margin-bottom: 8px; }
+.checked_space-y-2d5:checked > * { margin-bottom: 10px; }
+.checked_space-y-3:checked > * { margin-bottom: 12px; }
+.checked_space-y-3d5:checked > * { margin-bottom: 14px; }
+.checked_space-y-4:checked > * { margin-bottom: 16px; }
+.checked_space-y-5:checked > * { margin-bottom: 20px; }
+.checked_space-y-6:checked > * { margin-bottom: 24px; }
+.checked_space-y-7:checked > * { margin-bottom: 28px; }
+.checked_space-y-8:checked > * { margin-bottom: 32px; }
+.checked_space-y-9:checked > * { margin-bottom: 36px; }
+.checked_space-y-10:checked > * { margin-bottom: 40px; }
+.checked_space-y-11:checked > * { margin-bottom: 44px; }
+.checked_space-y-12:checked > * { margin-bottom: 48px; }
+.checked_space-y-14:checked > * { margin-bottom: 56px; }
+.checked_space-y-16:checked > * { margin-bottom: 64px; }
+.checked_space-y-20:checked > * { margin-bottom: 80px; }
+.checked_space-y-24:checked > * { margin-bottom: 96px; }
+.checked_space-y-28:checked > * { margin-bottom: 112px; }
+.checked_space-y-32:checked > * { margin-bottom: 128px; }
+.checked_space-y-36:checked > * { margin-bottom: 144px; }
+.checked_space-y-40:checked > * { margin-bottom: 160px; }
+.checked_space-y-44:checked > * { margin-bottom: 176px; }
+.checked_space-y-48:checked > * { margin-bottom: 192px; }
+.checked_space-y-52:checked > * { margin-bottom: 208px; }
+.checked_space-y-56:checked > * { margin-bottom: 224px; }
+.checked_space-y-60:checked > * { margin-bottom: 240px; }
+.checked_space-y-64:checked > * { margin-bottom: 256px; }
+.checked_space-y-72:checked > * { margin-bottom: 288px; }
+.checked_space-y-80:checked > * { margin-bottom: 320px; }
+.checked_space-y-96:checked > * { margin-bottom: 384px; }
+.checked_space-y-px:checked > * { margin-bottom: 1px; }
+.checked_-space-y-0:checked > * { margin-bottom: -0px; }
+.checked_-space-y-0d5:checked > * { margin-bottom: -2px; }
+.checked_-space-y-1:checked > * { margin-bottom: -4px; }
+.checked_-space-y-1d5:checked > * { margin-bottom: -6px; }
+.checked_-space-y-2:checked > * { margin-bottom: -8px; }
+.checked_-space-y-2d5:checked > * { margin-bottom: -10px; }
+.checked_-space-y-3:checked > * { margin-bottom: -12px; }
+.checked_-space-y-3d5:checked > * { margin-bottom: -14px; }
+.checked_-space-y-4:checked > * { margin-bottom: -16px; }
+.checked_-space-y-5:checked > * { margin-bottom: -20px; }
+.checked_-space-y-6:checked > * { margin-bottom: -24px; }
+.checked_-space-y-7:checked > * { margin-bottom: -28px; }
+.checked_-space-y-8:checked > * { margin-bottom: -32px; }
+.checked_-space-y-9:checked > * { margin-bottom: -36px; }
+.checked_-space-y-10:checked > * { margin-bottom: -40px; }
+.checked_-space-y-11:checked > * { margin-bottom: -44px; }
+.checked_-space-y-12:checked > * { margin-bottom: -48px; }
+.checked_-space-y-14:checked > * { margin-bottom: -56px; }
+.checked_-space-y-16:checked > * { margin-bottom: -64px; }
+.checked_-space-y-20:checked > * { margin-bottom: -80px; }
+.checked_-space-y-24:checked > * { margin-bottom: -96px; }
+.checked_-space-y-28:checked > * { margin-bottom: -112px; }
+.checked_-space-y-32:checked > * { margin-bottom: -128px; }
+.checked_-space-y-36:checked > * { margin-bottom: -144px; }
+.checked_-space-y-40:checked > * { margin-bottom: -160px; }
+.checked_-space-y-44:checked > * { margin-bottom: -176px; }
+.checked_-space-y-48:checked > * { margin-bottom: -192px; }
+.checked_-space-y-52:checked > * { margin-bottom: -208px; }
+.checked_-space-y-56:checked > * { margin-bottom: -224px; }
+.checked_-space-y-60:checked > * { margin-bottom: -240px; }
+.checked_-space-y-64:checked > * { margin-bottom: -256px; }
+.checked_-space-y-72:checked > * { margin-bottom: -288px; }
+.checked_-space-y-80:checked > * { margin-bottom: -320px; }
+.checked_-space-y-96:checked > * { margin-bottom: -384px; }
+.checked_-space-y-px:checked > * { margin-bottom: -1px; }
+.checked_space-x-reverse-0:checked > * { margin-left: 0px; }
+.checked_space-x-reverse-0d5:checked > * { margin-left: 2px; }
+.checked_space-x-reverse-1:checked > * { margin-left: 4px; }
+.checked_space-x-reverse-1d5:checked > * { margin-left: 6px; }
+.checked_space-x-reverse-2:checked > * { margin-left: 8px; }
+.checked_space-x-reverse-2d5:checked > * { margin-left: 10px; }
+.checked_space-x-reverse-3:checked > * { margin-left: 12px; }
+.checked_space-x-reverse-3d5:checked > * { margin-left: 14px; }
+.checked_space-x-reverse-4:checked > * { margin-left: 16px; }
+.checked_space-x-reverse-5:checked > * { margin-left: 20px; }
+.checked_space-x-reverse-6:checked > * { margin-left: 24px; }
+.checked_space-x-reverse-7:checked > * { margin-left: 28px; }
+.checked_space-x-reverse-8:checked > * { margin-left: 32px; }
+.checked_space-x-reverse-9:checked > * { margin-left: 36px; }
+.checked_space-x-reverse-10:checked > * { margin-left: 40px; }
+.checked_space-x-reverse-11:checked > * { margin-left: 44px; }
+.checked_space-x-reverse-12:checked > * { margin-left: 48px; }
+.checked_space-x-reverse-14:checked > * { margin-left: 56px; }
+.checked_space-x-reverse-16:checked > * { margin-left: 64px; }
+.checked_space-x-reverse-20:checked > * { margin-left: 80px; }
+.checked_space-x-reverse-24:checked > * { margin-left: 96px; }
+.checked_space-x-reverse-28:checked > * { margin-left: 112px; }
+.checked_space-x-reverse-32:checked > * { margin-left: 128px; }
+.checked_space-x-reverse-36:checked > * { margin-left: 144px; }
+.checked_space-x-reverse-40:checked > * { margin-left: 160px; }
+.checked_space-x-reverse-44:checked > * { margin-left: 176px; }
+.checked_space-x-reverse-48:checked > * { margin-left: 192px; }
+.checked_space-x-reverse-52:checked > * { margin-left: 208px; }
+.checked_space-x-reverse-56:checked > * { margin-left: 224px; }
+.checked_space-x-reverse-60:checked > * { margin-left: 240px; }
+.checked_space-x-reverse-64:checked > * { margin-left: 256px; }
+.checked_space-x-reverse-72:checked > * { margin-left: 288px; }
+.checked_space-x-reverse-80:checked > * { margin-left: 320px; }
+.checked_space-x-reverse-96:checked > * { margin-left: 384px; }
+.checked_space-x-reverse-px:checked > * { margin-left: 1px; }
+.checked_-space-x-reverse-0:checked > * { margin-left: -0px; }
+.checked_-space-x-reverse-0d5:checked > * { margin-left: -2px; }
+.checked_-space-x-reverse-1:checked > * { margin-left: -4px; }
+.checked_-space-x-reverse-1d5:checked > * { margin-left: -6px; }
+.checked_-space-x-reverse-2:checked > * { margin-left: -8px; }
+.checked_-space-x-reverse-2d5:checked > * { margin-left: -10px; }
+.checked_-space-x-reverse-3:checked > * { margin-left: -12px; }
+.checked_-space-x-reverse-3d5:checked > * { margin-left: -14px; }
+.checked_-space-x-reverse-4:checked > * { margin-left: -16px; }
+.checked_-space-x-reverse-5:checked > * { margin-left: -20px; }
+.checked_-space-x-reverse-6:checked > * { margin-left: -24px; }
+.checked_-space-x-reverse-7:checked > * { margin-left: -28px; }
+.checked_-space-x-reverse-8:checked > * { margin-left: -32px; }
+.checked_-space-x-reverse-9:checked > * { margin-left: -36px; }
+.checked_-space-x-reverse-10:checked > * { margin-left: -40px; }
+.checked_-space-x-reverse-11:checked > * { margin-left: -44px; }
+.checked_-space-x-reverse-12:checked > * { margin-left: -48px; }
+.checked_-space-x-reverse-14:checked > * { margin-left: -56px; }
+.checked_-space-x-reverse-16:checked > * { margin-left: -64px; }
+.checked_-space-x-reverse-20:checked > * { margin-left: -80px; }
+.checked_-space-x-reverse-24:checked > * { margin-left: -96px; }
+.checked_-space-x-reverse-28:checked > * { margin-left: -112px; }
+.checked_-space-x-reverse-32:checked > * { margin-left: -128px; }
+.checked_-space-x-reverse-36:checked > * { margin-left: -144px; }
+.checked_-space-x-reverse-40:checked > * { margin-left: -160px; }
+.checked_-space-x-reverse-44:checked > * { margin-left: -176px; }
+.checked_-space-x-reverse-48:checked > * { margin-left: -192px; }
+.checked_-space-x-reverse-52:checked > * { margin-left: -208px; }
+.checked_-space-x-reverse-56:checked > * { margin-left: -224px; }
+.checked_-space-x-reverse-60:checked > * { margin-left: -240px; }
+.checked_-space-x-reverse-64:checked > * { margin-left: -256px; }
+.checked_-space-x-reverse-72:checked > * { margin-left: -288px; }
+.checked_-space-x-reverse-80:checked > * { margin-left: -320px; }
+.checked_-space-x-reverse-96:checked > * { margin-left: -384px; }
+.checked_-space-x-reverse-px:checked > * { margin-left: -1px; }
+.checked_space-y-reverse-0:checked > * { margin-top: 0px; }
+.checked_space-y-reverse-0d5:checked > * { margin-top: 2px; }
+.checked_space-y-reverse-1:checked > * { margin-top: 4px; }
+.checked_space-y-reverse-1d5:checked > * { margin-top: 6px; }
+.checked_space-y-reverse-2:checked > * { margin-top: 8px; }
+.checked_space-y-reverse-2d5:checked > * { margin-top: 10px; }
+.checked_space-y-reverse-3:checked > * { margin-top: 12px; }
+.checked_space-y-reverse-3d5:checked > * { margin-top: 14px; }
+.checked_space-y-reverse-4:checked > * { margin-top: 16px; }
+.checked_space-y-reverse-5:checked > * { margin-top: 20px; }
+.checked_space-y-reverse-6:checked > * { margin-top: 24px; }
+.checked_space-y-reverse-7:checked > * { margin-top: 28px; }
+.checked_space-y-reverse-8:checked > * { margin-top: 32px; }
+.checked_space-y-reverse-9:checked > * { margin-top: 36px; }
+.checked_space-y-reverse-10:checked > * { margin-top: 40px; }
+.checked_space-y-reverse-11:checked > * { margin-top: 44px; }
+.checked_space-y-reverse-12:checked > * { margin-top: 48px; }
+.checked_space-y-reverse-14:checked > * { margin-top: 56px; }
+.checked_space-y-reverse-16:checked > * { margin-top: 64px; }
+.checked_space-y-reverse-20:checked > * { margin-top: 80px; }
+.checked_space-y-reverse-24:checked > * { margin-top: 96px; }
+.checked_space-y-reverse-28:checked > * { margin-top: 112px; }
+.checked_space-y-reverse-32:checked > * { margin-top: 128px; }
+.checked_space-y-reverse-36:checked > * { margin-top: 144px; }
+.checked_space-y-reverse-40:checked > * { margin-top: 160px; }
+.checked_space-y-reverse-44:checked > * { margin-top: 176px; }
+.checked_space-y-reverse-48:checked > * { margin-top: 192px; }
+.checked_space-y-reverse-52:checked > * { margin-top: 208px; }
+.checked_space-y-reverse-56:checked > * { margin-top: 224px; }
+.checked_space-y-reverse-60:checked > * { margin-top: 240px; }
+.checked_space-y-reverse-64:checked > * { margin-top: 256px; }
+.checked_space-y-reverse-72:checked > * { margin-top: 288px; }
+.checked_space-y-reverse-80:checked > * { margin-top: 320px; }
+.checked_space-y-reverse-96:checked > * { margin-top: 384px; }
+.checked_space-y-reverse-px:checked > * { margin-top: 1px; }
+.checked_-space-y-reverse-0:checked > * { margin-top: -0px; }
+.checked_-space-y-reverse-0d5:checked > * { margin-top: -2px; }
+.checked_-space-y-reverse-1:checked > * { margin-top: -4px; }
+.checked_-space-y-reverse-1d5:checked > * { margin-top: -6px; }
+.checked_-space-y-reverse-2:checked > * { margin-top: -8px; }
+.checked_-space-y-reverse-2d5:checked > * { margin-top: -10px; }
+.checked_-space-y-reverse-3:checked > * { margin-top: -12px; }
+.checked_-space-y-reverse-3d5:checked > * { margin-top: -14px; }
+.checked_-space-y-reverse-4:checked > * { margin-top: -16px; }
+.checked_-space-y-reverse-5:checked > * { margin-top: -20px; }
+.checked_-space-y-reverse-6:checked > * { margin-top: -24px; }
+.checked_-space-y-reverse-7:checked > * { margin-top: -28px; }
+.checked_-space-y-reverse-8:checked > * { margin-top: -32px; }
+.checked_-space-y-reverse-9:checked > * { margin-top: -36px; }
+.checked_-space-y-reverse-10:checked > * { margin-top: -40px; }
+.checked_-space-y-reverse-11:checked > * { margin-top: -44px; }
+.checked_-space-y-reverse-12:checked > * { margin-top: -48px; }
+.checked_-space-y-reverse-14:checked > * { margin-top: -56px; }
+.checked_-space-y-reverse-16:checked > * { margin-top: -64px; }
+.checked_-space-y-reverse-20:checked > * { margin-top: -80px; }
+.checked_-space-y-reverse-24:checked > * { margin-top: -96px; }
+.checked_-space-y-reverse-28:checked > * { margin-top: -112px; }
+.checked_-space-y-reverse-32:checked > * { margin-top: -128px; }
+.checked_-space-y-reverse-36:checked > * { margin-top: -144px; }
+.checked_-space-y-reverse-40:checked > * { margin-top: -160px; }
+.checked_-space-y-reverse-44:checked > * { margin-top: -176px; }
+.checked_-space-y-reverse-48:checked > * { margin-top: -192px; }
+.checked_-space-y-reverse-52:checked > * { margin-top: -208px; }
+.checked_-space-y-reverse-56:checked > * { margin-top: -224px; }
+.checked_-space-y-reverse-60:checked > * { margin-top: -240px; }
+.checked_-space-y-reverse-64:checked > * { margin-top: -256px; }
+.checked_-space-y-reverse-72:checked > * { margin-top: -288px; }
+.checked_-space-y-reverse-80:checked > * { margin-top: -320px; }
+.checked_-space-y-reverse-96:checked > * { margin-top: -384px; }
+.checked_-space-y-reverse-px:checked > * { margin-top: -1px; }
+.checked_bg-slate-50:checked  { background-color: #f8fafc; }
+.checked_bg-slate-100:checked  { background-color: #f1f5f9; }
+.checked_bg-slate-200:checked  { background-color: #e2e8f0; }
+.checked_bg-slate-300:checked  { background-color: #cbd5e1; }
+.checked_bg-slate-400:checked  { background-color: #94a3b8; }
+.checked_bg-slate-500:checked  { background-color: #64748b; }
+.checked_bg-slate-600:checked  { background-color: #475569; }
+.checked_bg-slate-700:checked  { background-color: #334155; }
+.checked_bg-slate-800:checked  { background-color: #1e293b; }
+.checked_bg-slate-900:checked  { background-color: #0f172a; }
+.checked_bg-slate-950:checked  { background-color: #020617; }
+.checked_bg-gray-50:checked  { background-color: #f9fafb; }
+.checked_bg-gray-100:checked  { background-color: #f3f4f6; }
+.checked_bg-gray-200:checked  { background-color: #e5e7eb; }
+.checked_bg-gray-300:checked  { background-color: #d1d5db; }
+.checked_bg-gray-400:checked  { background-color: #9ca3af; }
+.checked_bg-gray-500:checked  { background-color: #6b7280; }
+.checked_bg-gray-600:checked  { background-color: #4b5563; }
+.checked_bg-gray-700:checked  { background-color: #374151; }
+.checked_bg-gray-800:checked  { background-color: #1f2937; }
+.checked_bg-gray-900:checked  { background-color: #111827; }
+.checked_bg-gray-950:checked  { background-color: #030712; }
+.checked_bg-zinc-50:checked  { background-color: #fafafa; }
+.checked_bg-zinc-100:checked  { background-color: #f4f4f5; }
+.checked_bg-zinc-200:checked  { background-color: #e4e4e7; }
+.checked_bg-zinc-300:checked  { background-color: #d4d4d8; }
+.checked_bg-zinc-400:checked  { background-color: #a1a1aa; }
+.checked_bg-zinc-500:checked  { background-color: #71717a; }
+.checked_bg-zinc-600:checked  { background-color: #52525b; }
+.checked_bg-zinc-700:checked  { background-color: #3f3f46; }
+.checked_bg-zinc-800:checked  { background-color: #27272a; }
+.checked_bg-zinc-900:checked  { background-color: #18181b; }
+.checked_bg-zinc-950:checked  { background-color: #09090b; }
+.checked_bg-neutral-50:checked  { background-color: #fafafa; }
+.checked_bg-neutral-100:checked  { background-color: #f5f5f5; }
+.checked_bg-neutral-200:checked  { background-color: #e5e5e5; }
+.checked_bg-neutral-300:checked  { background-color: #d4d4d4; }
+.checked_bg-neutral-400:checked  { background-color: #a3a3a3; }
+.checked_bg-neutral-500:checked  { background-color: #737373; }
+.checked_bg-neutral-600:checked  { background-color: #525252; }
+.checked_bg-neutral-700:checked  { background-color: #404040; }
+.checked_bg-neutral-800:checked  { background-color: #262626; }
+.checked_bg-neutral-900:checked  { background-color: #171717; }
+.checked_bg-neutral-950:checked  { background-color: #0a0a0a; }
+.checked_bg-stone-50:checked  { background-color: #fafaf9; }
+.checked_bg-stone-100:checked  { background-color: #f5f5f4; }
+.checked_bg-stone-200:checked  { background-color: #e7e5e4; }
+.checked_bg-stone-300:checked  { background-color: #d6d3d1; }
+.checked_bg-stone-400:checked  { background-color: #a8a29e; }
+.checked_bg-stone-500:checked  { background-color: #78716c; }
+.checked_bg-stone-600:checked  { background-color: #57534e; }
+.checked_bg-stone-700:checked  { background-color: #44403c; }
+.checked_bg-stone-800:checked  { background-color: #292524; }
+.checked_bg-stone-900:checked  { background-color: #1c1917; }
+.checked_bg-stone-950:checked  { background-color: #0c0a09; }
+.checked_bg-red-50:checked  { background-color: #fef2f2; }
+.checked_bg-red-100:checked  { background-color: #fee2e2; }
+.checked_bg-red-200:checked  { background-color: #fecaca; }
+.checked_bg-red-300:checked  { background-color: #fca5a5; }
+.checked_bg-red-400:checked  { background-color: #f87171; }
+.checked_bg-red-500:checked  { background-color: #ef4444; }
+.checked_bg-red-600:checked  { background-color: #dc2626; }
+.checked_bg-red-700:checked  { background-color: #b91c1c; }
+.checked_bg-red-800:checked  { background-color: #991b1b; }
+.checked_bg-red-900:checked  { background-color: #7f1d1d; }
+.checked_bg-red-950:checked  { background-color: #450a0a; }
+.checked_bg-orange-50:checked  { background-color: #fff7ed; }
+.checked_bg-orange-100:checked  { background-color: #ffedd5; }
+.checked_bg-orange-200:checked  { background-color: #fed7aa; }
+.checked_bg-orange-300:checked  { background-color: #fdba74; }
+.checked_bg-orange-400:checked  { background-color: #fb923c; }
+.checked_bg-orange-500:checked  { background-color: #f97316; }
+.checked_bg-orange-600:checked  { background-color: #ea580c; }
+.checked_bg-orange-700:checked  { background-color: #c2410c; }
+.checked_bg-orange-800:checked  { background-color: #9a3412; }
+.checked_bg-orange-900:checked  { background-color: #7c2d12; }
+.checked_bg-orange-950:checked  { background-color: #431407; }
+.checked_bg-amber-50:checked  { background-color: #fffbeb; }
+.checked_bg-amber-100:checked  { background-color: #fef3c7; }
+.checked_bg-amber-200:checked  { background-color: #fde68a; }
+.checked_bg-amber-300:checked  { background-color: #fcd34d; }
+.checked_bg-amber-400:checked  { background-color: #fbbf24; }
+.checked_bg-amber-500:checked  { background-color: #f59e0b; }
+.checked_bg-amber-600:checked  { background-color: #d97706; }
+.checked_bg-amber-700:checked  { background-color: #b45309; }
+.checked_bg-amber-800:checked  { background-color: #92400e; }
+.checked_bg-amber-900:checked  { background-color: #78350f; }
+.checked_bg-amber-950:checked  { background-color: #451a03; }
+.checked_bg-yellow-50:checked  { background-color: #fefce8; }
+.checked_bg-yellow-100:checked  { background-color: #fef9c3; }
+.checked_bg-yellow-200:checked  { background-color: #fef08a; }
+.checked_bg-yellow-300:checked  { background-color: #fde047; }
+.checked_bg-yellow-400:checked  { background-color: #facc15; }
+.checked_bg-yellow-500:checked  { background-color: #eab308; }
+.checked_bg-yellow-600:checked  { background-color: #ca8a04; }
+.checked_bg-yellow-700:checked  { background-color: #a16207; }
+.checked_bg-yellow-800:checked  { background-color: #854d0e; }
+.checked_bg-yellow-900:checked  { background-color: #713f12; }
+.checked_bg-yellow-950:checked  { background-color: #422006; }
+.checked_bg-lime-50:checked  { background-color: #f7fee7; }
+.checked_bg-lime-100:checked  { background-color: #ecfccb; }
+.checked_bg-lime-200:checked  { background-color: #d9f99d; }
+.checked_bg-lime-300:checked  { background-color: #bef264; }
+.checked_bg-lime-400:checked  { background-color: #a3e635; }
+.checked_bg-lime-500:checked  { background-color: #84cc16; }
+.checked_bg-lime-600:checked  { background-color: #65a30d; }
+.checked_bg-lime-700:checked  { background-color: #4d7c0f; }
+.checked_bg-lime-800:checked  { background-color: #3f6212; }
+.checked_bg-lime-900:checked  { background-color: #365314; }
+.checked_bg-lime-950:checked  { background-color: #1a2e05; }
+.checked_bg-green-50:checked  { background-color: #f0fdf4; }
+.checked_bg-green-100:checked  { background-color: #dcfce7; }
+.checked_bg-green-200:checked  { background-color: #bbf7d0; }
+.checked_bg-green-300:checked  { background-color: #86efac; }
+.checked_bg-green-400:checked  { background-color: #4ade80; }
+.checked_bg-green-500:checked  { background-color: #22c55e; }
+.checked_bg-green-600:checked  { background-color: #16a34a; }
+.checked_bg-green-700:checked  { background-color: #15803d; }
+.checked_bg-green-800:checked  { background-color: #166534; }
+.checked_bg-green-900:checked  { background-color: #14532d; }
+.checked_bg-green-950:checked  { background-color: #052e16; }
+.checked_bg-emerald-50:checked  { background-color: #ecfdf5; }
+.checked_bg-emerald-100:checked  { background-color: #d1fae5; }
+.checked_bg-emerald-200:checked  { background-color: #a7f3d0; }
+.checked_bg-emerald-300:checked  { background-color: #6ee7b7; }
+.checked_bg-emerald-400:checked  { background-color: #34d399; }
+.checked_bg-emerald-500:checked  { background-color: #10b981; }
+.checked_bg-emerald-600:checked  { background-color: #059669; }
+.checked_bg-emerald-700:checked  { background-color: #047857; }
+.checked_bg-emerald-800:checked  { background-color: #065f46; }
+.checked_bg-emerald-900:checked  { background-color: #064e3b; }
+.checked_bg-emerald-950:checked  { background-color: #022c22; }
+.checked_bg-teal-50:checked  { background-color: #f0fdfa; }
+.checked_bg-teal-100:checked  { background-color: #ccfbf1; }
+.checked_bg-teal-200:checked  { background-color: #99f6e4; }
+.checked_bg-teal-300:checked  { background-color: #5eead4; }
+.checked_bg-teal-400:checked  { background-color: #2dd4bf; }
+.checked_bg-teal-500:checked  { background-color: #14b8a6; }
+.checked_bg-teal-600:checked  { background-color: #0d9488; }
+.checked_bg-teal-700:checked  { background-color: #0f766e; }
+.checked_bg-teal-800:checked  { background-color: #115e59; }
+.checked_bg-teal-900:checked  { background-color: #134e4a; }
+.checked_bg-teal-950:checked  { background-color: #042f2e; }
+.checked_bg-cyan-50:checked  { background-color: #ecfeff; }
+.checked_bg-cyan-100:checked  { background-color: #cffafe; }
+.checked_bg-cyan-200:checked  { background-color: #a5f3fc; }
+.checked_bg-cyan-300:checked  { background-color: #67e8f9; }
+.checked_bg-cyan-400:checked  { background-color: #22d3ee; }
+.checked_bg-cyan-500:checked  { background-color: #06b6d4; }
+.checked_bg-cyan-600:checked  { background-color: #0891b2; }
+.checked_bg-cyan-700:checked  { background-color: #0e7490; }
+.checked_bg-cyan-800:checked  { background-color: #155e75; }
+.checked_bg-cyan-900:checked  { background-color: #164e63; }
+.checked_bg-cyan-950:checked  { background-color: #083344; }
+.checked_bg-sky-50:checked  { background-color: #f0f9ff; }
+.checked_bg-sky-100:checked  { background-color: #e0f2fe; }
+.checked_bg-sky-200:checked  { background-color: #bae6fd; }
+.checked_bg-sky-300:checked  { background-color: #7dd3fc; }
+.checked_bg-sky-400:checked  { background-color: #38bdf8; }
+.checked_bg-sky-500:checked  { background-color: #0ea5e9; }
+.checked_bg-sky-600:checked  { background-color: #0284c7; }
+.checked_bg-sky-700:checked  { background-color: #0369a1; }
+.checked_bg-sky-800:checked  { background-color: #075985; }
+.checked_bg-sky-900:checked  { background-color: #0c4a6e; }
+.checked_bg-sky-950:checked  { background-color: #082f49; }
+.checked_bg-blue-50:checked  { background-color: #eff6ff; }
+.checked_bg-blue-100:checked  { background-color: #dbeafe; }
+.checked_bg-blue-200:checked  { background-color: #bfdbfe; }
+.checked_bg-blue-300:checked  { background-color: #93c5fd; }
+.checked_bg-blue-400:checked  { background-color: #60a5fa; }
+.checked_bg-blue-500:checked  { background-color: #3b82f6; }
+.checked_bg-blue-600:checked  { background-color: #2563eb; }
+.checked_bg-blue-700:checked  { background-color: #1d4ed8; }
+.checked_bg-blue-800:checked  { background-color: #1e40af; }
+.checked_bg-blue-900:checked  { background-color: #1e3a8a; }
+.checked_bg-blue-950:checked  { background-color: #172554; }
+.checked_bg-indigo-50:checked  { background-color: #eef2ff; }
+.checked_bg-indigo-100:checked  { background-color: #e0e7ff; }
+.checked_bg-indigo-200:checked  { background-color: #c7d2fe; }
+.checked_bg-indigo-300:checked  { background-color: #a5b4fc; }
+.checked_bg-indigo-400:checked  { background-color: #818cf8; }
+.checked_bg-indigo-500:checked  { background-color: #6366f1; }
+.checked_bg-indigo-600:checked  { background-color: #4f46e5; }
+.checked_bg-indigo-700:checked  { background-color: #4338ca; }
+.checked_bg-indigo-800:checked  { background-color: #3730a3; }
+.checked_bg-indigo-900:checked  { background-color: #312e81; }
+.checked_bg-indigo-950:checked  { background-color: #1e1b4b; }
+.checked_bg-violet-50:checked  { background-color: #f5f3ff; }
+.checked_bg-violet-100:checked  { background-color: #ede9fe; }
+.checked_bg-violet-200:checked  { background-color: #ddd6fe; }
+.checked_bg-violet-300:checked  { background-color: #c4b5fd; }
+.checked_bg-violet-400:checked  { background-color: #a78bfa; }
+.checked_bg-violet-500:checked  { background-color: #8b5cf6; }
+.checked_bg-violet-600:checked  { background-color: #7c3aed; }
+.checked_bg-violet-700:checked  { background-color: #6d28d9; }
+.checked_bg-violet-800:checked  { background-color: #5b21b6; }
+.checked_bg-violet-900:checked  { background-color: #4c1d95; }
+.checked_bg-violet-950:checked  { background-color: #2e1065; }
+.checked_bg-purple-50:checked  { background-color: #faf5ff; }
+.checked_bg-purple-100:checked  { background-color: #f3e8ff; }
+.checked_bg-purple-200:checked  { background-color: #e9d5ff; }
+.checked_bg-purple-300:checked  { background-color: #d8b4fe; }
+.checked_bg-purple-400:checked  { background-color: #c084fc; }
+.checked_bg-purple-500:checked  { background-color: #a855f7; }
+.checked_bg-purple-600:checked  { background-color: #9333ea; }
+.checked_bg-purple-700:checked  { background-color: #7e22ce; }
+.checked_bg-purple-800:checked  { background-color: #6b21a8; }
+.checked_bg-purple-900:checked  { background-color: #581c87; }
+.checked_bg-purple-950:checked  { background-color: #3b0764; }
+.checked_bg-fuchsia-50:checked  { background-color: #fdf4ff; }
+.checked_bg-fuchsia-100:checked  { background-color: #fae8ff; }
+.checked_bg-fuchsia-200:checked  { background-color: #f5d0fe; }
+.checked_bg-fuchsia-300:checked  { background-color: #f0abfc; }
+.checked_bg-fuchsia-400:checked  { background-color: #e879f9; }
+.checked_bg-fuchsia-500:checked  { background-color: #d946ef; }
+.checked_bg-fuchsia-600:checked  { background-color: #c026d3; }
+.checked_bg-fuchsia-700:checked  { background-color: #a21caf; }
+.checked_bg-fuchsia-800:checked  { background-color: #86198f; }
+.checked_bg-fuchsia-900:checked  { background-color: #701a75; }
+.checked_bg-fuchsia-950:checked  { background-color: #4a044e; }
+.checked_bg-pink-50:checked  { background-color: #fdf2f8; }
+.checked_bg-pink-100:checked  { background-color: #fce7f3; }
+.checked_bg-pink-200:checked  { background-color: #fbcfe8; }
+.checked_bg-pink-300:checked  { background-color: #f9a8d4; }
+.checked_bg-pink-400:checked  { background-color: #f472b6; }
+.checked_bg-pink-500:checked  { background-color: #ec4899; }
+.checked_bg-pink-600:checked  { background-color: #db2777; }
+.checked_bg-pink-700:checked  { background-color: #be185d; }
+.checked_bg-pink-800:checked  { background-color: #9d174d; }
+.checked_bg-pink-900:checked  { background-color: #831843; }
+.checked_bg-pink-950:checked  { background-color: #500724; }
+.checked_bg-rose-50:checked  { background-color: #fff1f2; }
+.checked_bg-rose-100:checked  { background-color: #ffe4e6; }
+.checked_bg-rose-200:checked  { background-color: #fecdd3; }
+.checked_bg-rose-300:checked  { background-color: #fda4af; }
+.checked_bg-rose-400:checked  { background-color: #fb7185; }
+.checked_bg-rose-500:checked  { background-color: #f43f5e; }
+.checked_bg-rose-600:checked  { background-color: #e11d48; }
+.checked_bg-rose-700:checked  { background-color: #be123c; }
+.checked_bg-rose-800:checked  { background-color: #9f1239; }
+.checked_bg-rose-900:checked  { background-color: #881337; }
+.checked_bg-rose-950:checked  { background-color: #4c0519; }
+.checked_bg-transparent:checked  { background-color: transparent; }
+.checked_bg-white:checked  { background-color: white; }
+.checked_bg-black:checked  { background-color: black; }
+.checked_bg-bottom:checked  { background-position: bottom; }
+.checked_bg-center:checked  { background-position: center; }
+.checked_bg-left:checked  { background-position: left; }
+.checked_bg-left-bottom:checked  { background-position: left bottom; }
+.checked_bg-left-top:checked  { background-position: left top; }
+.checked_bg-right:checked  { background-position: right; }
+.checked_bg-right-bottom:checked  { background-position: right bottom; }
+.checked_bg-right-top:checked  { background-position: right top; }
+.checked_bg-top:checked  { background-position: top; }
+.checked_bg-repeat:checked  { background-repeat: repeat; }
+.checked_bg-no-repeat:checked  { background-repeat: no-repeat; }
+.checked_bg-repeat-x:checked  { background-repeat: repeat-x; }
+.checked_bg-repeat-y:checked  { background-repeat: repeat-y; }
+.checked_bg-repeat-round:checked  { background-repeat: round; }
+.checked_bg-repeat-space:checked  { background-repeat: space; }
+.checked_bg-auto:checked  { background-size: auto; }
+.checked_bg-cover:checked  { background-size: cover; }
+.checked_bg-contain:checked  { background-size: contain; }
+.checked_transform:checked  { 
+                    --tw-translate-x: 0;
+                    --tw-translate-y: 0;
+                    --tw-rotate: 0;
+                    --tw-scale-x: 1;
+                    --tw-scale-y: 1;
+                    translate: var(--tw-translate-x) var(--tw-translate-y); 
+                    rotate: var(--tw-rotate);
+                    scale: var(--tw-scale-x) var(--tw-scale-y); }
+.checked_scale-0:checked  { --tw-scale-x: 0; --tw-scale-y: 0; }
+.checked_scale-50:checked  { --tw-scale-x: .5; --tw-scale-y: .5; }
+.checked_scale-75:checked  { --tw-scale-x: .75; --tw-scale-y: .75; }
+.checked_scale-90:checked  { --tw-scale-x: .9; --tw-scale-y: .9; }
+.checked_scale-95:checked  { --tw-scale-x: .95; --tw-scale-y: .95; }
+.checked_scale-100:checked  { --tw-scale-x: 1; --tw-scale-y: 1; }
+.checked_scale-105:checked  { --tw-scale-x: 1.05; --tw-scale-y: 1.05; }
+.checked_scale-110:checked  { --tw-scale-x: 1.1; --tw-scale-y: 1.1; }
+.checked_scale-125:checked  { --tw-scale-x: 1.25; --tw-scale-y: 1.25; }
+.checked_scale-150:checked  { --tw-scale-x: 1.5; --tw-scale-y: 1.5; }
+.checked_scale-x-0:checked  { --tw-scale-x: 0; }
+.checked_scale-x-50:checked  { --tw-scale-x: .5; }
+.checked_scale-x-75:checked  { --tw-scale-x: .75; }
+.checked_scale-x-90:checked  { --tw-scale-x: .9; }
+.checked_scale-x-95:checked  { --tw-scale-x: .95; }
+.checked_scale-x-100:checked  { --tw-scale-x: 1; }
+.checked_scale-x-105:checked  { --tw-scale-x: 1.05; }
+.checked_scale-x-110:checked  { --tw-scale-x: 1.1; }
+.checked_scale-x-125:checked  { --tw-scale-x: 1.25; }
+.checked_scale-x-150:checked  { --tw-scale-x: 1.5; }
+.checked_scale-y-0:checked  { --tw-scale-y: 0; }
+.checked_scale-y-50:checked  { --tw-scale-y: .5; }
+.checked_scale-y-75:checked  { --tw-scale-y: .75; }
+.checked_scale-y-90:checked  { --tw-scale-y: .9; }
+.checked_scale-y-95:checked  { --tw-scale-y: .95; }
+.checked_scale-y-100:checked  { --tw-scale-y: 1; }
+.checked_scale-y-105:checked  { --tw-scale-y: 1.05; }
+.checked_scale-y-110:checked  { --tw-scale-y: 1.1; }
+.checked_scale-y-125:checked  { --tw-scale-y: 1.25; }
+.checked_scale-y-150:checked  { --tw-scale-y: 1.5; }
+.checked_rotate-0:checked  { --tw-rotate: 0deg; }
+.checked_rotate-1:checked  { --tw-rotate: 1deg; }
+.checked_rotate-2:checked  { --tw-rotate: 2deg; }
+.checked_rotate-3:checked  { --tw-rotate: 3deg; }
+.checked_rotate-6:checked  { --tw-rotate: 6deg; }
+.checked_rotate-12:checked  { --tw-rotate: 12deg; }
+.checked_rotate-45:checked  { --tw-rotate: 45deg; }
+.checked_rotate-90:checked  { --tw-rotate: 90deg; }
+.checked_rotate-180:checked  { --tw-rotate: 180deg; }
+.checked_rotate--180:checked  { --tw-rotate: -180deg; }
+.checked_rotate--90:checked  { --tw-rotate: -90deg; }
+.checked_rotate--45:checked  { --tw-rotate: -45deg; }
+.checked_rotate--12:checked  { --tw-rotate: -12deg; }
+.checked_rotate--6:checked  { --tw-rotate: -6deg; }
+.checked_rotate--3:checked  { --tw-rotate: -3deg; }
+.checked_rotate--2:checked  { --tw-rotate: -2deg; }
+.checked_rotate--1:checked  { --tw-rotate: -1deg; }
+.checked_translate-x-0:checked  { --tw-translate-x: 0px; }
+.checked_translate-x-0d5:checked  { --tw-translate-x: 2px; }
+.checked_translate-x-1:checked  { --tw-translate-x: 4px; }
+.checked_translate-x-1d5:checked  { --tw-translate-x: 6px; }
+.checked_translate-x-2:checked  { --tw-translate-x: 8px; }
+.checked_translate-x-2d5:checked  { --tw-translate-x: 10px; }
+.checked_translate-x-3:checked  { --tw-translate-x: 12px; }
+.checked_translate-x-3d5:checked  { --tw-translate-x: 14px; }
+.checked_translate-x-4:checked  { --tw-translate-x: 16px; }
+.checked_translate-x-5:checked  { --tw-translate-x: 20px; }
+.checked_translate-x-6:checked  { --tw-translate-x: 24px; }
+.checked_translate-x-7:checked  { --tw-translate-x: 28px; }
+.checked_translate-x-8:checked  { --tw-translate-x: 32px; }
+.checked_translate-x-9:checked  { --tw-translate-x: 36px; }
+.checked_translate-x-10:checked  { --tw-translate-x: 40px; }
+.checked_translate-x-11:checked  { --tw-translate-x: 44px; }
+.checked_translate-x-12:checked  { --tw-translate-x: 48px; }
+.checked_translate-x-14:checked  { --tw-translate-x: 56px; }
+.checked_translate-x-16:checked  { --tw-translate-x: 64px; }
+.checked_translate-x-20:checked  { --tw-translate-x: 80px; }
+.checked_translate-x-24:checked  { --tw-translate-x: 96px; }
+.checked_translate-x-28:checked  { --tw-translate-x: 112px; }
+.checked_translate-x-32:checked  { --tw-translate-x: 128px; }
+.checked_translate-x-36:checked  { --tw-translate-x: 144px; }
+.checked_translate-x-40:checked  { --tw-translate-x: 160px; }
+.checked_translate-x-44:checked  { --tw-translate-x: 176px; }
+.checked_translate-x-48:checked  { --tw-translate-x: 192px; }
+.checked_translate-x-52:checked  { --tw-translate-x: 208px; }
+.checked_translate-x-56:checked  { --tw-translate-x: 224px; }
+.checked_translate-x-60:checked  { --tw-translate-x: 240px; }
+.checked_translate-x-64:checked  { --tw-translate-x: 256px; }
+.checked_translate-x-72:checked  { --tw-translate-x: 288px; }
+.checked_translate-x-80:checked  { --tw-translate-x: 320px; }
+.checked_translate-x-96:checked  { --tw-translate-x: 384px; }
+.checked_translate-x-px:checked  { --tw-translate-x: 1px; }
+.checked_-translate-x-0:checked  { --tw-translate-x: -0px; }
+.checked_-translate-x-0d5:checked  { --tw-translate-x: -2px; }
+.checked_-translate-x-1:checked  { --tw-translate-x: -4px; }
+.checked_-translate-x-1d5:checked  { --tw-translate-x: -6px; }
+.checked_-translate-x-2:checked  { --tw-translate-x: -8px; }
+.checked_-translate-x-2d5:checked  { --tw-translate-x: -10px; }
+.checked_-translate-x-3:checked  { --tw-translate-x: -12px; }
+.checked_-translate-x-3d5:checked  { --tw-translate-x: -14px; }
+.checked_-translate-x-4:checked  { --tw-translate-x: -16px; }
+.checked_-translate-x-5:checked  { --tw-translate-x: -20px; }
+.checked_-translate-x-6:checked  { --tw-translate-x: -24px; }
+.checked_-translate-x-7:checked  { --tw-translate-x: -28px; }
+.checked_-translate-x-8:checked  { --tw-translate-x: -32px; }
+.checked_-translate-x-9:checked  { --tw-translate-x: -36px; }
+.checked_-translate-x-10:checked  { --tw-translate-x: -40px; }
+.checked_-translate-x-11:checked  { --tw-translate-x: -44px; }
+.checked_-translate-x-12:checked  { --tw-translate-x: -48px; }
+.checked_-translate-x-14:checked  { --tw-translate-x: -56px; }
+.checked_-translate-x-16:checked  { --tw-translate-x: -64px; }
+.checked_-translate-x-20:checked  { --tw-translate-x: -80px; }
+.checked_-translate-x-24:checked  { --tw-translate-x: -96px; }
+.checked_-translate-x-28:checked  { --tw-translate-x: -112px; }
+.checked_-translate-x-32:checked  { --tw-translate-x: -128px; }
+.checked_-translate-x-36:checked  { --tw-translate-x: -144px; }
+.checked_-translate-x-40:checked  { --tw-translate-x: -160px; }
+.checked_-translate-x-44:checked  { --tw-translate-x: -176px; }
+.checked_-translate-x-48:checked  { --tw-translate-x: -192px; }
+.checked_-translate-x-52:checked  { --tw-translate-x: -208px; }
+.checked_-translate-x-56:checked  { --tw-translate-x: -224px; }
+.checked_-translate-x-60:checked  { --tw-translate-x: -240px; }
+.checked_-translate-x-64:checked  { --tw-translate-x: -256px; }
+.checked_-translate-x-72:checked  { --tw-translate-x: -288px; }
+.checked_-translate-x-80:checked  { --tw-translate-x: -320px; }
+.checked_-translate-x-96:checked  { --tw-translate-x: -384px; }
+.checked_-translate-x-px:checked  { --tw-translate-x: -1px; }
+.checked_translate-x-1s2:checked  { --tw-translate-x: 50%; }
+.checked_translate-x-1s3:checked  { --tw-translate-x: 33.333333%; }
+.checked_translate-x-2s3:checked  { --tw-translate-x: 66.666667%; }
+.checked_translate-x-1s4:checked  { --tw-translate-x: 25%; }
+.checked_translate-x-2s4:checked  { --tw-translate-x: 50%; }
+.checked_translate-x-3s4:checked  { --tw-translate-x: 75%; }
+.checked_translate-x-full:checked  { --tw-translate-x: 100%; }
+.checked_-translate-x-1s2:checked  { --tw-translate-x: -50%; }
+.checked_-translate-x-1s3:checked  { --tw-translate-x: -33.333333%; }
+.checked_-translate-x-2s3:checked  { --tw-translate-x: -66.666667%; }
+.checked_-translate-x-1s4:checked  { --tw-translate-x: -25%; }
+.checked_-translate-x-2s4:checked  { --tw-translate-x: -50%; }
+.checked_-translate-x-3s4:checked  { --tw-translate-x: -75%; }
+.checked_-translate-x-full:checked  { --tw-translate-x: -100%; }
+.checked_translate-y-0:checked  { --tw-translate-y: 0px; }
+.checked_translate-y-0d5:checked  { --tw-translate-y: 2px; }
+.checked_translate-y-1:checked  { --tw-translate-y: 4px; }
+.checked_translate-y-1d5:checked  { --tw-translate-y: 6px; }
+.checked_translate-y-2:checked  { --tw-translate-y: 8px; }
+.checked_translate-y-2d5:checked  { --tw-translate-y: 10px; }
+.checked_translate-y-3:checked  { --tw-translate-y: 12px; }
+.checked_translate-y-3d5:checked  { --tw-translate-y: 14px; }
+.checked_translate-y-4:checked  { --tw-translate-y: 16px; }
+.checked_translate-y-5:checked  { --tw-translate-y: 20px; }
+.checked_translate-y-6:checked  { --tw-translate-y: 24px; }
+.checked_translate-y-7:checked  { --tw-translate-y: 28px; }
+.checked_translate-y-8:checked  { --tw-translate-y: 32px; }
+.checked_translate-y-9:checked  { --tw-translate-y: 36px; }
+.checked_translate-y-10:checked  { --tw-translate-y: 40px; }
+.checked_translate-y-11:checked  { --tw-translate-y: 44px; }
+.checked_translate-y-12:checked  { --tw-translate-y: 48px; }
+.checked_translate-y-14:checked  { --tw-translate-y: 56px; }
+.checked_translate-y-16:checked  { --tw-translate-y: 64px; }
+.checked_translate-y-20:checked  { --tw-translate-y: 80px; }
+.checked_translate-y-24:checked  { --tw-translate-y: 96px; }
+.checked_translate-y-28:checked  { --tw-translate-y: 112px; }
+.checked_translate-y-32:checked  { --tw-translate-y: 128px; }
+.checked_translate-y-36:checked  { --tw-translate-y: 144px; }
+.checked_translate-y-40:checked  { --tw-translate-y: 160px; }
+.checked_translate-y-44:checked  { --tw-translate-y: 176px; }
+.checked_translate-y-48:checked  { --tw-translate-y: 192px; }
+.checked_translate-y-52:checked  { --tw-translate-y: 208px; }
+.checked_translate-y-56:checked  { --tw-translate-y: 224px; }
+.checked_translate-y-60:checked  { --tw-translate-y: 240px; }
+.checked_translate-y-64:checked  { --tw-translate-y: 256px; }
+.checked_translate-y-72:checked  { --tw-translate-y: 288px; }
+.checked_translate-y-80:checked  { --tw-translate-y: 320px; }
+.checked_translate-y-96:checked  { --tw-translate-y: 384px; }
+.checked_translate-y-px:checked  { --tw-translate-y: 1px; }
+.checked_-translate-y-0:checked  { --tw-translate-y: -0px; }
+.checked_-translate-y-0d5:checked  { --tw-translate-y: -2px; }
+.checked_-translate-y-1:checked  { --tw-translate-y: -4px; }
+.checked_-translate-y-1d5:checked  { --tw-translate-y: -6px; }
+.checked_-translate-y-2:checked  { --tw-translate-y: -8px; }
+.checked_-translate-y-2d5:checked  { --tw-translate-y: -10px; }
+.checked_-translate-y-3:checked  { --tw-translate-y: -12px; }
+.checked_-translate-y-3d5:checked  { --tw-translate-y: -14px; }
+.checked_-translate-y-4:checked  { --tw-translate-y: -16px; }
+.checked_-translate-y-5:checked  { --tw-translate-y: -20px; }
+.checked_-translate-y-6:checked  { --tw-translate-y: -24px; }
+.checked_-translate-y-7:checked  { --tw-translate-y: -28px; }
+.checked_-translate-y-8:checked  { --tw-translate-y: -32px; }
+.checked_-translate-y-9:checked  { --tw-translate-y: -36px; }
+.checked_-translate-y-10:checked  { --tw-translate-y: -40px; }
+.checked_-translate-y-11:checked  { --tw-translate-y: -44px; }
+.checked_-translate-y-12:checked  { --tw-translate-y: -48px; }
+.checked_-translate-y-14:checked  { --tw-translate-y: -56px; }
+.checked_-translate-y-16:checked  { --tw-translate-y: -64px; }
+.checked_-translate-y-20:checked  { --tw-translate-y: -80px; }
+.checked_-translate-y-24:checked  { --tw-translate-y: -96px; }
+.checked_-translate-y-28:checked  { --tw-translate-y: -112px; }
+.checked_-translate-y-32:checked  { --tw-translate-y: -128px; }
+.checked_-translate-y-36:checked  { --tw-translate-y: -144px; }
+.checked_-translate-y-40:checked  { --tw-translate-y: -160px; }
+.checked_-translate-y-44:checked  { --tw-translate-y: -176px; }
+.checked_-translate-y-48:checked  { --tw-translate-y: -192px; }
+.checked_-translate-y-52:checked  { --tw-translate-y: -208px; }
+.checked_-translate-y-56:checked  { --tw-translate-y: -224px; }
+.checked_-translate-y-60:checked  { --tw-translate-y: -240px; }
+.checked_-translate-y-64:checked  { --tw-translate-y: -256px; }
+.checked_-translate-y-72:checked  { --tw-translate-y: -288px; }
+.checked_-translate-y-80:checked  { --tw-translate-y: -320px; }
+.checked_-translate-y-96:checked  { --tw-translate-y: -384px; }
+.checked_-translate-y-px:checked  { --tw-translate-y: -1px; }
+.checked_translate-y-1s2:checked  { --tw-translate-y: 50%; }
+.checked_translate-y-1s3:checked  { --tw-translate-y: 33.333333%; }
+.checked_translate-y-2s3:checked  { --tw-translate-y: 66.666667%; }
+.checked_translate-y-1s4:checked  { --tw-translate-y: 25%; }
+.checked_translate-y-2s4:checked  { --tw-translate-y: 50%; }
+.checked_translate-y-3s4:checked  { --tw-translate-y: 75%; }
+.checked_translate-y-full:checked  { --tw-translate-y: 100%; }
+.checked_-translate-y-1s2:checked  { --tw-translate-y: -50%; }
+.checked_-translate-y-1s3:checked  { --tw-translate-y: -33.333333%; }
+.checked_-translate-y-2s3:checked  { --tw-translate-y: -66.666667%; }
+.checked_-translate-y-1s4:checked  { --tw-translate-y: -25%; }
+.checked_-translate-y-2s4:checked  { --tw-translate-y: -50%; }
+.checked_-translate-y-3s4:checked  { --tw-translate-y: -75%; }
+.checked_-translate-y-full:checked  { --tw-translate-y: -100%; }
+.checked_origin-center:checked  { transform-origin: center; }
+.checked_origin-top:checked  { transform-origin: top; }
+.checked_origin-top-right:checked  { transform-origin: top right; }
+.checked_origin-right:checked  { transform-origin: right; }
+.checked_origin-bottom-right:checked  { transform-origin: bottom right; }
+.checked_origin-bottom:checked  { transform-origin: bottom; }
+.checked_origin-bottom-left:checked  { transform-origin: bottom left; }
+.checked_origin-left:checked  { transform-origin: left; }
+.checked_origin-top-left:checked  { transform-origin: top left; }
+.checked_opacity-0:checked  { opacity: 0; }
+.checked_opacity-5:checked  { opacity: 0.05; }
+.checked_opacity-10:checked  { opacity: 0.1; }
+.checked_opacity-20:checked  { opacity: 0.2; }
+.checked_opacity-25:checked  { opacity: 0.25; }
+.checked_opacity-30:checked  { opacity: 0.3; }
+.checked_opacity-40:checked  { opacity: 0.4; }
+.checked_opacity-50:checked  { opacity: 0.5; }
+.checked_opacity-60:checked  { opacity: 0.6; }
+.checked_opacity-70:checked  { opacity: 0.7; }
+.checked_opacity-75:checked  { opacity: 0.75; }
+.checked_opacity-80:checked  { opacity: 0.8; }
+.checked_opacity-90:checked  { opacity: 0.9; }
+.checked_opacity-95:checked  { opacity: 0.95; }
+.checked_opacity-100:checked  { opacity: 1; }
+.checked_flex-row:checked  { flex-direction: row; }
+.checked_flex-row-reverse:checked  { flex-direction: row-reverse; }
+.checked_flex-col:checked  { flex-direction: column; }
+.checked_flex-col-reverse:checked  { flex-direction: column-reverse; }
+.checked_flex-wrap:checked  { flex-wrap: wrap; }
+.checked_flex-wrap-reverse:checked  { flex-wrap: wrap-reverse; }
+.checked_flex-nowrap:checked  { flex-wrap: nowrap; }
+.checked_flex-1:checked  { flex: 1 1 0%; }
+.checked_flex-auto:checked  { flex: 1 1 auto; }
+.checked_flex-initial:checked  { flex: 0 1 auto; }
+.checked_flex-none:checked  { flex: none; }
+.checked_flex-grow:checked  { flex-grow: 1; }
+.checked_flex-grow-0:checked  { flex-grow: 0; }
+.checked_flex-shrink:checked  { flex-shrink: 1; }
+.checked_flex-shrink-0:checked  { flex-shrink: 0; }
+.checked_w-0:checked  { width: 0px; }
+.checked_w-0d5:checked  { width: 2px; }
+.checked_w-1:checked  { width: 4px; }
+.checked_w-1d5:checked  { width: 6px; }
+.checked_w-2:checked  { width: 8px; }
+.checked_w-2d5:checked  { width: 10px; }
+.checked_w-3:checked  { width: 12px; }
+.checked_w-3d5:checked  { width: 14px; }
+.checked_w-4:checked  { width: 16px; }
+.checked_w-5:checked  { width: 20px; }
+.checked_w-6:checked  { width: 24px; }
+.checked_w-7:checked  { width: 28px; }
+.checked_w-8:checked  { width: 32px; }
+.checked_w-9:checked  { width: 36px; }
+.checked_w-10:checked  { width: 40px; }
+.checked_w-11:checked  { width: 44px; }
+.checked_w-12:checked  { width: 48px; }
+.checked_w-14:checked  { width: 56px; }
+.checked_w-16:checked  { width: 64px; }
+.checked_w-20:checked  { width: 80px; }
+.checked_w-24:checked  { width: 96px; }
+.checked_w-28:checked  { width: 112px; }
+.checked_w-32:checked  { width: 128px; }
+.checked_w-36:checked  { width: 144px; }
+.checked_w-40:checked  { width: 160px; }
+.checked_w-44:checked  { width: 176px; }
+.checked_w-48:checked  { width: 192px; }
+.checked_w-52:checked  { width: 208px; }
+.checked_w-56:checked  { width: 224px; }
+.checked_w-60:checked  { width: 240px; }
+.checked_w-64:checked  { width: 256px; }
+.checked_w-72:checked  { width: 288px; }
+.checked_w-80:checked  { width: 320px; }
+.checked_w-96:checked  { width: 384px; }
+.checked_w-px:checked  { width: 1px; }
+.checked_w-auto:checked  { width: auto; }
+.checked_w-1s2:checked  { width: 50%; }
+.checked_w-1s3:checked  { width: 33.333333%; }
+.checked_w-2s3:checked  { width: 66.666667%; }
+.checked_w-1s4:checked  { width: 25%; }
+.checked_w-2s4:checked  { width: 50%; }
+.checked_w-3s4:checked  { width: 75%; }
+.checked_w-full:checked  { width: 100%; }
+.checked_w-1s5:checked  { width: 20%; }
+.checked_w-2s5:checked  { width: 40%; }
+.checked_w-3s5:checked  { width: 60%; }
+.checked_w-4s5:checked  { width: 80%; }
+.checked_w-1s6:checked  { width: 16.666667%; }
+.checked_w-2s6:checked  { width: 33.333333%; }
+.checked_w-3s6:checked  { width: 50%; }
+.checked_w-4s6:checked  { width: 66.666667%; }
+.checked_w-5s6:checked  { width: 83.333333%; }
+.checked_w-1s12:checked  { width: 8.333333%; }
+.checked_w-2s12:checked  { width: 16.666667%; }
+.checked_w-3s12:checked  { width: 25%; }
+.checked_w-4s12:checked  { width: 33.333333%; }
+.checked_w-5s12:checked  { width: 41.666667%; }
+.checked_w-6s12:checked  { width: 50%; }
+.checked_w-7s12:checked  { width: 58.333333%; }
+.checked_w-8s12:checked  { width: 66.666667%; }
+.checked_w-9s12:checked  { width: 75%; }
+.checked_w-10s12:checked  { width: 83.333333%; }
+.checked_w-11s12:checked  { width: 91.666667%; }
+.checked_min-w-0:checked  { min-width: 0px; }
+.checked_min-w-full:checked  { min-width: 100%; }
+.checked_max-w-0:checked  { max-width: 0px; }
+.checked_max-w-none:checked  { max-width: none; }
+.checked_max-w-xs:checked  { max-width: 320px; }
+.checked_max-w-sm:checked  { max-width: 384px; }
+.checked_max-w-md:checked  { max-width: 448px; }
+.checked_max-w-lg:checked  { max-width: 512px; }
+.checked_max-w-xl:checked  { max-width: 576px; }
+.checked_max-w-2xl:checked  { max-width: 672px; }
+.checked_max-w-3xl:checked  { max-width: 768px; }
+.checked_max-w-4xl:checked  { max-width: 896px; }
+.checked_max-w-5xl:checked  { max-width: 1024px; }
+.checked_max-w-6xl:checked  { max-width: 1152px; }
+.checked_max-w-7xl:checked  { max-width: 1280px; }
+.checked_max-w-full:checked  { max-width: 100%; }
+.checked_h-0:checked  { height: 0px; }
+.checked_h-0d5:checked  { height: 2px; }
+.checked_h-1:checked  { height: 4px; }
+.checked_h-1d5:checked  { height: 6px; }
+.checked_h-2:checked  { height: 8px; }
+.checked_h-2d5:checked  { height: 10px; }
+.checked_h-3:checked  { height: 12px; }
+.checked_h-3d5:checked  { height: 14px; }
+.checked_h-4:checked  { height: 16px; }
+.checked_h-5:checked  { height: 20px; }
+.checked_h-6:checked  { height: 24px; }
+.checked_h-7:checked  { height: 28px; }
+.checked_h-8:checked  { height: 32px; }
+.checked_h-9:checked  { height: 36px; }
+.checked_h-10:checked  { height: 40px; }
+.checked_h-11:checked  { height: 44px; }
+.checked_h-12:checked  { height: 48px; }
+.checked_h-14:checked  { height: 56px; }
+.checked_h-16:checked  { height: 64px; }
+.checked_h-20:checked  { height: 80px; }
+.checked_h-24:checked  { height: 96px; }
+.checked_h-28:checked  { height: 112px; }
+.checked_h-32:checked  { height: 128px; }
+.checked_h-36:checked  { height: 144px; }
+.checked_h-40:checked  { height: 160px; }
+.checked_h-44:checked  { height: 176px; }
+.checked_h-48:checked  { height: 192px; }
+.checked_h-52:checked  { height: 208px; }
+.checked_h-56:checked  { height: 224px; }
+.checked_h-60:checked  { height: 240px; }
+.checked_h-64:checked  { height: 256px; }
+.checked_h-72:checked  { height: 288px; }
+.checked_h-80:checked  { height: 320px; }
+.checked_h-96:checked  { height: 384px; }
+.checked_h-px:checked  { height: 1px; }
+.checked_h-auto:checked  { height: auto; }
+.checked_h-1s2:checked  { height: 50%; }
+.checked_h-1s3:checked  { height: 33.333333%; }
+.checked_h-2s3:checked  { height: 66.666667%; }
+.checked_h-1s4:checked  { height: 25%; }
+.checked_h-2s4:checked  { height: 50%; }
+.checked_h-3s4:checked  { height: 75%; }
+.checked_h-full:checked  { height: 100%; }
+.checked_h-1s5:checked  { height: 20%; }
+.checked_h-2s5:checked  { height: 40%; }
+.checked_h-3s5:checked  { height: 60%; }
+.checked_h-4s5:checked  { height: 80%; }
+.checked_h-1s6:checked  { height: 16.666667%; }
+.checked_h-2s6:checked  { height: 33.333333%; }
+.checked_h-3s6:checked  { height: 50%; }
+.checked_h-4s6:checked  { height: 66.666667%; }
+.checked_h-5s6:checked  { height: 83.333333%; }
+.checked_h-1s12:checked  { height: 8.333333%; }
+.checked_h-2s12:checked  { height: 16.666667%; }
+.checked_h-3s12:checked  { height: 25%; }
+.checked_h-4s12:checked  { height: 33.333333%; }
+.checked_h-5s12:checked  { height: 41.666667%; }
+.checked_h-6s12:checked  { height: 50%; }
+.checked_h-7s12:checked  { height: 58.333333%; }
+.checked_h-8s12:checked  { height: 66.666667%; }
+.checked_h-9s12:checked  { height: 75%; }
+.checked_h-10s12:checked  { height: 83.333333%; }
+.checked_h-11s12:checked  { height: 91.666667%; }
+.checked_min-h-0:checked  { min-height: 0px; }
+.checked_min-h-full:checked  { min-height: 100%; }
+.checked_max-h-0:checked  { max-height: 0px; }
+.checked_max-h-none:checked  { max-height: none; }
+.checked_max-h-xs:checked  { max-height: 320px; }
+.checked_max-h-sm:checked  { max-height: 384px; }
+.checked_max-h-md:checked  { max-height: 448px; }
+.checked_max-h-lg:checked  { max-height: 512px; }
+.checked_max-h-xl:checked  { max-height: 576px; }
+.checked_max-h-2xl:checked  { max-height: 672px; }
+.checked_max-h-3xl:checked  { max-height: 768px; }
+.checked_max-h-4xl:checked  { max-height: 896px; }
+.checked_max-h-5xl:checked  { max-height: 1024px; }
+.checked_max-h-6xl:checked  { max-height: 1152px; }
+.checked_max-h-7xl:checked  { max-height: 1280px; }
+.checked_max-h-full:checked  { max-height: 100%; }
+.checked_rounded-none:checked  { border-radius: 0px; }
+.checked_rounded-sm:checked  { border-radius: 2px; }
+.checked_rounded:checked  { border-radius: 4px; }
+.checked_rounded-md:checked  { border-radius: 6px; }
+.checked_rounded-lg:checked  { border-radius: 8px; }
+.checked_rounded-xl:checked  { border-radius: 12px; }
+.checked_rounded-2xl:checked  { border-radius: 16px; }
+.checked_rounded-3xl:checked  { border-radius: 24px; }
+.checked_rounded-full:checked  { border-radius: 9999px; }
+.checked_rounded-t-none:checked  { border-top-left-radius: 0px; border-top-right-radius: 0px; }
+.checked_rounded-t-sm:checked  { border-top-left-radius: 2px; border-top-right-radius: 2px; }
+.checked_rounded-t:checked  { border-top-left-radius: 4px; border-top-right-radius: 4px; }
+.checked_rounded-t-md:checked  { border-top-left-radius: 6px; border-top-right-radius: 6px; }
+.checked_rounded-t-lg:checked  { border-top-left-radius: 8px; border-top-right-radius: 8px; }
+.checked_rounded-t-xl:checked  { border-top-left-radius: 12px; border-top-right-radius: 12px; }
+.checked_rounded-t-2xl:checked  { border-top-left-radius: 16px; border-top-right-radius: 16px; }
+.checked_rounded-t-3xl:checked  { border-top-left-radius: 24px; border-top-right-radius: 24px; }
+.checked_rounded-t-full:checked  { border-top-left-radius: 9999px; border-top-right-radius: 9999px; }
+.checked_rounded-r-none:checked  { border-top-right-radius: 0px; border-bottom-right-radius: 0px; }
+.checked_rounded-r-sm:checked  { border-top-right-radius: 2px; border-bottom-right-radius: 2px; }
+.checked_rounded-r:checked  { border-top-right-radius: 4px; border-bottom-right-radius: 4px; }
+.checked_rounded-r-md:checked  { border-top-right-radius: 6px; border-bottom-right-radius: 6px; }
+.checked_rounded-r-lg:checked  { border-top-right-radius: 8px; border-bottom-right-radius: 8px; }
+.checked_rounded-r-xl:checked  { border-top-right-radius: 12px; border-bottom-right-radius: 12px; }
+.checked_rounded-r-2xl:checked  { border-top-right-radius: 16px; border-bottom-right-radius: 16px; }
+.checked_rounded-r-3xl:checked  { border-top-right-radius: 24px; border-bottom-right-radius: 24px; }
+.checked_rounded-r-full:checked  { border-top-right-radius: 9999px; border-bottom-right-radius: 9999px; }
+.checked_rounded-b-none:checked  { border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; }
+.checked_rounded-b-sm:checked  { border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; }
+.checked_rounded-b:checked  { border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; }
+.checked_rounded-b-md:checked  { border-bottom-right-radius: 6px; border-bottom-left-radius: 6px; }
+.checked_rounded-b-lg:checked  { border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; }
+.checked_rounded-b-xl:checked  { border-bottom-right-radius: 12px; border-bottom-left-radius: 12px; }
+.checked_rounded-b-2xl:checked  { border-bottom-right-radius: 16px; border-bottom-left-radius: 16px; }
+.checked_rounded-b-3xl:checked  { border-bottom-right-radius: 24px; border-bottom-left-radius: 24px; }
+.checked_rounded-b-full:checked  { border-bottom-right-radius: 9999px; border-bottom-left-radius: 9999px; }
+.checked_rounded-l-none:checked  { border-top-left-radius: 0px; border-bottom-left-radius: 0px; }
+.checked_rounded-l-sm:checked  { border-top-left-radius: 2px; border-bottom-left-radius: 2px; }
+.checked_rounded-l:checked  { border-top-left-radius: 4px; border-bottom-left-radius: 4px; }
+.checked_rounded-l-md:checked  { border-top-left-radius: 6px; border-bottom-left-radius: 6px; }
+.checked_rounded-l-lg:checked  { border-top-left-radius: 8px; border-bottom-left-radius: 8px; }
+.checked_rounded-l-xl:checked  { border-top-left-radius: 12px; border-bottom-left-radius: 12px; }
+.checked_rounded-l-2xl:checked  { border-top-left-radius: 16px; border-bottom-left-radius: 16px; }
+.checked_rounded-l-3xl:checked  { border-top-left-radius: 24px; border-bottom-left-radius: 24px; }
+.checked_rounded-l-full:checked  { border-top-left-radius: 9999px; border-bottom-left-radius: 9999px; }
+.checked_rounded-tl-none:checked  { border-top-left-radius: 0px; }
+.checked_rounded-tl-sm:checked  { border-top-left-radius: 2px; }
+.checked_rounded-tl:checked  { border-top-left-radius: 4px; }
+.checked_rounded-tl-md:checked  { border-top-left-radius: 6px; }
+.checked_rounded-tl-lg:checked  { border-top-left-radius: 8px; }
+.checked_rounded-tl-xl:checked  { border-top-left-radius: 12px; }
+.checked_rounded-tl-2xl:checked  { border-top-left-radius: 16px; }
+.checked_rounded-tl-3xl:checked  { border-top-left-radius: 24px; }
+.checked_rounded-tl-full:checked  { border-top-left-radius: 9999px; }
+.checked_rounded-tr-none:checked  { border-top-right-radius: 0px; }
+.checked_rounded-tr-sm:checked  { border-top-right-radius: 2px; }
+.checked_rounded-tr:checked  { border-top-right-radius: 4px; }
+.checked_rounded-tr-md:checked  { border-top-right-radius: 6px; }
+.checked_rounded-tr-lg:checked  { border-top-right-radius: 8px; }
+.checked_rounded-tr-xl:checked  { border-top-right-radius: 12px; }
+.checked_rounded-tr-2xl:checked  { border-top-right-radius: 16px; }
+.checked_rounded-tr-3xl:checked  { border-top-right-radius: 24px; }
+.checked_rounded-tr-full:checked  { border-top-right-radius: 9999px; }
+.checked_rounded-br-none:checked  { border-bottom-right-radius: 0px; }
+.checked_rounded-br-sm:checked  { border-bottom-right-radius: 2px; }
+.checked_rounded-br:checked  { border-bottom-right-radius: 4px; }
+.checked_rounded-br-md:checked  { border-bottom-right-radius: 6px; }
+.checked_rounded-br-lg:checked  { border-bottom-right-radius: 8px; }
+.checked_rounded-br-xl:checked  { border-bottom-right-radius: 12px; }
+.checked_rounded-br-2xl:checked  { border-bottom-right-radius: 16px; }
+.checked_rounded-br-3xl:checked  { border-bottom-right-radius: 24px; }
+.checked_rounded-br-full:checked  { border-bottom-right-radius: 9999px; }
+.checked_rounded-bl-none:checked  { border-bottom-left-radius: 0px; }
+.checked_rounded-bl-sm:checked  { border-bottom-left-radius: 2px; }
+.checked_rounded-bl:checked  { border-bottom-left-radius: 4px; }
+.checked_rounded-bl-md:checked  { border-bottom-left-radius: 6px; }
+.checked_rounded-bl-lg:checked  { border-bottom-left-radius: 8px; }
+.checked_rounded-bl-xl:checked  { border-bottom-left-radius: 12px; }
+.checked_rounded-bl-2xl:checked  { border-bottom-left-radius: 16px; }
+.checked_rounded-bl-3xl:checked  { border-bottom-left-radius: 24px; }
+.checked_rounded-bl-full:checked  { border-bottom-left-radius: 9999px; }
+.checked_border:checked  { border-width: 1px; }
+.checked_border-0:checked  { border-width: 0px; }
+.checked_border-2:checked  { border-width: 2px; }
+.checked_border-4:checked  { border-width: 4px; }
+.checked_border-8:checked  { border-width: 8px; }
+.checked_border-t:checked  { border-top-width: 1px; }
+.checked_border-t-0:checked  { border-top-width: 0px; }
+.checked_border-t-2:checked  { border-top-width: 2px; }
+.checked_border-t-4:checked  { border-top-width: 4px; }
+.checked_border-t-8:checked  { border-top-width: 8px; }
+.checked_border-r:checked  { border-right-width: 1px; }
+.checked_border-r-0:checked  { border-right-width: 0px; }
+.checked_border-r-2:checked  { border-right-width: 2px; }
+.checked_border-r-4:checked  { border-right-width: 4px; }
+.checked_border-r-8:checked  { border-right-width: 8px; }
+.checked_border-b:checked  { border-bottom-width: 1px; }
+.checked_border-b-0:checked  { border-bottom-width: 0px; }
+.checked_border-b-2:checked  { border-bottom-width: 2px; }
+.checked_border-b-4:checked  { border-bottom-width: 4px; }
+.checked_border-b-8:checked  { border-bottom-width: 8px; }
+.checked_border-l:checked  { border-left-width: 1px; }
+.checked_border-l-0:checked  { border-left-width: 0px; }
+.checked_border-l-2:checked  { border-left-width: 2px; }
+.checked_border-l-4:checked  { border-left-width: 4px; }
+.checked_border-l-8:checked  { border-left-width: 8px; }
+.checked_border-slate-50:checked  { border-color: #f8fafc; }
+.checked_border-slate-100:checked  { border-color: #f1f5f9; }
+.checked_border-slate-200:checked  { border-color: #e2e8f0; }
+.checked_border-slate-300:checked  { border-color: #cbd5e1; }
+.checked_border-slate-400:checked  { border-color: #94a3b8; }
+.checked_border-slate-500:checked  { border-color: #64748b; }
+.checked_border-slate-600:checked  { border-color: #475569; }
+.checked_border-slate-700:checked  { border-color: #334155; }
+.checked_border-slate-800:checked  { border-color: #1e293b; }
+.checked_border-slate-900:checked  { border-color: #0f172a; }
+.checked_border-slate-950:checked  { border-color: #020617; }
+.checked_border-gray-50:checked  { border-color: #f9fafb; }
+.checked_border-gray-100:checked  { border-color: #f3f4f6; }
+.checked_border-gray-200:checked  { border-color: #e5e7eb; }
+.checked_border-gray-300:checked  { border-color: #d1d5db; }
+.checked_border-gray-400:checked  { border-color: #9ca3af; }
+.checked_border-gray-500:checked  { border-color: #6b7280; }
+.checked_border-gray-600:checked  { border-color: #4b5563; }
+.checked_border-gray-700:checked  { border-color: #374151; }
+.checked_border-gray-800:checked  { border-color: #1f2937; }
+.checked_border-gray-900:checked  { border-color: #111827; }
+.checked_border-gray-950:checked  { border-color: #030712; }
+.checked_border-zinc-50:checked  { border-color: #fafafa; }
+.checked_border-zinc-100:checked  { border-color: #f4f4f5; }
+.checked_border-zinc-200:checked  { border-color: #e4e4e7; }
+.checked_border-zinc-300:checked  { border-color: #d4d4d8; }
+.checked_border-zinc-400:checked  { border-color: #a1a1aa; }
+.checked_border-zinc-500:checked  { border-color: #71717a; }
+.checked_border-zinc-600:checked  { border-color: #52525b; }
+.checked_border-zinc-700:checked  { border-color: #3f3f46; }
+.checked_border-zinc-800:checked  { border-color: #27272a; }
+.checked_border-zinc-900:checked  { border-color: #18181b; }
+.checked_border-zinc-950:checked  { border-color: #09090b; }
+.checked_border-neutral-50:checked  { border-color: #fafafa; }
+.checked_border-neutral-100:checked  { border-color: #f5f5f5; }
+.checked_border-neutral-200:checked  { border-color: #e5e5e5; }
+.checked_border-neutral-300:checked  { border-color: #d4d4d4; }
+.checked_border-neutral-400:checked  { border-color: #a3a3a3; }
+.checked_border-neutral-500:checked  { border-color: #737373; }
+.checked_border-neutral-600:checked  { border-color: #525252; }
+.checked_border-neutral-700:checked  { border-color: #404040; }
+.checked_border-neutral-800:checked  { border-color: #262626; }
+.checked_border-neutral-900:checked  { border-color: #171717; }
+.checked_border-neutral-950:checked  { border-color: #0a0a0a; }
+.checked_border-stone-50:checked  { border-color: #fafaf9; }
+.checked_border-stone-100:checked  { border-color: #f5f5f4; }
+.checked_border-stone-200:checked  { border-color: #e7e5e4; }
+.checked_border-stone-300:checked  { border-color: #d6d3d1; }
+.checked_border-stone-400:checked  { border-color: #a8a29e; }
+.checked_border-stone-500:checked  { border-color: #78716c; }
+.checked_border-stone-600:checked  { border-color: #57534e; }
+.checked_border-stone-700:checked  { border-color: #44403c; }
+.checked_border-stone-800:checked  { border-color: #292524; }
+.checked_border-stone-900:checked  { border-color: #1c1917; }
+.checked_border-stone-950:checked  { border-color: #0c0a09; }
+.checked_border-red-50:checked  { border-color: #fef2f2; }
+.checked_border-red-100:checked  { border-color: #fee2e2; }
+.checked_border-red-200:checked  { border-color: #fecaca; }
+.checked_border-red-300:checked  { border-color: #fca5a5; }
+.checked_border-red-400:checked  { border-color: #f87171; }
+.checked_border-red-500:checked  { border-color: #ef4444; }
+.checked_border-red-600:checked  { border-color: #dc2626; }
+.checked_border-red-700:checked  { border-color: #b91c1c; }
+.checked_border-red-800:checked  { border-color: #991b1b; }
+.checked_border-red-900:checked  { border-color: #7f1d1d; }
+.checked_border-red-950:checked  { border-color: #450a0a; }
+.checked_border-orange-50:checked  { border-color: #fff7ed; }
+.checked_border-orange-100:checked  { border-color: #ffedd5; }
+.checked_border-orange-200:checked  { border-color: #fed7aa; }
+.checked_border-orange-300:checked  { border-color: #fdba74; }
+.checked_border-orange-400:checked  { border-color: #fb923c; }
+.checked_border-orange-500:checked  { border-color: #f97316; }
+.checked_border-orange-600:checked  { border-color: #ea580c; }
+.checked_border-orange-700:checked  { border-color: #c2410c; }
+.checked_border-orange-800:checked  { border-color: #9a3412; }
+.checked_border-orange-900:checked  { border-color: #7c2d12; }
+.checked_border-orange-950:checked  { border-color: #431407; }
+.checked_border-amber-50:checked  { border-color: #fffbeb; }
+.checked_border-amber-100:checked  { border-color: #fef3c7; }
+.checked_border-amber-200:checked  { border-color: #fde68a; }
+.checked_border-amber-300:checked  { border-color: #fcd34d; }
+.checked_border-amber-400:checked  { border-color: #fbbf24; }
+.checked_border-amber-500:checked  { border-color: #f59e0b; }
+.checked_border-amber-600:checked  { border-color: #d97706; }
+.checked_border-amber-700:checked  { border-color: #b45309; }
+.checked_border-amber-800:checked  { border-color: #92400e; }
+.checked_border-amber-900:checked  { border-color: #78350f; }
+.checked_border-amber-950:checked  { border-color: #451a03; }
+.checked_border-yellow-50:checked  { border-color: #fefce8; }
+.checked_border-yellow-100:checked  { border-color: #fef9c3; }
+.checked_border-yellow-200:checked  { border-color: #fef08a; }
+.checked_border-yellow-300:checked  { border-color: #fde047; }
+.checked_border-yellow-400:checked  { border-color: #facc15; }
+.checked_border-yellow-500:checked  { border-color: #eab308; }
+.checked_border-yellow-600:checked  { border-color: #ca8a04; }
+.checked_border-yellow-700:checked  { border-color: #a16207; }
+.checked_border-yellow-800:checked  { border-color: #854d0e; }
+.checked_border-yellow-900:checked  { border-color: #713f12; }
+.checked_border-yellow-950:checked  { border-color: #422006; }
+.checked_border-lime-50:checked  { border-color: #f7fee7; }
+.checked_border-lime-100:checked  { border-color: #ecfccb; }
+.checked_border-lime-200:checked  { border-color: #d9f99d; }
+.checked_border-lime-300:checked  { border-color: #bef264; }
+.checked_border-lime-400:checked  { border-color: #a3e635; }
+.checked_border-lime-500:checked  { border-color: #84cc16; }
+.checked_border-lime-600:checked  { border-color: #65a30d; }
+.checked_border-lime-700:checked  { border-color: #4d7c0f; }
+.checked_border-lime-800:checked  { border-color: #3f6212; }
+.checked_border-lime-900:checked  { border-color: #365314; }
+.checked_border-lime-950:checked  { border-color: #1a2e05; }
+.checked_border-green-50:checked  { border-color: #f0fdf4; }
+.checked_border-green-100:checked  { border-color: #dcfce7; }
+.checked_border-green-200:checked  { border-color: #bbf7d0; }
+.checked_border-green-300:checked  { border-color: #86efac; }
+.checked_border-green-400:checked  { border-color: #4ade80; }
+.checked_border-green-500:checked  { border-color: #22c55e; }
+.checked_border-green-600:checked  { border-color: #16a34a; }
+.checked_border-green-700:checked  { border-color: #15803d; }
+.checked_border-green-800:checked  { border-color: #166534; }
+.checked_border-green-900:checked  { border-color: #14532d; }
+.checked_border-green-950:checked  { border-color: #052e16; }
+.checked_border-emerald-50:checked  { border-color: #ecfdf5; }
+.checked_border-emerald-100:checked  { border-color: #d1fae5; }
+.checked_border-emerald-200:checked  { border-color: #a7f3d0; }
+.checked_border-emerald-300:checked  { border-color: #6ee7b7; }
+.checked_border-emerald-400:checked  { border-color: #34d399; }
+.checked_border-emerald-500:checked  { border-color: #10b981; }
+.checked_border-emerald-600:checked  { border-color: #059669; }
+.checked_border-emerald-700:checked  { border-color: #047857; }
+.checked_border-emerald-800:checked  { border-color: #065f46; }
+.checked_border-emerald-900:checked  { border-color: #064e3b; }
+.checked_border-emerald-950:checked  { border-color: #022c22; }
+.checked_border-teal-50:checked  { border-color: #f0fdfa; }
+.checked_border-teal-100:checked  { border-color: #ccfbf1; }
+.checked_border-teal-200:checked  { border-color: #99f6e4; }
+.checked_border-teal-300:checked  { border-color: #5eead4; }
+.checked_border-teal-400:checked  { border-color: #2dd4bf; }
+.checked_border-teal-500:checked  { border-color: #14b8a6; }
+.checked_border-teal-600:checked  { border-color: #0d9488; }
+.checked_border-teal-700:checked  { border-color: #0f766e; }
+.checked_border-teal-800:checked  { border-color: #115e59; }
+.checked_border-teal-900:checked  { border-color: #134e4a; }
+.checked_border-teal-950:checked  { border-color: #042f2e; }
+.checked_border-cyan-50:checked  { border-color: #ecfeff; }
+.checked_border-cyan-100:checked  { border-color: #cffafe; }
+.checked_border-cyan-200:checked  { border-color: #a5f3fc; }
+.checked_border-cyan-300:checked  { border-color: #67e8f9; }
+.checked_border-cyan-400:checked  { border-color: #22d3ee; }
+.checked_border-cyan-500:checked  { border-color: #06b6d4; }
+.checked_border-cyan-600:checked  { border-color: #0891b2; }
+.checked_border-cyan-700:checked  { border-color: #0e7490; }
+.checked_border-cyan-800:checked  { border-color: #155e75; }
+.checked_border-cyan-900:checked  { border-color: #164e63; }
+.checked_border-cyan-950:checked  { border-color: #083344; }
+.checked_border-sky-50:checked  { border-color: #f0f9ff; }
+.checked_border-sky-100:checked  { border-color: #e0f2fe; }
+.checked_border-sky-200:checked  { border-color: #bae6fd; }
+.checked_border-sky-300:checked  { border-color: #7dd3fc; }
+.checked_border-sky-400:checked  { border-color: #38bdf8; }
+.checked_border-sky-500:checked  { border-color: #0ea5e9; }
+.checked_border-sky-600:checked  { border-color: #0284c7; }
+.checked_border-sky-700:checked  { border-color: #0369a1; }
+.checked_border-sky-800:checked  { border-color: #075985; }
+.checked_border-sky-900:checked  { border-color: #0c4a6e; }
+.checked_border-sky-950:checked  { border-color: #082f49; }
+.checked_border-blue-50:checked  { border-color: #eff6ff; }
+.checked_border-blue-100:checked  { border-color: #dbeafe; }
+.checked_border-blue-200:checked  { border-color: #bfdbfe; }
+.checked_border-blue-300:checked  { border-color: #93c5fd; }
+.checked_border-blue-400:checked  { border-color: #60a5fa; }
+.checked_border-blue-500:checked  { border-color: #3b82f6; }
+.checked_border-blue-600:checked  { border-color: #2563eb; }
+.checked_border-blue-700:checked  { border-color: #1d4ed8; }
+.checked_border-blue-800:checked  { border-color: #1e40af; }
+.checked_border-blue-900:checked  { border-color: #1e3a8a; }
+.checked_border-blue-950:checked  { border-color: #172554; }
+.checked_border-indigo-50:checked  { border-color: #eef2ff; }
+.checked_border-indigo-100:checked  { border-color: #e0e7ff; }
+.checked_border-indigo-200:checked  { border-color: #c7d2fe; }
+.checked_border-indigo-300:checked  { border-color: #a5b4fc; }
+.checked_border-indigo-400:checked  { border-color: #818cf8; }
+.checked_border-indigo-500:checked  { border-color: #6366f1; }
+.checked_border-indigo-600:checked  { border-color: #4f46e5; }
+.checked_border-indigo-700:checked  { border-color: #4338ca; }
+.checked_border-indigo-800:checked  { border-color: #3730a3; }
+.checked_border-indigo-900:checked  { border-color: #312e81; }
+.checked_border-indigo-950:checked  { border-color: #1e1b4b; }
+.checked_border-violet-50:checked  { border-color: #f5f3ff; }
+.checked_border-violet-100:checked  { border-color: #ede9fe; }
+.checked_border-violet-200:checked  { border-color: #ddd6fe; }
+.checked_border-violet-300:checked  { border-color: #c4b5fd; }
+.checked_border-violet-400:checked  { border-color: #a78bfa; }
+.checked_border-violet-500:checked  { border-color: #8b5cf6; }
+.checked_border-violet-600:checked  { border-color: #7c3aed; }
+.checked_border-violet-700:checked  { border-color: #6d28d9; }
+.checked_border-violet-800:checked  { border-color: #5b21b6; }
+.checked_border-violet-900:checked  { border-color: #4c1d95; }
+.checked_border-violet-950:checked  { border-color: #2e1065; }
+.checked_border-purple-50:checked  { border-color: #faf5ff; }
+.checked_border-purple-100:checked  { border-color: #f3e8ff; }
+.checked_border-purple-200:checked  { border-color: #e9d5ff; }
+.checked_border-purple-300:checked  { border-color: #d8b4fe; }
+.checked_border-purple-400:checked  { border-color: #c084fc; }
+.checked_border-purple-500:checked  { border-color: #a855f7; }
+.checked_border-purple-600:checked  { border-color: #9333ea; }
+.checked_border-purple-700:checked  { border-color: #7e22ce; }
+.checked_border-purple-800:checked  { border-color: #6b21a8; }
+.checked_border-purple-900:checked  { border-color: #581c87; }
+.checked_border-purple-950:checked  { border-color: #3b0764; }
+.checked_border-fuchsia-50:checked  { border-color: #fdf4ff; }
+.checked_border-fuchsia-100:checked  { border-color: #fae8ff; }
+.checked_border-fuchsia-200:checked  { border-color: #f5d0fe; }
+.checked_border-fuchsia-300:checked  { border-color: #f0abfc; }
+.checked_border-fuchsia-400:checked  { border-color: #e879f9; }
+.checked_border-fuchsia-500:checked  { border-color: #d946ef; }
+.checked_border-fuchsia-600:checked  { border-color: #c026d3; }
+.checked_border-fuchsia-700:checked  { border-color: #a21caf; }
+.checked_border-fuchsia-800:checked  { border-color: #86198f; }
+.checked_border-fuchsia-900:checked  { border-color: #701a75; }
+.checked_border-fuchsia-950:checked  { border-color: #4a044e; }
+.checked_border-pink-50:checked  { border-color: #fdf2f8; }
+.checked_border-pink-100:checked  { border-color: #fce7f3; }
+.checked_border-pink-200:checked  { border-color: #fbcfe8; }
+.checked_border-pink-300:checked  { border-color: #f9a8d4; }
+.checked_border-pink-400:checked  { border-color: #f472b6; }
+.checked_border-pink-500:checked  { border-color: #ec4899; }
+.checked_border-pink-600:checked  { border-color: #db2777; }
+.checked_border-pink-700:checked  { border-color: #be185d; }
+.checked_border-pink-800:checked  { border-color: #9d174d; }
+.checked_border-pink-900:checked  { border-color: #831843; }
+.checked_border-pink-950:checked  { border-color: #500724; }
+.checked_border-rose-50:checked  { border-color: #fff1f2; }
+.checked_border-rose-100:checked  { border-color: #ffe4e6; }
+.checked_border-rose-200:checked  { border-color: #fecdd3; }
+.checked_border-rose-300:checked  { border-color: #fda4af; }
+.checked_border-rose-400:checked  { border-color: #fb7185; }
+.checked_border-rose-500:checked  { border-color: #f43f5e; }
+.checked_border-rose-600:checked  { border-color: #e11d48; }
+.checked_border-rose-700:checked  { border-color: #be123c; }
+.checked_border-rose-800:checked  { border-color: #9f1239; }
+.checked_border-rose-900:checked  { border-color: #881337; }
+.checked_border-rose-950:checked  { border-color: #4c0519; }
+.checked_border-transparent:checked  { border-color: transparent; }
+.checked_border-white:checked  { border-color: white; }
+.checked_border-black:checked  { border-color: black; }
+.checked_transition:checked  { transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.checked_transition-none:checked  { transition-property: none; }
+.checked_transition-all:checked  { transition-property: all; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.checked_transition-colors:checked  { transition-property: background-color, border-color, color, fill, stroke; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.checked_transition-opacity:checked  { transition-property: opacity; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.checked_transition-shadow:checked  { transition-property: box-shadow; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.checked_transition-transform:checked  { transition-property: transform; transition-timing-function: ease-in-out-cubic; transition-duration: 150ms; }
+.checked_duration-75:checked  { transition-duration: 75ms; }
+.checked_duration-100:checked  { transition-duration: 100ms; }
+.checked_duration-150:checked  { transition-duration: 150ms; }
+.checked_duration-200:checked  { transition-duration: 200ms; }
+.checked_duration-300:checked  { transition-duration: 300ms; }
+.checked_duration-500:checked  { transition-duration: 500ms; }
+.checked_duration-700:checked  { transition-duration: 700ms; }
+.checked_duration-1000:checked  { transition-duration: 1000ms; }
+.checked_ease-linear:checked  { transition-timing-function: linear; }
+.checked_ease-in:checked  { transition-timing-function: ease-in-cubic; }
+.checked_ease-out:checked  { transition-timing-function: ease-out-cubic; }
+.checked_ease-in-out:checked  { transition-timing-function: ease-in-out-cubic; }
+.checked_delay-75:checked  { transition-delay: 75ms; }
+.checked_delay-100:checked  { transition-delay: 100ms; }
+.checked_delay-150:checked  { transition-delay: 150ms; }
+.checked_delay-200:checked  { transition-delay: 200ms; }
+.checked_delay-300:checked  { transition-delay: 300ms; }
+.checked_delay-500:checked  { transition-delay: 500ms; }
+.checked_delay-700:checked  { transition-delay: 700ms; }
+.checked_delay-1000:checked  { transition-delay: 1000ms; }
+.checked_cursor-arrow:checked  { cursor: arrow; }
+.checked_cursor-text:checked  { cursor: text; }
+.checked_cursor-resize-vertical:checked  { cursor: resize-vertical; }
+.checked_cursor-resize-horizontal:checked  { cursor: resize-horizontal; }
+.checked_cursor-link:checked  { cursor: link; }
+.checked_cursor-slide-arrow:checked  { cursor: slide-arrow; }
+.checked_cursor-resize-up-right:checked  { cursor: resize-up-right; }
+.checked_cursor-resize-up-left:checked  { cursor: resize-up-left; }
+.checked_cursor-move-arrow:checked  { cursor: move-arrow; }
+.checked_cursor-rotate-arrow:checked  { cursor: rotate-arrow; }
+.checked_cursor-scale-arrow:checked  { cursor: scale-arrow; }
+.checked_cursor-arrow-plus:checked  { cursor: arrow-plus; }
+.checked_cursor-arrow-minus:checked  { cursor: arrow-minus; }
+.checked_cursor-pan:checked  { cursor: pan; }
+.checked_cursor-orbit:checked  { cursor: orbit; }
+.checked_cursor-zoom:checked  { cursor: zoom; }
+.checked_cursor-fps:checked  { cursor: fps; }
+.checked_cursor-split-resize-up-down:checked  { cursor: split-resize-up-down; }
+.checked_cursor-split-resize-left-right:checked  { cursor: split-resize-left-right; }
+.checked_justify-start:checked  { justify-content: flex-start; }
+.checked_justify-end:checked  { justify-content: flex-end; }
+.checked_justify-center:checked  { justify-content: center; }
+.checked_justify-between:checked  { justify-content: space-between; }
+.checked_justify-around:checked  { justify-content: space-around; }
+.checked_justify-evenly:checked  { justify-content: space-evenly; }
+.checked_content-start:checked  { align-content: flex-start; }
+.checked_content-center:checked  { align-content: center; }
+.checked_content-end:checked  { align-content: flex-end; }
+.checked_items-stretch:checked  { align-items: stretch; }
+.checked_items-start:checked  { align-items: flex-start; }
+.checked_items-center:checked  { align-items: center; }
+.checked_items-end:checked  { align-items: flex-end; }
+.checked_self-auto:checked  { align-self: auto; }
+.checked_self-start:checked  { align-self: flex-start; }
+.checked_self-end:checked  { align-self: flex-end; }
+.checked_self-center:checked  { align-self: center; }
+.checked_self-stretch:checked  { align-self: stretch; }
+.checked_text-slate-50:checked  { color: #f8fafc; }
+.checked_text-slate-100:checked  { color: #f1f5f9; }
+.checked_text-slate-200:checked  { color: #e2e8f0; }
+.checked_text-slate-300:checked  { color: #cbd5e1; }
+.checked_text-slate-400:checked  { color: #94a3b8; }
+.checked_text-slate-500:checked  { color: #64748b; }
+.checked_text-slate-600:checked  { color: #475569; }
+.checked_text-slate-700:checked  { color: #334155; }
+.checked_text-slate-800:checked  { color: #1e293b; }
+.checked_text-slate-900:checked  { color: #0f172a; }
+.checked_text-slate-950:checked  { color: #020617; }
+.checked_text-gray-50:checked  { color: #f9fafb; }
+.checked_text-gray-100:checked  { color: #f3f4f6; }
+.checked_text-gray-200:checked  { color: #e5e7eb; }
+.checked_text-gray-300:checked  { color: #d1d5db; }
+.checked_text-gray-400:checked  { color: #9ca3af; }
+.checked_text-gray-500:checked  { color: #6b7280; }
+.checked_text-gray-600:checked  { color: #4b5563; }
+.checked_text-gray-700:checked  { color: #374151; }
+.checked_text-gray-800:checked  { color: #1f2937; }
+.checked_text-gray-900:checked  { color: #111827; }
+.checked_text-gray-950:checked  { color: #030712; }
+.checked_text-zinc-50:checked  { color: #fafafa; }
+.checked_text-zinc-100:checked  { color: #f4f4f5; }
+.checked_text-zinc-200:checked  { color: #e4e4e7; }
+.checked_text-zinc-300:checked  { color: #d4d4d8; }
+.checked_text-zinc-400:checked  { color: #a1a1aa; }
+.checked_text-zinc-500:checked  { color: #71717a; }
+.checked_text-zinc-600:checked  { color: #52525b; }
+.checked_text-zinc-700:checked  { color: #3f3f46; }
+.checked_text-zinc-800:checked  { color: #27272a; }
+.checked_text-zinc-900:checked  { color: #18181b; }
+.checked_text-zinc-950:checked  { color: #09090b; }
+.checked_text-neutral-50:checked  { color: #fafafa; }
+.checked_text-neutral-100:checked  { color: #f5f5f5; }
+.checked_text-neutral-200:checked  { color: #e5e5e5; }
+.checked_text-neutral-300:checked  { color: #d4d4d4; }
+.checked_text-neutral-400:checked  { color: #a3a3a3; }
+.checked_text-neutral-500:checked  { color: #737373; }
+.checked_text-neutral-600:checked  { color: #525252; }
+.checked_text-neutral-700:checked  { color: #404040; }
+.checked_text-neutral-800:checked  { color: #262626; }
+.checked_text-neutral-900:checked  { color: #171717; }
+.checked_text-neutral-950:checked  { color: #0a0a0a; }
+.checked_text-stone-50:checked  { color: #fafaf9; }
+.checked_text-stone-100:checked  { color: #f5f5f4; }
+.checked_text-stone-200:checked  { color: #e7e5e4; }
+.checked_text-stone-300:checked  { color: #d6d3d1; }
+.checked_text-stone-400:checked  { color: #a8a29e; }
+.checked_text-stone-500:checked  { color: #78716c; }
+.checked_text-stone-600:checked  { color: #57534e; }
+.checked_text-stone-700:checked  { color: #44403c; }
+.checked_text-stone-800:checked  { color: #292524; }
+.checked_text-stone-900:checked  { color: #1c1917; }
+.checked_text-stone-950:checked  { color: #0c0a09; }
+.checked_text-red-50:checked  { color: #fef2f2; }
+.checked_text-red-100:checked  { color: #fee2e2; }
+.checked_text-red-200:checked  { color: #fecaca; }
+.checked_text-red-300:checked  { color: #fca5a5; }
+.checked_text-red-400:checked  { color: #f87171; }
+.checked_text-red-500:checked  { color: #ef4444; }
+.checked_text-red-600:checked  { color: #dc2626; }
+.checked_text-red-700:checked  { color: #b91c1c; }
+.checked_text-red-800:checked  { color: #991b1b; }
+.checked_text-red-900:checked  { color: #7f1d1d; }
+.checked_text-red-950:checked  { color: #450a0a; }
+.checked_text-orange-50:checked  { color: #fff7ed; }
+.checked_text-orange-100:checked  { color: #ffedd5; }
+.checked_text-orange-200:checked  { color: #fed7aa; }
+.checked_text-orange-300:checked  { color: #fdba74; }
+.checked_text-orange-400:checked  { color: #fb923c; }
+.checked_text-orange-500:checked  { color: #f97316; }
+.checked_text-orange-600:checked  { color: #ea580c; }
+.checked_text-orange-700:checked  { color: #c2410c; }
+.checked_text-orange-800:checked  { color: #9a3412; }
+.checked_text-orange-900:checked  { color: #7c2d12; }
+.checked_text-orange-950:checked  { color: #431407; }
+.checked_text-amber-50:checked  { color: #fffbeb; }
+.checked_text-amber-100:checked  { color: #fef3c7; }
+.checked_text-amber-200:checked  { color: #fde68a; }
+.checked_text-amber-300:checked  { color: #fcd34d; }
+.checked_text-amber-400:checked  { color: #fbbf24; }
+.checked_text-amber-500:checked  { color: #f59e0b; }
+.checked_text-amber-600:checked  { color: #d97706; }
+.checked_text-amber-700:checked  { color: #b45309; }
+.checked_text-amber-800:checked  { color: #92400e; }
+.checked_text-amber-900:checked  { color: #78350f; }
+.checked_text-amber-950:checked  { color: #451a03; }
+.checked_text-yellow-50:checked  { color: #fefce8; }
+.checked_text-yellow-100:checked  { color: #fef9c3; }
+.checked_text-yellow-200:checked  { color: #fef08a; }
+.checked_text-yellow-300:checked  { color: #fde047; }
+.checked_text-yellow-400:checked  { color: #facc15; }
+.checked_text-yellow-500:checked  { color: #eab308; }
+.checked_text-yellow-600:checked  { color: #ca8a04; }
+.checked_text-yellow-700:checked  { color: #a16207; }
+.checked_text-yellow-800:checked  { color: #854d0e; }
+.checked_text-yellow-900:checked  { color: #713f12; }
+.checked_text-yellow-950:checked  { color: #422006; }
+.checked_text-lime-50:checked  { color: #f7fee7; }
+.checked_text-lime-100:checked  { color: #ecfccb; }
+.checked_text-lime-200:checked  { color: #d9f99d; }
+.checked_text-lime-300:checked  { color: #bef264; }
+.checked_text-lime-400:checked  { color: #a3e635; }
+.checked_text-lime-500:checked  { color: #84cc16; }
+.checked_text-lime-600:checked  { color: #65a30d; }
+.checked_text-lime-700:checked  { color: #4d7c0f; }
+.checked_text-lime-800:checked  { color: #3f6212; }
+.checked_text-lime-900:checked  { color: #365314; }
+.checked_text-lime-950:checked  { color: #1a2e05; }
+.checked_text-green-50:checked  { color: #f0fdf4; }
+.checked_text-green-100:checked  { color: #dcfce7; }
+.checked_text-green-200:checked  { color: #bbf7d0; }
+.checked_text-green-300:checked  { color: #86efac; }
+.checked_text-green-400:checked  { color: #4ade80; }
+.checked_text-green-500:checked  { color: #22c55e; }
+.checked_text-green-600:checked  { color: #16a34a; }
+.checked_text-green-700:checked  { color: #15803d; }
+.checked_text-green-800:checked  { color: #166534; }
+.checked_text-green-900:checked  { color: #14532d; }
+.checked_text-green-950:checked  { color: #052e16; }
+.checked_text-emerald-50:checked  { color: #ecfdf5; }
+.checked_text-emerald-100:checked  { color: #d1fae5; }
+.checked_text-emerald-200:checked  { color: #a7f3d0; }
+.checked_text-emerald-300:checked  { color: #6ee7b7; }
+.checked_text-emerald-400:checked  { color: #34d399; }
+.checked_text-emerald-500:checked  { color: #10b981; }
+.checked_text-emerald-600:checked  { color: #059669; }
+.checked_text-emerald-700:checked  { color: #047857; }
+.checked_text-emerald-800:checked  { color: #065f46; }
+.checked_text-emerald-900:checked  { color: #064e3b; }
+.checked_text-emerald-950:checked  { color: #022c22; }
+.checked_text-teal-50:checked  { color: #f0fdfa; }
+.checked_text-teal-100:checked  { color: #ccfbf1; }
+.checked_text-teal-200:checked  { color: #99f6e4; }
+.checked_text-teal-300:checked  { color: #5eead4; }
+.checked_text-teal-400:checked  { color: #2dd4bf; }
+.checked_text-teal-500:checked  { color: #14b8a6; }
+.checked_text-teal-600:checked  { color: #0d9488; }
+.checked_text-teal-700:checked  { color: #0f766e; }
+.checked_text-teal-800:checked  { color: #115e59; }
+.checked_text-teal-900:checked  { color: #134e4a; }
+.checked_text-teal-950:checked  { color: #042f2e; }
+.checked_text-cyan-50:checked  { color: #ecfeff; }
+.checked_text-cyan-100:checked  { color: #cffafe; }
+.checked_text-cyan-200:checked  { color: #a5f3fc; }
+.checked_text-cyan-300:checked  { color: #67e8f9; }
+.checked_text-cyan-400:checked  { color: #22d3ee; }
+.checked_text-cyan-500:checked  { color: #06b6d4; }
+.checked_text-cyan-600:checked  { color: #0891b2; }
+.checked_text-cyan-700:checked  { color: #0e7490; }
+.checked_text-cyan-800:checked  { color: #155e75; }
+.checked_text-cyan-900:checked  { color: #164e63; }
+.checked_text-cyan-950:checked  { color: #083344; }
+.checked_text-sky-50:checked  { color: #f0f9ff; }
+.checked_text-sky-100:checked  { color: #e0f2fe; }
+.checked_text-sky-200:checked  { color: #bae6fd; }
+.checked_text-sky-300:checked  { color: #7dd3fc; }
+.checked_text-sky-400:checked  { color: #38bdf8; }
+.checked_text-sky-500:checked  { color: #0ea5e9; }
+.checked_text-sky-600:checked  { color: #0284c7; }
+.checked_text-sky-700:checked  { color: #0369a1; }
+.checked_text-sky-800:checked  { color: #075985; }
+.checked_text-sky-900:checked  { color: #0c4a6e; }
+.checked_text-sky-950:checked  { color: #082f49; }
+.checked_text-blue-50:checked  { color: #eff6ff; }
+.checked_text-blue-100:checked  { color: #dbeafe; }
+.checked_text-blue-200:checked  { color: #bfdbfe; }
+.checked_text-blue-300:checked  { color: #93c5fd; }
+.checked_text-blue-400:checked  { color: #60a5fa; }
+.checked_text-blue-500:checked  { color: #3b82f6; }
+.checked_text-blue-600:checked  { color: #2563eb; }
+.checked_text-blue-700:checked  { color: #1d4ed8; }
+.checked_text-blue-800:checked  { color: #1e40af; }
+.checked_text-blue-900:checked  { color: #1e3a8a; }
+.checked_text-blue-950:checked  { color: #172554; }
+.checked_text-indigo-50:checked  { color: #eef2ff; }
+.checked_text-indigo-100:checked  { color: #e0e7ff; }
+.checked_text-indigo-200:checked  { color: #c7d2fe; }
+.checked_text-indigo-300:checked  { color: #a5b4fc; }
+.checked_text-indigo-400:checked  { color: #818cf8; }
+.checked_text-indigo-500:checked  { color: #6366f1; }
+.checked_text-indigo-600:checked  { color: #4f46e5; }
+.checked_text-indigo-700:checked  { color: #4338ca; }
+.checked_text-indigo-800:checked  { color: #3730a3; }
+.checked_text-indigo-900:checked  { color: #312e81; }
+.checked_text-indigo-950:checked  { color: #1e1b4b; }
+.checked_text-violet-50:checked  { color: #f5f3ff; }
+.checked_text-violet-100:checked  { color: #ede9fe; }
+.checked_text-violet-200:checked  { color: #ddd6fe; }
+.checked_text-violet-300:checked  { color: #c4b5fd; }
+.checked_text-violet-400:checked  { color: #a78bfa; }
+.checked_text-violet-500:checked  { color: #8b5cf6; }
+.checked_text-violet-600:checked  { color: #7c3aed; }
+.checked_text-violet-700:checked  { color: #6d28d9; }
+.checked_text-violet-800:checked  { color: #5b21b6; }
+.checked_text-violet-900:checked  { color: #4c1d95; }
+.checked_text-violet-950:checked  { color: #2e1065; }
+.checked_text-purple-50:checked  { color: #faf5ff; }
+.checked_text-purple-100:checked  { color: #f3e8ff; }
+.checked_text-purple-200:checked  { color: #e9d5ff; }
+.checked_text-purple-300:checked  { color: #d8b4fe; }
+.checked_text-purple-400:checked  { color: #c084fc; }
+.checked_text-purple-500:checked  { color: #a855f7; }
+.checked_text-purple-600:checked  { color: #9333ea; }
+.checked_text-purple-700:checked  { color: #7e22ce; }
+.checked_text-purple-800:checked  { color: #6b21a8; }
+.checked_text-purple-900:checked  { color: #581c87; }
+.checked_text-purple-950:checked  { color: #3b0764; }
+.checked_text-fuchsia-50:checked  { color: #fdf4ff; }
+.checked_text-fuchsia-100:checked  { color: #fae8ff; }
+.checked_text-fuchsia-200:checked  { color: #f5d0fe; }
+.checked_text-fuchsia-300:checked  { color: #f0abfc; }
+.checked_text-fuchsia-400:checked  { color: #e879f9; }
+.checked_text-fuchsia-500:checked  { color: #d946ef; }
+.checked_text-fuchsia-600:checked  { color: #c026d3; }
+.checked_text-fuchsia-700:checked  { color: #a21caf; }
+.checked_text-fuchsia-800:checked  { color: #86198f; }
+.checked_text-fuchsia-900:checked  { color: #701a75; }
+.checked_text-fuchsia-950:checked  { color: #4a044e; }
+.checked_text-pink-50:checked  { color: #fdf2f8; }
+.checked_text-pink-100:checked  { color: #fce7f3; }
+.checked_text-pink-200:checked  { color: #fbcfe8; }
+.checked_text-pink-300:checked  { color: #f9a8d4; }
+.checked_text-pink-400:checked  { color: #f472b6; }
+.checked_text-pink-500:checked  { color: #ec4899; }
+.checked_text-pink-600:checked  { color: #db2777; }
+.checked_text-pink-700:checked  { color: #be185d; }
+.checked_text-pink-800:checked  { color: #9d174d; }
+.checked_text-pink-900:checked  { color: #831843; }
+.checked_text-pink-950:checked  { color: #500724; }
+.checked_text-rose-50:checked  { color: #fff1f2; }
+.checked_text-rose-100:checked  { color: #ffe4e6; }
+.checked_text-rose-200:checked  { color: #fecdd3; }
+.checked_text-rose-300:checked  { color: #fda4af; }
+.checked_text-rose-400:checked  { color: #fb7185; }
+.checked_text-rose-500:checked  { color: #f43f5e; }
+.checked_text-rose-600:checked  { color: #e11d48; }
+.checked_text-rose-700:checked  { color: #be123c; }
+.checked_text-rose-800:checked  { color: #9f1239; }
+.checked_text-rose-900:checked  { color: #881337; }
+.checked_text-rose-950:checked  { color: #4c0519; }
+.checked_text-transparent:checked  { color: transparent; }
+.checked_text-white:checked  { color: white; }
+.checked_text-black:checked  { color: black; }
+.checked_text-xs:checked  { font-size: 12px; }
+.checked_text-sm:checked  { font-size: 14px; }
+.checked_text-base:checked  { font-size: 16px; }
+.checked_text-lg:checked  { font-size: 18px; }
+.checked_text-xl:checked  { font-size: 20px; }
+.checked_text-2xl:checked  { font-size: 24px; }
+.checked_text-3xl:checked  { font-size: 30px; }
+.checked_text-4xl:checked  { font-size: 36px; }
+.checked_text-5xl:checked  { font-size: 48px; }
+.checked_text-6xl:checked  { font-size: 60px; }
+.checked_text-7xl:checked  { font-size: 72px; }
+.checked_text-8xl:checked  { font-size: 96px; }
+.checked_text-9xl:checked  { font-size: 128px; }
+.checked_whitespace-normal:checked  { white-space: normal; }
+.checked_whitespace-no-wrap:checked  { white-space: nowrap; }

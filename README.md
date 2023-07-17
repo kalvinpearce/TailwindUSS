@@ -16,43 +16,42 @@ Install using Unitys built-in package manager, UPM.
 
 ## Usage
 
-This package supplies a `TailwindUSS.uss` file that can be added to any `.uxml`
-or linked in any `.cs` script.
+This package supplies a `TailwindUSS.<pseudo>.uss` file that can be added to
+any `.uxml` or linked in any `.cs` script.
 
 A few helpers have been supplied to assist with adding styles in bulk.
 To use them, simply put `using TailwindUSS;` at the top of the script.
 
-### `.AddClasses` strings
+### `.Tailwind`
+
+It takes a string of tailwind classes, separated by spaces. It will automatically
+apply the relevant stylesheets when used in editor scripts, otherwise they need
+to be added manually in the uxml.
 
 ```csharp
 using TailwindUSS;
 // ...
 VisualElement label = new Label("Hello World! From TailwindUSS");
-label.AddClasses("text-2xl", "text-red-500", "m-4");
-
-// Also supports a single string seperated by spaces
-label.AddClasses("text-2xl text-red-500 m-4");
+label.Tailwind("text-2xl text-red-500 m-4 transition-all hover:text-blue-500");
 ```
 
-### `.AddClasses` enum
+### Editor Integration
 
-For better code editor support, the package generates an enum with every
-supported tailwind class name.
+For a better editor experience, please use the official Tailwind plugin and
+follow the instructions below.
 
-```csharp
-using TailwindUSS;
-// ...
-VisualElement label = new Label("Hello World! From TailwindUSS");
-label.AddClasses(Tw.text_2xl, Tw.text_red_500, Tw.m_4);
-```
+#### Vscode
 
-### `.AddTailwindUSSStylesheet`
-
-A quick helper to add the stylesheet via script.
-
-```csharp
-using TailwindUSS;
-// ...
-VisualElement root = new VisualElement();
-root.AddTailwindUSSStylesheet();
-```
+1. Install the [official extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+2. Navigate to the tailwind settings
+3. In the tailwindCSS.includeLanguages setting add a new item for csharp
+    - Search `tailwindCSS.includeLanguages`
+    - Click `Add Item`
+    - Key: `csharp` & Value: `html`
+4. Add class regex for `Tailwind("...")`
+    - Search `tailwindCSS.experimental.classRegex`
+    - Click `Edit in settings.json`
+    - Paste `"Tailwind\\(\"([^\"]*)"`
+5. Ensure a tailwind.config.js exists in the project root
+    - Run `npx tailwindcss init` in a terminal in the project root
+    - Add `"Assets/**/*.cs"` to the content array in `tailwind.config.js`
