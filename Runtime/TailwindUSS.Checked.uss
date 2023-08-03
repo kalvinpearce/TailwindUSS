@@ -1628,6 +1628,17 @@
 .checked_-space-y-reverse-80:checked > * { margin-top: -320px; }
 .checked_-space-y-reverse-96:checked > * { margin-top: -384px; }
 .checked_-space-y-reverse-px:checked > * { margin-top: -1px; }
+.checked_bg-unity-50:checked  { background-color: #ededed; }
+.checked_bg-unity-100:checked  { background-color: #d9d9d9; }
+.checked_bg-unity-200:checked  { background-color: #e2e8f0; }
+.checked_bg-unity-300:checked  { background-color: #999999; }
+.checked_bg-unity-400:checked  { background-color: #7e7e7e; }
+.checked_bg-unity-500:checked  { background-color: #5f5f5f; }
+.checked_bg-unity-600:checked  { background-color: #4d4d4d; }
+.checked_bg-unity-700:checked  { background-color: #4d4d4d; }
+.checked_bg-unity-800:checked  { background-color: #3f3f3f; }
+.checked_bg-unity-900:checked  { background-color: #282828; }
+.checked_bg-unity-950:checked  { background-color: #181a1a; }
 .checked_bg-slate-50:checked  { background-color: #f8fafc; }
 .checked_bg-slate-100:checked  { background-color: #f1f5f9; }
 .checked_bg-slate-200:checked  { background-color: #e2e8f0; }
@@ -2418,6 +2429,17 @@
 .checked_border-l-2:checked  { border-left-width: 2px; }
 .checked_border-l-4:checked  { border-left-width: 4px; }
 .checked_border-l-8:checked  { border-left-width: 8px; }
+.checked_border-unity-50:checked  { border-color: #ededed; }
+.checked_border-unity-100:checked  { border-color: #d9d9d9; }
+.checked_border-unity-200:checked  { border-color: #e2e8f0; }
+.checked_border-unity-300:checked  { border-color: #999999; }
+.checked_border-unity-400:checked  { border-color: #7e7e7e; }
+.checked_border-unity-500:checked  { border-color: #5f5f5f; }
+.checked_border-unity-600:checked  { border-color: #4d4d4d; }
+.checked_border-unity-700:checked  { border-color: #4d4d4d; }
+.checked_border-unity-800:checked  { border-color: #3f3f3f; }
+.checked_border-unity-900:checked  { border-color: #282828; }
+.checked_border-unity-950:checked  { border-color: #181a1a; }
 .checked_border-slate-50:checked  { border-color: #f8fafc; }
 .checked_border-slate-100:checked  { border-color: #f1f5f9; }
 .checked_border-slate-200:checked  { border-color: #e2e8f0; }
@@ -2727,6 +2749,17 @@
 .checked_self-end:checked  { align-self: flex-end; }
 .checked_self-center:checked  { align-self: center; }
 .checked_self-stretch:checked  { align-self: stretch; }
+.checked_text-unity-50:checked  { color: #ededed; }
+.checked_text-unity-100:checked  { color: #d9d9d9; }
+.checked_text-unity-200:checked  { color: #e2e8f0; }
+.checked_text-unity-300:checked  { color: #999999; }
+.checked_text-unity-400:checked  { color: #7e7e7e; }
+.checked_text-unity-500:checked  { color: #5f5f5f; }
+.checked_text-unity-600:checked  { color: #4d4d4d; }
+.checked_text-unity-700:checked  { color: #4d4d4d; }
+.checked_text-unity-800:checked  { color: #3f3f3f; }
+.checked_text-unity-900:checked  { color: #282828; }
+.checked_text-unity-950:checked  { color: #181a1a; }
 .checked_text-slate-50:checked  { color: #f8fafc; }
 .checked_text-slate-100:checked  { color: #f1f5f9; }
 .checked_text-slate-200:checked  { color: #e2e8f0; }
@@ -2985,5 +3018,9 @@
 .checked_text-7xl:checked  { font-size: 72px; }
 .checked_text-8xl:checked  { font-size: 96px; }
 .checked_text-9xl:checked  { font-size: 128px; }
+.checked_italic:checked  { -unity-font-style: italic; }
+.checked_not-italic:checked  { -unity-font-style: normal; }
+.checked_font-bold:checked  { -unity-font-style: bold; }
+.checked_font-bold-italic:checked  { -unity-font-style: bold-and-italic; }
 .checked_whitespace-normal:checked  { white-space: normal; }
 .checked_whitespace-no-wrap:checked  { white-space: nowrap; }

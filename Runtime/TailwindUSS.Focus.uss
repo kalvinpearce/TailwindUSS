@@ -1628,6 +1628,17 @@
 .focus_-space-y-reverse-80:focus > * { margin-top: -320px; }
 .focus_-space-y-reverse-96:focus > * { margin-top: -384px; }
 .focus_-space-y-reverse-px:focus > * { margin-top: -1px; }
+.focus_bg-unity-50:focus  { background-color: #ededed; }
+.focus_bg-unity-100:focus  { background-color: #d9d9d9; }
+.focus_bg-unity-200:focus  { background-color: #e2e8f0; }
+.focus_bg-unity-300:focus  { background-color: #999999; }
+.focus_bg-unity-400:focus  { background-color: #7e7e7e; }
+.focus_bg-unity-500:focus  { background-color: #5f5f5f; }
+.focus_bg-unity-600:focus  { background-color: #4d4d4d; }
+.focus_bg-unity-700:focus  { background-color: #4d4d4d; }
+.focus_bg-unity-800:focus  { background-color: #3f3f3f; }
+.focus_bg-unity-900:focus  { background-color: #282828; }
+.focus_bg-unity-950:focus  { background-color: #181a1a; }
 .focus_bg-slate-50:focus  { background-color: #f8fafc; }
 .focus_bg-slate-100:focus  { background-color: #f1f5f9; }
 .focus_bg-slate-200:focus  { background-color: #e2e8f0; }
@@ -2418,6 +2429,17 @@
 .focus_border-l-2:focus  { border-left-width: 2px; }
 .focus_border-l-4:focus  { border-left-width: 4px; }
 .focus_border-l-8:focus  { border-left-width: 8px; }
+.focus_border-unity-50:focus  { border-color: #ededed; }
+.focus_border-unity-100:focus  { border-color: #d9d9d9; }
+.focus_border-unity-200:focus  { border-color: #e2e8f0; }
+.focus_border-unity-300:focus  { border-color: #999999; }
+.focus_border-unity-400:focus  { border-color: #7e7e7e; }
+.focus_border-unity-500:focus  { border-color: #5f5f5f; }
+.focus_border-unity-600:focus  { border-color: #4d4d4d; }
+.focus_border-unity-700:focus  { border-color: #4d4d4d; }
+.focus_border-unity-800:focus  { border-color: #3f3f3f; }
+.focus_border-unity-900:focus  { border-color: #282828; }
+.focus_border-unity-950:focus  { border-color: #181a1a; }
 .focus_border-slate-50:focus  { border-color: #f8fafc; }
 .focus_border-slate-100:focus  { border-color: #f1f5f9; }
 .focus_border-slate-200:focus  { border-color: #e2e8f0; }
@@ -2727,6 +2749,17 @@
 .focus_self-end:focus  { align-self: flex-end; }
 .focus_self-center:focus  { align-self: center; }
 .focus_self-stretch:focus  { align-self: stretch; }
+.focus_text-unity-50:focus  { color: #ededed; }
+.focus_text-unity-100:focus  { color: #d9d9d9; }
+.focus_text-unity-200:focus  { color: #e2e8f0; }
+.focus_text-unity-300:focus  { color: #999999; }
+.focus_text-unity-400:focus  { color: #7e7e7e; }
+.focus_text-unity-500:focus  { color: #5f5f5f; }
+.focus_text-unity-600:focus  { color: #4d4d4d; }
+.focus_text-unity-700:focus  { color: #4d4d4d; }
+.focus_text-unity-800:focus  { color: #3f3f3f; }
+.focus_text-unity-900:focus  { color: #282828; }
+.focus_text-unity-950:focus  { color: #181a1a; }
 .focus_text-slate-50:focus  { color: #f8fafc; }
 .focus_text-slate-100:focus  { color: #f1f5f9; }
 .focus_text-slate-200:focus  { color: #e2e8f0; }
@@ -2985,5 +3018,9 @@
 .focus_text-7xl:focus  { font-size: 72px; }
 .focus_text-8xl:focus  { font-size: 96px; }
 .focus_text-9xl:focus  { font-size: 128px; }
+.focus_italic:focus  { -unity-font-style: italic; }
+.focus_not-italic:focus  { -unity-font-style: normal; }
+.focus_font-bold:focus  { -unity-font-style: bold; }
+.focus_font-bold-italic:focus  { -unity-font-style: bold-and-italic; }
 .focus_whitespace-normal:focus  { white-space: normal; }
 .focus_whitespace-no-wrap:focus  { white-space: nowrap; }
