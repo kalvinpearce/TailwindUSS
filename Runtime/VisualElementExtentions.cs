@@ -95,7 +95,7 @@ namespace TailwindUSS
         }
 #endif
 
-        public static void Tailwind(this VisualElement self, string classes)
+        public static T Tailwind<T>(this T self, string classes) where T : VisualElement
         {
             var splitClasses = classes.Split(' ');
             foreach (var tailwindClass in splitClasses)
@@ -116,33 +116,33 @@ namespace TailwindUSS
                     }
                 }
 
-#if UNITY_EDITOR
-                // Ensure stylesheet is applied
-                switch (selector)
-                {
-                    case PseudoSelector.None:
-                        self.AddTailwindUSSStylesheet();
-                        break;
-                    case PseudoSelector.Hover:
-                        self.AddTailwindUSSStylesheetHover();
-                        break;
-                    case PseudoSelector.Active:
-                        self.AddTailwindUSSStylesheetActive();
-                        break;
-                    case PseudoSelector.Focus:
-                        self.AddTailwindUSSStylesheetFocus();
-                        break;
-                    case PseudoSelector.Disabled:
-                        self.AddTailwindUSSStylesheetDisabled();
-                        break;
-                    case PseudoSelector.Enabled:
-                        self.AddTailwindUSSStylesheetEnabled();
-                        break;
-                    case PseudoSelector.Checked:
-                        self.AddTailwindUSSStylesheetChecked();
-                        break;
-                }
-#endif
+                /* #if UNITY_EDITOR */
+                /*                 // Ensure stylesheet is applied */
+                /*                 switch (selector) */
+                /*                 { */
+                /*                     case PseudoSelector.None: */
+                /*                         self.AddTailwindUSSStylesheet(); */
+                /*                         break; */
+                /*                     case PseudoSelector.Hover: */
+                /*                         self.AddTailwindUSSStylesheetHover(); */
+                /*                         break; */
+                /*                     case PseudoSelector.Active: */
+                /*                         self.AddTailwindUSSStylesheetActive(); */
+                /*                         break; */
+                /*                     case PseudoSelector.Focus: */
+                /*                         self.AddTailwindUSSStylesheetFocus(); */
+                /*                         break; */
+                /*                     case PseudoSelector.Disabled: */
+                /*                         self.AddTailwindUSSStylesheetDisabled(); */
+                /*                         break; */
+                /*                     case PseudoSelector.Enabled: */
+                /*                         self.AddTailwindUSSStylesheetEnabled(); */
+                /*                         break; */
+                /*                     case PseudoSelector.Checked: */
+                /*                         self.AddTailwindUSSStylesheetChecked(); */
+                /*                         break; */
+                /*                 } */
+                /* #endif */
 
                 // Add class
                 switch (selector)
@@ -170,6 +170,8 @@ namespace TailwindUSS
                         break;
                 }
             }
+
+            return self;
         }
 
         private enum PseudoSelector
