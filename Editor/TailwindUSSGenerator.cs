@@ -85,6 +85,7 @@ namespace TailwindUSS
             /* === Typography ===*/
             allProps.AddRange(GetColors("text", "color"));
             allProps.AddRange(GetFontSizeProps());
+            allProps.AddRange(GetFontStyleProps());
             allProps.AddRange(GetTextWhiteSpaceProps());
 
             void WriteClassesToFile(string fileName, string pseudo = "")
