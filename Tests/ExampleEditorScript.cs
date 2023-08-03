@@ -13,6 +13,7 @@ public class ExampleEditorScript : EditorWindow
     public void CreateGUI()
     {
         VisualElement root = rootVisualElement;
+        root.AddTailwindUSSStylesheet();
 
         VisualElement label = new Label("Hello World! From TailwindUSS");
         label.Tailwind("text-2xl text-red-500 m-4 transition-all hover:text-blue-500");
